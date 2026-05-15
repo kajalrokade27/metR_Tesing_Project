@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="_Numd21e2950" xml:lang="en-us">
+  <title>Tyre Warning</title>
+  <shortdesc>A tyre can be broken down due to overheating, if operated for a prolonged period</shortdesc>
+  <prolog>
+    <metadata>
+      <keywords>
+        <keyword>Tyre</keyword>
+        <keyword>check</keyword>
+        <keyword>Warning</keyword>
+        <keyword>pressure</keyword>
+        <keyword>prolonged</keyword>
+        <keyword>period</keyword>
+        <indexterm>Tyre</indexterm>
+        <indexterm>check</indexterm>
+        <indexterm>Warning</indexterm>
+        <indexterm>result</indexterm>
+      </keywords>
+      <prodinfo>
+        <prodname></prodname>
+      </prodinfo>
+    </metadata>
+  </prolog>
+  <conbody><note type="note">
+        <b>Warning:</b>
+      </note>
+    <ol>
+    <li><p><b>Don't drive for a prolonged period of time continuously.</b></p>
+      <p>
+            <b>A tyre can be broken down due to overheating, if operated for a prolonged period of time and moved to a long distance. Therefore, make sure to have a break more than 10 minutes every hour to cool down the tyre temperature.</b>
+          </p></li>
+    <li><p><b>Wheel nut check</b></p>
+      <p>
+            <b>Wheel slip may occur due to an additional gap while the wheel is secured after the vehicle is shipped out or the tyre is replaced.</b>
+          </p>
+          <p>Please check torques of wheel nuts for at least three days, and tighten up more if torques is not sufficient.</p></li>
+    <li><b>Tyre pressure check</b></li>
+    </ol>
+    <section>
+      <title>Result</title>
+      <p>
+        <b>Tyre pressure lower than the specification can cause early abrasion or break-down. Please check tyre pressure before work and pump air into a tyre, if tyre press is low.</b>
+      </p>
+    </section></conbody>
+</concept>

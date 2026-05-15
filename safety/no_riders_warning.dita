@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="_Numd21e2587" xml:lang="en-us">
+  <title>No Riders Warning</title>
+  <shortdesc>Located on the operator's cell.</shortdesc>
+  <prolog>
+    <metadata>
+      <keywords>
+        <keyword>Riders</keyword>
+        <keyword>Warning</keyword>
+        <keyword>riders</keyword>
+        <keyword>operator</keyword>
+        <keyword>avoid</keyword>
+        <keyword>personal</keyword>
+        <indexterm>Riders</indexterm>
+        <indexterm>Warning</indexterm>
+        <indexterm>riders</indexterm>
+      </keywords>
+      <prodinfo>
+        <prodname></prodname>
+      </prodinfo>
+    </metadata>
+  </prolog>
+  <conbody>
+    <note type="warning">To avoid personal injury, allow no riders. A lift truck is designed for only one operator and no riders.</note>
+    <p>
+      <fig>
+        <image href="../media/image197.png"/>
+      </fig>
+    </p>
+    <p>Located on the operator's cell.</p>
+  </conbody>
+</concept>

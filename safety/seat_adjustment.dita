@@ -1,0 +1,68 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="_Numd21e6015" xml:lang="en-us">
+  <title>Seat Adjustment</title>
+  <shortdesc>Move the lever, slide the seat to the desired position, and release the lever.</shortdesc>
+  <prolog>
+    <metadata>
+      <keywords>
+        <keyword>lever</keyword>
+        <keyword>truck</keyword>
+        <keyword>adjust</keyword>
+        <keyword>height</keyword>
+        <keyword>Seat</keyword>
+        <keyword>Adjustment</keyword>
+        <indexterm>lever</indexterm>
+        <indexterm>truck</indexterm>
+        <indexterm>adjust</indexterm>
+      </keywords>
+      <prodinfo>
+        <prodname></prodname>
+      </prodinfo>
+    </metadata>
+  </prolog>
+  <conbody>
+    <p>
+      <fig>
+        <image href="../media/image37.png"/>
+      </fig>
+    </p>
+    <p>
+      <fig>
+        <image href="../media/image26.png"/>
+      </fig>
+    </p>
+    <p>Move the lever, slide the seat to the desired position, and release the lever.</p>
+    <p>Adjust the seat before operating the lift truck. After adjusting, set the seat to make sure it is properly locked. DO NOT adjust the seat while the truck is in motion.</p>
+    <note type="warning">Do NOT put your hand under the seat. It could cause a serious injury by the seat fluctuation</note>
+    <note type="notice">Before getting on the truck, adjust the force of the suspension using the grip in the front of the seat.</note>
+    <p>
+      <fig>
+        <image href="../media/image40.png"/>
+      </fig>
+    </p>
+    <note type="warning">In case of folding or unfolding the backrest of seat, watch out your finger.</note>
+    <p>The finger could be pinched between the side bracket and the backrest.</p>
+    <p>
+      <fig>
+        <image href="../media/image28.png"/>
+      </fig>
+    </p>
+    <p>
+      <fig>
+        <image href="../media/image29.png"/>
+      </fig>
+    </p>
+    <p>Adjust the height of the seat by pulling/pushing the lever up and down. The maximum range of height adjustment is 60 mm in 4 steps (15 mm/step). For fine adjustment, adjust the height while depressing by hand. After adjusting the seat, make sure it is properly locked.</p>
+    <p>
+      <fig>
+        <image href="../media/image30.png"/>
+      </fig>
+    </p>
+    <p>
+      <fig>
+        <image href="../media/image32.png"/>
+      </fig>
+    </p>
+  </conbody>
+</concept>

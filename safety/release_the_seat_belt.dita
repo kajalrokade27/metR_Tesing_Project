@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="_Numd21e6597" xml:lang="en-us">
+  <title>Release the Seat Belt</title>
+  <shortdesc>Push the button of the buckle to release the belt. The belt will automatically retract</shortdesc>
+  <prolog>
+    <metadata>
+      <keywords>
+        <keyword>Release</keyword>
+        <keyword>Seat</keyword>
+        <keyword>Belt</keyword>
+        <keyword>retract</keyword>
+        <keyword>Push</keyword>
+        <keyword>button</keyword>
+        <indexterm>Release</indexterm>
+        <indexterm>Seat</indexterm>
+        <indexterm>Belt</indexterm>
+      </keywords>
+      <prodinfo>
+        <prodname></prodname>
+      </prodinfo>
+    </metadata>
+  </prolog>
+  <body>
+    <p>
+      <fig>
+        <image href="../media/image38.png"/>
+      </fig>
+    </p>
+    <p>Push the button of the buckle to release the belt. The belt will automatically retract when released. Hold the plate of the belt and allow the belt to slowly retract.</p>
+  </body>
+</topic>

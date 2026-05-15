@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="_Numd21e6459" xml:lang="en-us">
+  <title>Fasten the Seat Belt</title>
+  <shortdesc>Grip the plate (connector) of the belt and pull the belt from the retractor.</shortdesc>
+  <prolog>
+    <metadata>
+      <keywords>
+        <keyword>across</keyword>
+        <keyword>abdomen</keyword>
+        <keyword>Fasten</keyword>
+        <keyword>Seat</keyword>
+        <keyword>Belt</keyword>
+        <keyword>plate</keyword>
+        <indexterm>across</indexterm>
+        <indexterm>abdomen</indexterm>
+        <indexterm>Fasten</indexterm>
+        <indexterm>result</indexterm>
+      </keywords>
+      <prodinfo>
+        <prodname></prodname>
+      </prodinfo>
+    </metadata>
+  </prolog>
+  <conbody><info>
+        <fig>
+          <image href="../media/image36.png"/>
+        </fig>
+      </info>
+    <ol>
+    <li>Grip the plate (connector) of the belt and pull the belt from the retractor. Then insert the plate into the slot of the buckle until a snap is heard. Pull on the belt to confirm it is latched.</li>
+    <li><p>Make sure the belt is not twisted.</p>
+      <note type="warning">If you fasten the belt across your abdomen, the belt may injure your abdomen in an accident.</note></li>
+    <li>Be sure to fasten the belt across your hips, not across your abdomen.</li>
+    </ol>
+    <section>
+      <title>Result</title>
+      <note type="note">The belt is designed to automatically adjust to your size and movement. A quick pull on the belt will confirm that the automatic adjuster will hold the belt position in the event of an accident.</note>
+    </section></conbody>
+</concept>

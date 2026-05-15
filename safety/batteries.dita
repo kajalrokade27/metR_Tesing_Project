@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="_Numd21e5099" xml:lang="en-us">
+  <title>Batteries</title>
+  <shortdesc>give off flammable fumes which can explode.</shortdesc>
+  <prolog>
+    <metadata>
+      <keywords>
+        <keyword>Batteries</keyword>
+        <keyword>flammable</keyword>
+        <keyword>fumes</keyword>
+        <keyword>which</keyword>
+        <keyword>explode</keyword>
+        <keyword>smoke</keyword>
+        <indexterm>Batteries</indexterm>
+        <indexterm>flammable</indexterm>
+        <indexterm>fumes</indexterm>
+      </keywords>
+      <prodinfo>
+        <prodname></prodname>
+      </prodinfo>
+    </metadata>
+  </prolog>
+  <conbody>
+    <p>Batteries give off flammable fumes which can explode.</p>
+    <p>Do not smoke when observing the battery electrolyte levels.</p>
+    <p>Electrolyte is an acid and can cause personal injury if it contacts skin or eyes.</p>
+    <p>Always wear protective glasses when working with batteries.</p>
+  </conbody>
+</concept>

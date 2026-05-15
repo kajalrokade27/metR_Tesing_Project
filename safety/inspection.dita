@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="_Numd21e6290" xml:lang="en-us">
+  <title>Inspection</title>
+  <shortdesc>If the seat belt is torn, if pulling motion is interrupted during extension of the</shortdesc>
+  <prolog>
+    <metadata>
+      <keywords>
+        <keyword>Check</keyword>
+        <keyword>Time</keyword>
+        <keyword>operator</keyword>
+        <keyword>restraint</keyword>
+        <keyword>system</keyword>
+        <keyword>replaced</keyword>
+        <indexterm>Check</indexterm>
+        <indexterm>Time</indexterm>
+        <indexterm>operator</indexterm>
+        <indexterm>result</indexterm>
+      </keywords>
+      <prodinfo>
+        <prodname></prodname>
+      </prodinfo>
+    </metadata>
+  </prolog>
+  <conbody><info>
+        <fig>
+          <image href="../media/image46.png"/>
+        </fig>
+      </info>
+    <ol>
+    <li><p>If the seat belt is torn, if pulling motion is interrupted during extension of the belt, or if the belt cannot be inserted into the buckle properly, replace the seat belt assembly.</p>
+      <fig>
+            <image href="../media/image34.png"/>
+          </fig></li>
+    <li><p>Belt Maintenance – Every 500 service hours. Check that the belt fastening works properly and that winding device is free from run lock when jerked. Check that the belt is suitably fastened to the seat. Check that the seat is correctly secured to the hood and the chassis. On visual inspection, fastenings must be intact, otherwise, contact the safety manager.</p>
+      <note type="warning">Your Time truck comes equipped with a Time operator restraint system. Should it become necessary to replace the seat for any reason, it should only be replaced with another Time operator restraint system.</note>
+          <fig>
+            <image href="../media/image35.png"/>
+          </fig></li>
+    <li>In the event of a tipover, the seat and restraint system should be inspected for damage and replaced, if necessary.</li>
+    </ol>
+    <section>
+      <title>Result</title>
+      <note type="note">Operator restraints shall be examined at the regular truck service intervals. It is recommended that they be replaced if any of the following conditions are found:</note>
+      <ul id="ul_06281014">
+        <li>Cut or frayed strap</li>
+        <li>Worn or damaged hardware including anchor points</li>
+        <li>Buckle or retractor malfunction</li>
+        <li>Loosen stitching</li>
+      </ul>
+      <note type="note">The seat belt may cause the operator to bend at the waist. If you are pregnant or have suffered from some abdominal disease, consult a doctor before you use the seat belt.</note>
+    </section></conbody>
+</concept>

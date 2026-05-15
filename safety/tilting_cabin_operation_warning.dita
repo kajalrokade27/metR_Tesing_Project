@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="_Numd21e2825" xml:lang="en-us">
+  <title>Tilting Cabin Operation Warning</title>
+  <shortdesc>To avoid personal injury, do not put your hands on the side bracket.</shortdesc>
+  <prolog>
+    <metadata>
+      <keywords>
+        <keyword>Tilting</keyword>
+        <keyword>Cabin</keyword>
+        <keyword>Operation</keyword>
+        <keyword>Warning</keyword>
+        <keyword>avoid</keyword>
+        <keyword>tilting</keyword>
+        <indexterm>Tilting</indexterm>
+        <indexterm>Cabin</indexterm>
+        <indexterm>Operation</indexterm>
+      </keywords>
+      <prodinfo>
+        <prodname></prodname>
+      </prodinfo>
+    </metadata>
+  </prolog>
+  <conbody>
+    <note type="warning">To avoid the crash when cabin is tilting, locate truck at wide opening area before tilting operation</note>
+    <p>
+      <fig>
+        <image href="../media/image226.png"/>
+      </fig>
+    </p>
+    <p>To avoid personal injury, do not put your hands on the side bracket.</p>
+    <p>
+      <fig>
+        <image href="../media/image2410.png"/>
+      </fig>
+    </p>
+  </conbody>
+</concept>

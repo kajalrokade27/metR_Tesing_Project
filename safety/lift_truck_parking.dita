@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="_Numd21e4201" xml:lang="en-us">
+  <title>Lift Truck Parking</title>
+  <shortdesc>When leaving the operator station, park the lift truck in authorised areas only. Do not</shortdesc>
+  <prolog>
+    <metadata>
+      <keywords>
+        <keyword>switch</keyword>
+        <keyword>Lift</keyword>
+        <keyword>Truck</keyword>
+        <keyword>Parking</keyword>
+        <keyword>truck</keyword>
+        <keyword>parking</keyword>
+        <indexterm>switch</indexterm>
+        <indexterm>Lift</indexterm>
+        <indexterm>Truck</indexterm>
+      </keywords>
+      <prodinfo>
+        <prodname></prodname>
+      </prodinfo>
+    </metadata>
+  </prolog>
+  <taskbody>  <context>
+    <p>When leaving the operator station, park the lift truck in authorised areas only. Do not block traffic.</p><p>
+      <fig>
+        <image href="../media/image31.png"/>
+      </fig>
+    </p><ul id="ul_06281011">
+      <li>Park the lift truck level, with the forks lowered and the mast tilted forward until the fork tips touch the floor.</li>
+      <li>Move the direction control lever to NEUTRAL.</li>
+      <li>Engage the parking brake.</li>
+      <li>Turn the key switch off and remove the key.</li>
+      <li>Turn the disconnect switch to OFF(if equipped).</li>
+      <li>Do operate the disconnecting switch after 30 seconds from start key-off. Otherwise Engine Control Unit (ECU) can be damaged.</li>
+      <li>Block the drive wheels when parking on an incline.</li>
+    </ul>
+  </context></taskbody>
+</task>

@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="_Numd21e23306" xml:lang="en-us">
+  <title>Forward - Reverse Lever</title>
+  <shortdesc>FORWARD (F) - Push the lever forward. The lift truck will move forward.</shortdesc>
+  <prolog>
+    <metadata>
+      <keywords>
+        <keyword>lever</keyword>
+        <keyword>truck</keyword>
+        <keyword>Forward</keyword>
+        <keyword>Reverse</keyword>
+        <keyword>Lever</keyword>
+        <keyword>forward</keyword>
+        <indexterm>lever</indexterm>
+        <indexterm>truck</indexterm>
+        <indexterm>Forward</indexterm>
+      </keywords>
+      <prodinfo>
+        <prodname></prodname>
+      </prodinfo>
+    </metadata>
+  </prolog>
+  <conbody>
+    <p>FORWARD (F) - Push the lever forward. The lift truck will move forward.</p>
+    <p>NEUTRAL (N) - Move the lever to centre position. The lift truck should not move when lever is in neutral.</p>
+    <p>REVERSE(R) - Pull the lever toward the operator. The lift truck will move in reverse.</p>
+  </conbody>
+</concept>

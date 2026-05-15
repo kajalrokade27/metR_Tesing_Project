@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="_Numd21e24231" xml:lang="en-us">
+  <title>How to fill the hydraulic oil</title>
+  <shortdesc>Remove the hydraulic fill port (screw type).</shortdesc>
+  <prolog>
+    <metadata>
+      <keywords>
+        <keyword>hydraulic</keyword>
+        <keyword>lever</keyword>
+        <keyword>power</keyword>
+        <keyword>Remove</keyword>
+        <keyword>screw</keyword>
+        <keyword>Fill</keyword>
+        <indexterm>hydraulic</indexterm>
+        <indexterm>lever</indexterm>
+        <indexterm>power</indexterm>
+      </keywords>
+      <prodinfo>
+        <prodname></prodname>
+      </prodinfo>
+    </metadata>
+  </prolog>
+  <taskbody>
+    <steps id="steps_062810208">
+      <step>
+        <cmd>Remove the hydraulic fill port (screw type).</cmd>
+      </step>
+      <step>
+        <cmd>Fill the hydraulic oil into the power pack tank.</cmd>
+      </step>
+      <step>
+        <cmd>The oil level point should be positioned in the centre of gauge glass.</cmd>
+        <info>
+          <fig>
+            <image href="../media/image724a.png"/>
+          </fig>
+        </info>
+      </step>
+      <step>
+        <cmd>After turning the button to shifted position, hold the lever located on the bottom.</cmd>
+      </step>
+      <step>
+        <cmd>Put the lever into the power pack hydraulic jack.</cmd>
+      </step>
+      <step>
+        <cmd>Move the lever up and down for manual tilting.</cmd>
+      </step>
+    </steps>
+  </taskbody>
+</task>

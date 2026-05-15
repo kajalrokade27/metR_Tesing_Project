@@ -1,0 +1,67 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="_Numd21e23812" xml:lang="en-us">
+  <title>SCR Cleaning - DeSOx Switch</title>
+  <prolog>
+    <metadata>
+      <keywords>
+        <keyword>Cleaning</keyword>
+        <keyword>position</keyword>
+        <keyword>switch</keyword>
+        <keyword>process</keyword>
+        <keyword>operator</keyword>
+        <keyword>remaining</keyword>
+        <indexterm>Cleaning</indexterm>
+        <indexterm>position</indexterm>
+        <indexterm>switch</indexterm>
+        <indexterm>result</indexterm>
+      </keywords>
+      <prodinfo>
+        <prodname></prodname>
+      </prodinfo>
+    </metadata>
+  </prolog>
+  <conbody><info>
+        <fig>
+          <image href="../media/image713.png"/>
+        </fig>
+      </info>
+      <p>&lt;Option for Overhead Guard&gt;</p>
+      <info>
+        <fig>
+          <image href="../media/image715.png"/>
+        </fig>
+      </info>
+      <p>&lt;Cabin&gt;</p>
+      <p>This switch initiates regular regeneration process of the post-treatment device.</p>
+    <ol>
+    <li><p>A pop-up on the SCR Display warns the operator to perform SCR Cleaning. (3 warnings: at 10 hrs remaining, 5 hrs remaining, Immediate)</p>
+      <fig>
+            <image href="../media/image725.png"/>
+          </fig>
+          <p>&lt;Exemplary warning – 10 hrs remaining&gt;</p>
+          <fig>
+            <image href="../media/image717.png"/>
+          </fig></li>
+    <li><p>Press this switch and release it after 3 sec, SCR Cleaning will be started and the engine speed will be increased. Screen pop-up provides information on the warning up and cleaning process.</p>
+      <fig>
+            <image href="../media/image718.png"/>
+          </fig>
+          <p>&lt;Cleaning process&gt;</p>
+          <fig>
+            <image href="../media/image719.png"/>
+          </fig>
+          <p>&lt;Completed&gt;</p></li>
+    <li>The switch returns to the normal position of "2" after pressed by the operator to position "1". However, it does not return when pressed to position "3" and the operator shall return the switch from position "3".</li>
+    <li>Setting this switch to position "3" prohibits automatic SCR Cleaning in an environment subject to dust, explosion or regulated noise level. Press position "3" for 3s, a pop-up appears as shown below:</li>
+    </ol>
+    <section>
+      <title>Result</title>
+      <info>
+        <fig>
+          <image href="../media/image720.png"/>
+        </fig>
+      </info>
+      <p>&lt;SCR Cleaning inhibited&gt;</p>
+    </section></conbody>
+</concept>

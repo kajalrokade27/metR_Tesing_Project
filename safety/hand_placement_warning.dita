@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="_Numd21e2417" xml:lang="en-us">
+  <title>Hand Placement Warning</title>
+  <shortdesc>Located on the mast.</shortdesc>
+  <prolog>
+    <metadata>
+      <keywords>
+        <keyword>Warning</keyword>
+        <keyword>Located</keyword>
+        <keyword>place</keyword>
+        <keyword>stand</keyword>
+        <keyword>forks</keyword>
+        <keyword>Hand</keyword>
+        <indexterm>Warning</indexterm>
+        <indexterm>Located</indexterm>
+        <indexterm>place</indexterm>
+      </keywords>
+      <prodinfo>
+        <prodname></prodname>
+      </prodinfo>
+    </metadata>
+  </prolog>
+  <conbody>
+    <note type="warning">No hands. Do not place hands in this area. Do not touch, lean on, or reach through the mast or permit others to do so.</note>
+    <p>
+      <fig>
+        <image href="../media/image6.png"/>
+      </fig>
+    </p>
+    <p>Located on the mast.</p>
+    <p>
+      <b>No Standing On Forks Warning, No Standing Under Forks Warning</b>
+    </p>
+    <note type="warning">Do not stand or ride on the forks. Do not stand or ride on a load or pallet on the forks. Do not stand or walk under the forks.</note>
+    <p>
+      <fig>
+        <image href="../media/image7.png"/>
+      </fig>
+    </p>
+    <p>Located on the lift cylinder.</p>
+    <p>
+      <b>Load Backrest Must Be In Place Warning</b>
+    </p>
+    <note type="warning">Operation without this device in place may be hazardous.</note>
+    <p>
+      <fig>
+        <image href="../media/image8.png"/>
+      </fig>
+    </p>
+    <p>Located on the load backrest.</p>
+    <p>
+      <b>Overhead Guard Must Be In Place Warning</b>
+    </p>
+    <note type="warning">Operation without this device in place may be hazardous. This guard conforms to A.N.S.I.B56.1 and F.E.M.Section IV.</note>
+    <p>This design has been tested with an impact of appropriate value.</p>
+    <p>
+      <fig>
+        <image href="../media/image17.png"/>
+      </fig>
+    </p>
+    <p>Located on the Operator’s cell.</p>
+  </conbody>
+</concept>

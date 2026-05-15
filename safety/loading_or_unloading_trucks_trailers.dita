@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="_Numd21e4085" xml:lang="en-us">
+  <title>Loading or Unloading Trucks/Trailers</title>
+  <shortdesc>Do not operate lift trucks on trucks or trailers which are not designed or intended</shortdesc>
+  <prolog>
+    <metadata>
+      <keywords>
+        <keyword>trucks</keyword>
+        <keyword>trailers</keyword>
+        <keyword>certain</keyword>
+        <keyword>trailer</keyword>
+        <keyword>Loading</keyword>
+        <keyword>Unloading</keyword>
+        <indexterm>trucks</indexterm>
+        <indexterm>trailers</indexterm>
+        <indexterm>certain</indexterm>
+      </keywords>
+      <prodinfo>
+        <prodname></prodname>
+      </prodinfo>
+    </metadata>
+  </prolog>
+  <conbody>
+    <p>Do not operate lift trucks on trucks or trailers which are not designed or intended for that purpose. Be certain truck or trailer brakes are applied and wheel chocks in place (or be certain unit is locked to the loading dock) before entering onto trucks or trailers.</p>
+    <p>If trailer is not coupled to tractor, make sure the trailer landing gear is properly secured in place. On some trailers, extra supports may be needed to prevent upending or corner dipping.</p>
+    <p>Be certain dock plates are in good condition and properly placed and secured. Do not exceed the rated capacity of dock boards or bridge plates.</p>
+  </conbody>
+</concept>

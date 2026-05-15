@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="_Numd21e7103" xml:lang="en-us">
+  <title>Lift Truck Stability Base</title>
+  <shortdesc>For the lift truck to be stable (not tip over forward or to the side),</shortdesc>
+  <prolog>
+    <metadata>
+      <keywords>
+        <keyword>truck</keyword>
+        <keyword>stability</keyword>
+        <keyword>forward</keyword>
+        <keyword>Lift</keyword>
+        <keyword>Truck</keyword>
+        <keyword>Stability</keyword>
+        <indexterm>truck</indexterm>
+        <indexterm>stability</indexterm>
+        <indexterm>forward</indexterm>
+      </keywords>
+      <prodinfo>
+        <prodname></prodname>
+      </prodinfo>
+    </metadata>
+  </prolog>
+  <conbody>
+    <p>
+      <fig>
+        <image href="../media/image44.png"/>
+      </fig>
+    </p>
+    <p>For the lift truck to be stable (not tip over forward or to the side), the CG must stay within the area of the lift truck stability base – a triangular area between the front wheels and the pivot of the steer wheels. If the CG moves forward of the front axle, the lift truck will tip forward. If the CG moves outside of the line on either side of the stability base, the lift truck will tip to the side.</p>
+    <note type="warning">Dynamic forces (braking, acceleration, turning) also affect stability and can produce tipover even when the CG is within the stability triangle.</note>
+  </conbody>
+</concept>

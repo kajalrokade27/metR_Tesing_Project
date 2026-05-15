@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="_Numd21e24111" xml:lang="en-us">
+  <title>How to operate the power pack for manual tilting</title>
+  <shortdesc>Overview of How to operate the power pack for manual tilting.</shortdesc>
+  <prolog>
+    <metadata>
+      <keywords>
+        <keyword>operate</keyword>
+        <keyword>power</keyword>
+        <keyword>manual</keyword>
+        <keyword>tilting</keyword>
+        <indexterm>operate</indexterm>
+        <indexterm>power</indexterm>
+        <indexterm>manual</indexterm>
+      </keywords>
+      <prodinfo>
+        <prodname></prodname>
+      </prodinfo>
+    </metadata>
+  </prolog>
+  <conbody><steps-informal>
+      <info>
+        <fig>
+          <image href="../media/image722a.png"/>
+        </fig>
+      </info>
+      <info>
+        <fig>
+          <image href="../media/image723a.png"/>
+        </fig>
+      </info>
+    </steps-informal></conbody>
+</concept>

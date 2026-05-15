@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="_Numd21e6834" xml:lang="en-us">
+  <title>Centre of Gravity (CG)</title>
+  <shortdesc>The point within an object, at which the whole weight of the object may be</shortdesc>
+  <prolog>
+    <metadata>
+      <keywords>
+        <keyword>object</keyword>
+        <keyword>Centre</keyword>
+        <keyword>Gravity</keyword>
+        <keyword>point</keyword>
+        <keyword>centre</keyword>
+        <keyword>uniform</keyword>
+        <indexterm>object</indexterm>
+        <indexterm>Centre</indexterm>
+        <indexterm>Gravity</indexterm>
+      </keywords>
+      <prodinfo>
+        <prodname></prodname>
+      </prodinfo>
+    </metadata>
+  </prolog>
+  <conbody>
+    <p>
+      <fig>
+        <image href="../media/image41.png"/>
+      </fig>
+    </p>
+    <p>The point within an object, at which the whole weight of the object may be regarded as being concentrated, is called the centre of gravity or CG. If the object is uniform, its geometric centre will coincide with its CG. If it is not uniform, the CG could be at a point outside of the object. When the lift truck picks up a load, the truck and load have a new combined CG.</p>
+  </conbody>
+</concept>

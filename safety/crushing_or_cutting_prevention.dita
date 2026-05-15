@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="_Numd21e4604" xml:lang="en-us">
+  <title>Crushing or Cutting Prevention</title>
+  <shortdesc>Support equipment and attachments properly when working beneath them. Do not depend on hydraulic cylinders</shortdesc>
+  <prolog>
+    <metadata>
+      <keywords>
+        <keyword>attachment</keyword>
+        <keyword>moving</keyword>
+        <keyword>Crushing</keyword>
+        <keyword>Cutting</keyword>
+        <keyword>Prevention</keyword>
+        <keyword>hydraulic</keyword>
+        <indexterm>attachment</indexterm>
+        <indexterm>moving</indexterm>
+        <indexterm>Crushing</indexterm>
+      </keywords>
+      <prodinfo>
+        <prodname></prodname>
+      </prodinfo>
+    </metadata>
+  </prolog>
+  <conbody>
+    <p>Support equipment and attachments properly when working beneath them. Do not depend on hydraulic cylinders to hold it up. Any attachment can fall if a control is moved, or if a hydraulic line breaks.</p>
+    <p>Never attempt adjustments while the lift truck is moving or the engine is running unless otherwise specified.</p>
+    <p>Where there are attachment linkages, the clearance in the linkage area will increase or decrease with movement of the attachment.</p>
+    <p>Stay clear of all rotating and moving parts.</p>
+    <p>Keep objects away from moving fan blades. They will throw or cut any object or tool that falls or is pushed into them.</p>
+    <p>Do not use a kinked or frayed wire rope cable. Wear gloves when handling the wire rope cable.</p>
+    <p>Retainer pins, when struck with force, can fly out and injure nearby persons. Make sure the area is clear of people when driving retainer pins.</p>
+    <p>Wear protective glasses when striking a retainer pin to avoid injury to your eyes.</p>
+    <p>Chips or other debris can fly off objects when struck. Make sure no one can be injured by flying debris before striking any object.</p>
+  </conbody>
+</concept>

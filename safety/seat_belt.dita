@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="_Numd21e6178" xml:lang="en-us">
+  <title>Seat Belt</title>
+  <shortdesc>The Operator Restraint System, Prevents the operator from jumping from the operator’s compartment in the</shortdesc>
+  <prolog>
+    <metadata>
+      <keywords>
+        <keyword>operator</keyword>
+        <keyword>Seat</keyword>
+        <keyword>Belt</keyword>
+        <keyword>compartment</keyword>
+        <keyword>event</keyword>
+        <keyword>tipover</keyword>
+        <indexterm>operator</indexterm>
+        <indexterm>Seat</indexterm>
+        <indexterm>Belt</indexterm>
+      </keywords>
+      <prodinfo>
+        <prodname></prodname>
+      </prodinfo>
+    </metadata>
+  </prolog>
+  <conbody>
+    <p>The Operator Restraint System, Prevents the operator from jumping from the operator’s compartment in the event of a forward or side tipover. The system is designed to keep the operator on the seat and in the operator’s compartment in the event of a tipover.</p>
+  </conbody>
+</concept>

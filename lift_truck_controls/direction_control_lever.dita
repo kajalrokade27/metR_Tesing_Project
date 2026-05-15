@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="_Numd21e23189" xml:lang="en-us">
+  <title>Direction Control Lever</title>
+  <shortdesc>Typical Example</shortdesc>
+  <prolog>
+    <metadata>
+      <keywords>
+        <keyword>Direction</keyword>
+        <keyword>Control</keyword>
+        <keyword>Lever</keyword>
+        <keyword>Typical</keyword>
+        <keyword>Example</keyword>
+        <indexterm>Direction</indexterm>
+        <indexterm>Control</indexterm>
+        <indexterm>Lever</indexterm>
+      </keywords>
+      <prodinfo>
+        <prodname></prodname>
+      </prodinfo>
+    </metadata>
+  </prolog>
+  <conbody>
+    <p>
+      <fig>
+        <image href="../media/image710.png"/>
+      </fig>
+    </p>
+    <p>Typical Example</p>
+  </conbody>
+</concept>

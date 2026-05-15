@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="_Numd21e5217" xml:lang="en-us">
+  <title>Fire or Explosion Prevention</title>
+  <shortdesc>All fuels, most lubricants and some coolant mixtures are flammable.</shortdesc>
+  <prolog>
+    <metadata>
+      <keywords>
+        <keyword>flammable</keyword>
+        <keyword>electrical</keyword>
+        <keyword>where</keyword>
+        <keyword>terminal</keyword>
+        <keyword>starter</keyword>
+        <keyword>negative</keyword>
+        <indexterm>flammable</indexterm>
+        <indexterm>electrical</indexterm>
+        <indexterm>where</indexterm>
+      </keywords>
+      <prodinfo>
+        <prodname></prodname>
+      </prodinfo>
+    </metadata>
+  </prolog>
+  <taskbody>  <context>
+    <p>All fuels, most lubricants and some coolant mixtures are flammable.</p><p>Fuel leaked or spilled onto hot surfaces or electrical components can cause a fire.</p><p>Do not smoke while refueling or in a refueling area.</p><p>Do not smoke in areas where batteries are charged, or where flammable materials are stored.</p><p>Batteries in series can be located in separate compartments. When using jumper cables always connect positive(+) cable to positive(+) terminal of battery connected to starter solenoid and negative(-) cable from external source to starter negative(-) terminal.</p><p>(If not equipped with starter negative(-) terminal, connect to engine block.)</p><p>See the Operation Section of this manual for specific starting instructions.</p><p>Clean and tighten all electrical connections. Check daily for loose or frayed electrical wires. Have all loose or frayed electrical wires tightened, repaired or replaced before operating the lift truck.</p><p>Keep all fuels and lubricants stored in properly marked containers and away from all unauthorised persons.</p><p>Store all oily rags or other flammable material in a protective container, in a safe place.</p><p>Do not weld or flame cut on pipes or tubes that contain flammable fluids. Clean them thoroughly with nonflammable solvent before welding or flame cutting on them.</p><p>Do not expose the lift truck to flames, burning brush, etc., if at all possible.</p><p>Shields, which protect hot exhaust components from oil or fuel spray in the event of a line, tube or seal failure, must be installed correctly.</p><p>Do not operate in areas where explosive gases exist or are suspected.</p>
+  </context>
+  <steps id="steps_06282101">
+    <step>
+      <cmd>Remove all flammable materials such as fuel, oil and other debris before they accumulate on the lift truck.</cmd>
+    </step>
+  </steps></taskbody>
+</task>

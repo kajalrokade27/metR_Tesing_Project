@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="_Numd21e7223" xml:lang="en-us">
+  <title>Capacity Load (Weight and Load Centre)</title>
+  <shortdesc>The capacity load of the lift truck is shown on the capacity/nameplate riveted to the</shortdesc>
+  <prolog>
+    <metadata>
+      <keywords>
+        <keyword>capacity</keyword>
+        <keyword>truck</keyword>
+        <keyword>Time</keyword>
+        <keyword>Load</keyword>
+        <keyword>nameplate</keyword>
+        <keyword>centre</keyword>
+        <indexterm>capacity</indexterm>
+        <indexterm>truck</indexterm>
+        <indexterm>Time</indexterm>
+      </keywords>
+      <prodinfo>
+        <prodname></prodname>
+      </prodinfo>
+    </metadata>
+  </prolog>
+  <conbody><info>
+        <fig>
+          <image href="../media/image45.png"/>
+        </fig>
+      </info>
+      <p>The capacity load of the lift truck is shown on the capacity/nameplate riveted to the truck. It is determined by the weight and load centre. The load centre is determined by the location of the CG of the load.</p>
+      <p>The load centre shown on the nameplate is the horizontal distance from the front face of the forks, or the load face of an attachment, to the CG of the load. The location of the CG in the vertical direction is the same as the horizontal dimension.</p>
+      <p>Remember that, unless otherwise indicated, the capacity load shown on the nameplate is for a standard lift truck with standard backrest, forks and mast, and having no special-purpose attachment. In addition, the capacity load assumes that the load centre is no further from the top of the forks than it is from the face of the backrest. If these conditions do not exist, the operator may have to reduce the safe operating load because the truck stability may be reduced. The lift truck should not be operated if its capacity/nameplate does not indicate capacity load.</p>
+      <note type="note">If the load is not uniform, the heaviest portion should be placed closer to the backrest and centreed on the forks.</note>
+      <note type="note">
+        <b>Notice:</b>
+      </note>
+    <ol>
+    <li>Capacity/Nameplates originally attached to forklifts sold by Time shall not be removed, altered or replaced without Time’s approval.</li>
+    <li>Time assumes no responsibility for lift trucks placed in service without a valid Time Nameplate.</li>
+    <li>If necessary to change your specification, contact your Time lift truck branch.</li>
+    </ol></conbody>
+</concept>

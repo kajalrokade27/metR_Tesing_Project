@@ -1,0 +1,70 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="_Numd21e24544" xml:lang="en-us">
+  <title>DEF/Ad-Blue Replenishment</title>
+  <shortdesc>Typical Example</shortdesc>
+  <prolog>
+    <metadata>
+      <keywords>
+        <keyword>Blue</keyword>
+        <keyword>fluid</keyword>
+        <keyword>could</keyword>
+        <keyword>Replenishment</keyword>
+        <keyword>truck</keyword>
+        <keyword>Tank</keyword>
+        <indexterm>Blue</indexterm>
+        <indexterm>fluid</indexterm>
+        <indexterm>could</indexterm>
+      </keywords>
+      <prodinfo>
+        <prodname></prodname>
+      </prodinfo>
+    </metadata>
+  </prolog>
+  <taskbody>
+    <context>
+      <note type="notice">Do not allow the lift truck to become low on DEF(Ad-Blue) or completely run out of /DEF (Ad-Blue).</note>
+    </context>
+    <steps id="steps_062810213">
+      <step>
+        <cmd>Sediment or other impurities in the DEF(Ad-Blue) Tank could be drawn into the after treatment.</cmd>
+      </step>
+      <step>
+        <cmd>This could result in damage to components.</cmd>
+      </step>
+      <step>
+        <cmd>Do not fill the DEF(Ad-Blue)tank to the top.</cmd>
+      </step>
+      <step>
+        <cmd>DEF(Ad-Blue) Tank could be damaged because of volume expansion during DEF(Ad-blue) freezing in cold condition.</cmd>
+        <info>
+          <fig>
+            <image href="../media/image740.png"/>
+          </fig>
+          <p>Typical Example</p>
+        </info>
+      </step>
+      <step>
+        <cmd>Park the lift truck only at a designated safe location. Place the transmission in Neutral. Lower the forks on the ground. Apply the parking brake. Stop the engine.</cmd>
+      </step>
+      <step>
+        <cmd>Using the start key, open the urea fluid tank door beside the frame. Open the blue urea fluid tank filler cap.</cmd>
+        <info>
+          <fig>
+            <image href="../media/image742.png"/>
+          </fig>
+          <p>Typical Example</p>
+        </info>
+      </step>
+      <step>
+        <cmd>Fill the fuel tank slowly. Refer to the section on ‘Fuel and Urea fluid Refill Volume.”</cmd>
+      </step>
+      <step>
+        <cmd>After the refill, close the urea fluid tank cap firmly. Remove spilt urea fluid, if any, with an adsorbent.</cmd>
+      </step>
+    </steps>
+    <result>
+      <note type="caution">LOW DEF/Ad-Blue LEVEL WILL DISTURB AFTER TREATMENT FOR TIER-4 EXHAUST GAS EMISSION, AND CAB BE CAUSE OF SERIOUS DAMAGE TO ENGINE AND SYSTEM.</note>
+    </result>
+  </taskbody>
+</task>

@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="_Numd21e4732" xml:lang="en-us">
+  <title>Falling Objects Protective Structure (FOPS)</title>
+  <shortdesc>This is an attached guard located above the operator's compartment and secured to the lift</shortdesc>
+  <prolog>
+    <metadata>
+      <keywords>
+        <keyword>FOPS</keyword>
+        <keyword>guard</keyword>
+        <keyword>Time</keyword>
+        <keyword>overhead</keyword>
+        <keyword>Falling</keyword>
+        <keyword>Objects</keyword>
+        <indexterm>FOPS</indexterm>
+        <indexterm>guard</indexterm>
+        <indexterm>Time</indexterm>
+      </keywords>
+      <prodinfo>
+        <prodname></prodname>
+      </prodinfo>
+    </metadata>
+  </prolog>
+  <conbody>
+    <p>This is an attached guard located above the operator's compartment and secured to the lift truck.</p>
+    <p>To avoid possible weakening of the Falling Objects Protective Structure (FOPS), consult a Time branch before altering, by adding weight to, welding on, or cutting or drilling holes into the structure.</p>
+    <p>The overhead guard is not intended to protect against every possible impact. The overhead guard may not protect against some objects penetrating into the operator's station from the sides or ends of the lift truck.</p>
+    <p>The lift truck is equipped with an overhead guard and FOPS as standard. If there is a possibility of overhead objects falling through the guard, the guard must be equipped with smaller holes or a Plexiglas cover.</p>
+    <p>Any altering done that is not specifically authorised by Time invalidates Time's FOPS certification. The protection offered by this FOPS will be impaired if it has been subjected to structural damage. Structural damage can be caused by an overturn accident, by falling objects, etc.</p>
+    <p>Do not mount any item such as fire extinguishers, first aid kits and lights by welding brackets to or drilling holes in any FOPS structure. See your Time branch for mounting guidelines.</p>
+  </conbody>
+</concept>

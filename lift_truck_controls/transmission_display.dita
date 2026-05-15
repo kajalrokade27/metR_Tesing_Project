@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="_Numd21e23659" xml:lang="en-us">
+  <title>Transmission Display</title>
+  <shortdesc>A transmission display is to the right of the steering wheel on the dash. The</shortdesc>
+  <prolog>
+    <metadata>
+      <keywords>
+        <keyword>codes</keyword>
+        <keyword>transmission</keyword>
+        <keyword>error</keyword>
+        <keyword>Indicates</keyword>
+        <keyword>Transmission</keyword>
+        <keyword>direction</keyword>
+        <indexterm>codes</indexterm>
+        <indexterm>transmission</indexterm>
+        <indexterm>error</indexterm>
+        <indexterm>result</indexterm>
+      </keywords>
+      <prodinfo>
+        <prodname></prodname>
+      </prodinfo>
+    </metadata>
+  </prolog>
+  <conbody><p>A transmission display is to the right of the steering wheel on the dash. The LCD indicates gears, direction of travel and error codes.</p>
+      <info>
+        <fig>
+          <image href="../media/image711.png"/>
+        </fig>
+      </info>
+    <ol>
+    <li>A Indicates travel direction and gear selection. See the figure below for more detailed information.</li>
+    <li><p>B Indicates normal operation and error codes. For a list of error codes, see “Transmission Error Codes” in “When Required” maintenance section.</p>
+      <ul id="ul_062810202">
+            <li>
+              <b>Note:</b>Most codes are only two digits.</li>
+          </ul></li>
+    <li>C Indicates that error codes have occurred and are stored.</li>
+    <li>D Indicates that operation must be stopped immediately to prevent damage to transmission and hazardous operation condition.</li>
+    </ol>
+    <section>
+      <title>Result</title>
+      <info>
+        <fig>
+          <image href="../media/image712a.png"/>
+        </fig>
+      </info>
+      <p>The gear range indicator bars will indicate which gear is selected by displaying the corresponding number of bars.</p>
+      <p>The forward and reverse indicator bars will be “OFF” when the transmission is in “MANUAL MODE”. When transmission is in “AUTOMATIC MODE”, all the gear range indicator bars and both travel direction indicators will be “ON”.</p>
+    </section></conbody>
+</concept>

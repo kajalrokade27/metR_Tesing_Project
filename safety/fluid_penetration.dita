@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="_Numd21e4492" xml:lang="en-us">
+  <title>Fluid Penetration</title>
+  <shortdesc>Always use a board or cardboard when checking for a leak. Escaping fluid under pressure,</shortdesc>
+  <prolog>
+    <metadata>
+      <keywords>
+        <keyword>Fluid</keyword>
+        <keyword>Penetration</keyword>
+        <keyword>fluid</keyword>
+        <keyword>injury</keyword>
+        <keyword>Always</keyword>
+        <keyword>board</keyword>
+        <indexterm>Fluid</indexterm>
+        <indexterm>Penetration</indexterm>
+        <indexterm>fluid</indexterm>
+      </keywords>
+      <prodinfo>
+        <prodname></prodname>
+      </prodinfo>
+    </metadata>
+  </prolog>
+  <conbody>
+    <p>Always use a board or cardboard when checking for a leak. Escaping fluid under pressure, even a pin- hole size leak, can penetrate body tissue, causing serious injury, and possible death. If fluid is injected into your skin, it must be treated by a doctor familiar with this type of injury immediately.</p>
+  </conbody>
+</concept>

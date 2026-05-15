@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="_Numd21e23422" xml:lang="en-us">
+  <title>Speed Selection</title>
+  <shortdesc>Rotating the direction control lever changes the speed of travel. With handle rotated counter (D)</shortdesc>
+  <prolog>
+    <metadata>
+      <keywords>
+        <keyword>lever</keyword>
+        <keyword>Speed</keyword>
+        <keyword>Selection</keyword>
+        <keyword>speed</keyword>
+        <keyword>clockwise</keyword>
+        <keyword>operator</keyword>
+        <indexterm>lever</indexterm>
+        <indexterm>Speed</indexterm>
+        <indexterm>Selection</indexterm>
+      </keywords>
+      <prodinfo>
+        <prodname></prodname>
+      </prodinfo>
+    </metadata>
+  </prolog>
+  <conbody>
+    <p>Rotating the direction control lever changes the speed of travel. With handle rotated counter (D) clockwise(towards the operator), the lift truck is in FIRST speed.</p>
+    <p>Rotate the lever clockwise(away from the operator) for the SECOND and THIRD speeds. Do not fail to place the forward-reverse lever in the neutral position before starting the engine.</p>
+  </conbody>
+</concept>

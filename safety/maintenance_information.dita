@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="_Numd21e4349" xml:lang="en-us">
+  <title>Maintenance Information</title>
+  <shortdesc>Perform all maintenance unless otherwise specified as follows:</shortdesc>
+  <prolog>
+    <metadata>
+      <keywords>
+        <keyword>Maintenance</keyword>
+        <keyword>Information</keyword>
+        <keyword>Park</keyword>
+        <keyword>truck</keyword>
+        <keyword>parking</keyword>
+        <keyword>switch</keyword>
+        <indexterm>Maintenance</indexterm>
+        <indexterm>Information</indexterm>
+        <indexterm>Park</indexterm>
+      </keywords>
+      <prodinfo>
+        <prodname></prodname>
+      </prodinfo>
+    </metadata>
+  </prolog>
+  <taskbody>  <context>
+    <p>Perform all maintenance unless otherwise specified as follows:</p><ul id="ul_06281012">
+      <li>Park the lift truck in authorised areas only.</li>
+      <li>Park the lift truck level, with the forks lowered and the mast tilted forward until the fork tips touch the floor.</li>
+      <li>Place the transmission controls in neutral.</li>
+      <li>Engage the parking brake.</li>
+      <li>Stop the engine.</li>
+      <li>Remove the start switch key and turn the disconnect switch OFF (if equipped).</li>
+      <li>Block the drive wheels when parking on an incline.</li>
+    </ul>
+  </context></taskbody>
+</task>

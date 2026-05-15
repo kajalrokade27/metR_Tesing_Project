@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="_Numd21e3769" xml:lang="en-us">
+  <title>Before Operating the Lift Truck</title>
+  <shortdesc>Test brakes, steering controls, horn and other devices for proper operation. Report faulty performance. Do</shortdesc>
+  <prolog>
+    <metadata>
+      <keywords>
+        <keyword>truck</keyword>
+        <keyword>Before</keyword>
+        <keyword>Operating</keyword>
+        <keyword>Lift</keyword>
+        <keyword>Truck</keyword>
+        <keyword>devices</keyword>
+        <indexterm>truck</indexterm>
+        <indexterm>Before</indexterm>
+        <indexterm>Operating</indexterm>
+      </keywords>
+      <prodinfo>
+        <prodname></prodname>
+      </prodinfo>
+    </metadata>
+  </prolog>
+  <taskbody>  <context>
+    <p>Learn how your lift truck operates. Know its safety devices. Know how the attachments work. Before moving the lift truck, look around. Start, turn and brake smoothly.</p><p>An operator must constantly observe his lift truck for proper operation.</p>
+  </context>
+  <steps id="steps_062820">
+    <step>
+      <cmd>Test brakes, steering controls, horn and other devices for proper operation. Report faulty performance. Do not operate lift truck until repaired.</cmd>
+      <info><note type="note">IF TIER &amp; STAGE CERTIFIED ENGINE equipped, always run the engine at low idle for 5 minutes after starting on, and 5 minutes before key off to prevent from damage of turbo charger.</note></info>
+    </step>
+  </steps></taskbody>
+</task>

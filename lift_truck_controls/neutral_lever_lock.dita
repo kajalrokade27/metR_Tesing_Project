@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="_Numd21e23536" xml:lang="en-us">
+  <title>Neutral Lever Lock</title>
+  <shortdesc>A transmission neutral lever lock is in base of the direction control lever. This neutral</shortdesc>
+  <prolog>
+    <metadata>
+      <keywords>
+        <keyword>lever</keyword>
+        <keyword>direction</keyword>
+        <keyword>control</keyword>
+        <keyword>NEUTRAL</keyword>
+        <keyword>moved</keyword>
+        <keyword>LOCK</keyword>
+        <indexterm>lever</indexterm>
+        <indexterm>direction</indexterm>
+        <indexterm>control</indexterm>
+      </keywords>
+      <prodinfo>
+        <prodname></prodname>
+      </prodinfo>
+    </metadata>
+  </prolog>
+  <conbody>
+    <p>A transmission neutral lever lock is in base of the direction control lever. This neutral lever lock prevents the direction control lever from being moved out of “NEUTRL”.</p>
+    <p>N “NEUTRAL LOCK” position.</p>
+    <p>Prevents the direction control lever to be moved out of “NEUTRAL”.</p>
+    <p>D “DRIVE” position.</p>
+    <p>Allows the direction control lever to be moved from “NEUTRAL” to “FORWARD and REVERSE”.</p>
+    <note type="warning">“LOCK” the direction control lever. Whenever machine is parked, “LOCK” the direction control lever in “NEUTRAL” to prevent accidental machine movement.</note>
+  </conbody>
+</concept>

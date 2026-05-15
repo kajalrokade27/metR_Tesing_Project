@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="_Numd21e4979" xml:lang="en-us">
+  <title>Oils</title>
+  <shortdesc>Hot oil and components can cause personal injury. Do not allow hot oil or components</shortdesc>
+  <prolog>
+    <metadata>
+      <keywords>
+        <keyword>hydraulic</keyword>
+        <keyword>pressure</keyword>
+        <keyword>filler</keyword>
+        <keyword>Oils</keyword>
+        <keyword>components</keyword>
+        <keyword>Remove</keyword>
+        <indexterm>hydraulic</indexterm>
+        <indexterm>pressure</indexterm>
+        <indexterm>filler</indexterm>
+      </keywords>
+      <prodinfo>
+        <prodname></prodname>
+      </prodinfo>
+    </metadata>
+  </prolog>
+  <taskbody>  <context>
+    <p>Hot oil and components can cause personal injury. Do not allow hot oil or components to contact the skin.</p><p>At operation temperature, the hydraulic tank is hot and can be under pressure.</p><p>Relieve all pressure in air, oil fuel or cooling systems before any lines, fittings or related items are disconnected or removed.</p>
+  </context>
+  <steps id="steps_062822">
+    <step>
+      <cmd>Remove the hydraulic tank filler cap only after the engine has been stopped and the filler cap is cool enough to remove with your bare hand.</cmd>
+    </step>
+    <step>
+      <cmd>Remove the hydraulic tank filler cap slowly to relieve pressure.</cmd>
+    </step>
+  </steps></taskbody>
+</task>

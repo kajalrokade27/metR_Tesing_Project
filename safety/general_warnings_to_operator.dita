@@ -1,0 +1,137 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="_Numd21e2031" xml:lang="en-us">
+  <title>General Warnings to Operator</title>
+  <shortdesc>Located on the operator's cell.</shortdesc>
+  <prolog>
+    <metadata>
+      <keywords>
+        <keyword>machine</keyword>
+        <keyword>machines</keyword>
+        <keyword>operation</keyword>
+        <keyword>handling</keyword>
+        <keyword>brake</keyword>
+        <keyword>surfaces</keyword>
+        <indexterm>machine</indexterm>
+        <indexterm>machines</indexterm>
+        <indexterm>operation</indexterm>
+      </keywords>
+      <prodinfo>
+        <prodname></prodname>
+      </prodinfo>
+    </metadata>
+  </prolog>
+  <taskbody>
+    <context>
+      <info>
+        <fig>
+          <image href="../media/image4.png"/>
+        </fig>
+      </info>
+      <p>Located on the operator's cell.</p>
+      <note type="warning">Only trained and authorised personnel may operate this machine. For safe operation, read and follow the operation and maintenance Manual furnished with this lift truck and observe the following warnings:</note>
+    </context>
+    <steps id="steps_062810">
+      <step>
+        <cmd>
+          <b>Before starting machine. Check all controls and warning devices for proper operation.</b>
+        </cmd>
+      </step>
+      <step>
+        <cmd>
+          <b>Refer to machine identification plate for allowable machine capacity. Do not overload. Operate machines equipped with attachments as partially loaded machines when not handling a load.</b>
+        </cmd>
+      </step>
+      <step>
+        <cmd>
+          <b>Put directional control or shift lever in neutral before “ON-OFF” switch is turned on.</b>
+        </cmd>
+      </step>
+      <step>
+        <cmd>
+          <b>Start, turn and brake smoothly. Slow down for turns, slippery or uneven surfaces. Extremely poor surfaces should be repaired. Avoid running over loose objects or holes in the roadway surfaces. Use extreme caution when turning on inclines.</b>
+        </cmd>
+      </step>
+      <step>
+        <cmd>
+          <b>Travel with load as low as possible and tilted back. If load interferes with visibility, travel with load trailing.</b>
+        </cmd>
+      </step>
+      <step>
+        <cmd>
+          <b>On grade operations travel with load up grade.</b>
+        </cmd>
+      </step>
+      <step>
+        <cmd>
+          <b>Watch out for pedestrians and obstructions. Check overhead clearances.</b>
+        </cmd>
+      </step>
+      <step>
+        <cmd>
+          <b>Do not permit riders on forks or machine at any time.</b>
+        </cmd>
+      </step>
+      <step>
+        <cmd>
+          <b>Do not allow anyone to stand or pass under the elevated portion of any machine.</b>
+        </cmd>
+      </step>
+      <step>
+        <cmd>
+          <b>Be sure operating surface can safely support machine.</b>
+        </cmd>
+      </step>
+      <step>
+        <cmd>
+          <b>Operate machine and attachments only from operator's position.</b>
+        </cmd>
+      </step>
+      <step>
+        <cmd>
+          <b>Do not handle unstable or loosely stacked loads.</b>
+        </cmd>
+      </step>
+      <step>
+        <cmd>
+          <b>Use minimum tilt when picking up or depositing a load.</b>
+        </cmd>
+      </step>
+      <step>
+        <cmd>
+          <b>Use extreme care when handling long, high or wide loads to ensure stability and durability of the truck.</b>
+        </cmd>
+      </step>
+      <step>
+        <cmd>
+          <b>Forks should be completely under load and spread apart as far as load permits.</b>
+        </cmd>
+      </step>
+      <step>
+        <cmd>
+          <b>Machine should be equipped with overhead guard or equivalent protection. Where load requires it, use load backrest extension. Use extreme caution if operating without these devices.</b>
+        </cmd>
+      </step>
+      <step>
+        <cmd>
+          <b>Parking-Lower lifting mechanism to floor. Put directional control or shift lever in neutral. Set parking/secondary brake. Turn “ON - OFF” switch off. Chock wheels if machine is on incline. Disconnect battery when storing electric machines.</b>
+        </cmd>
+      </step>
+      <step>
+        <cmd>
+          <b>Observe safety rules when handling fuel for engine powered machine and when changing batteries for electric machines.</b>
+        </cmd>
+      </step>
+      <step>
+        <cmd>
+          <b>Avoid overuse of the inching pedal as this may cause the automatic transmission oil to overheat or the clutch to slip. Do not use as a footrest or for long periods of time.</b>
+        </cmd>
+      </step>
+      <step>
+        <cmd>
+          <b>If user operates continuously pushing work or both brake pedal and accelerator pedal were depressed at the same time, it may cause the automatic transmission oil to overheat or the clutch to slip.</b>
+        </cmd>
+      </step>
+    </steps>
+  </taskbody>
+</task>

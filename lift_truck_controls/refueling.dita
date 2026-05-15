@@ -1,0 +1,65 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="_Numd21e24376" xml:lang="en-us">
+  <title>Refueling</title>
+  <shortdesc>Fill the fuel tank at the end of each day of operation to drive out</shortdesc>
+  <prolog>
+    <metadata>
+      <keywords>
+        <keyword>truck</keyword>
+        <keyword>refueling</keyword>
+        <keyword>water</keyword>
+        <keyword>sediment</keyword>
+        <keyword>Refueling</keyword>
+        <keyword>during</keyword>
+        <indexterm>truck</indexterm>
+        <indexterm>refueling</indexterm>
+        <indexterm>water</indexterm>
+      </keywords>
+      <prodinfo>
+        <prodname></prodname>
+      </prodinfo>
+    </metadata>
+  </prolog>
+  <taskbody>
+    <context>
+      <note type="note">
+        <b>Warning:</b>
+      </note>
+      <ul id="ul_062810210">
+        <li>Explosive fumes may be present during refueling.</li>
+        <li>Do not smoke in refueling areas.</li>
+        <li>Lift truck should be refueled only at designated safe locations. Safe outdoor locations are preferable to those indoors.</li>
+        <li>Stop the engine and get off the lift truck during refueling.</li>
+      </ul>
+      <note type="notice">Do not allow the lift truck to become low on fuel or completely run out of fuel. Sediment or other impurities in the fuel tank could be drawn into the fuel system. This could result in difficult starting or damage to components.</note>
+      <p>Fill the fuel tank at the end of each day of operation to drive out moisture laden air and to prevent condensation. In the cold weather, the moisture condensation can cause rust in the fuel system and hard starting due to its freezing. Do not fill the tank to the top. Fuel expands when it gets warm and may overflow.</p>
+      <info>
+        <fig>
+          <image href="../media/image736.png"/>
+        </fig>
+      </info>
+      <p>Typical Example</p>
+    </context>
+    <steps id="steps_062810211">
+      <step>
+        <cmd>Park the lift truck only at a designated safe location. Place the transmission in NEUTRAL. Lower the forks to the ground. Engage the parking brake. Stop the engine.</cmd>
+        <info>
+          <fig>
+            <image href="../media/image738.png"/>
+          </fig>
+          <p>Typical Example</p>
+        </info>
+      </step>
+      <step>
+        <cmd>Remove the filler cap.</cmd>
+      </step>
+      <step>
+        <cmd>Fill the fuel tank slowly. See topic, “Refill Capacities.” in maintenance section. Install the filler cap. If spillage occurs, wipe off excess fuel and absorb any excess fuel with absorbent material.</cmd>
+      </step>
+    </steps>
+    <result>
+      <note type="note">Drain water and sediment from fuel tank as required by prevailing conditions. Also, drain water and sediment from the main fuel storage tank weekly and before the tank is refilled. This will help prevent water or sediment being pumped from the storage tank into the lift truck fuel tank.</note>
+    </result>
+  </taskbody>
+</task>

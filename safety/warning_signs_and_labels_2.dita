@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="_Numd21e5879" xml:lang="en-us">
+  <title>Warning Signs and Labels</title>
+  <shortdesc>Your Time lift truck has the following tipover warning decals.</shortdesc>
+  <prolog>
+    <metadata>
+      <keywords>
+        <keyword>truck</keyword>
+        <keyword>tipover</keyword>
+        <keyword>label</keyword>
+        <keyword>Warning</keyword>
+        <keyword>Signs</keyword>
+        <keyword>Labels</keyword>
+        <indexterm>truck</indexterm>
+        <indexterm>tipover</indexterm>
+        <indexterm>label</indexterm>
+      </keywords>
+      <prodinfo>
+        <prodname></prodname>
+      </prodinfo>
+    </metadata>
+  </prolog>
+  <conbody><steps-informal>
+      <p>Your Time lift truck has the following tipover warning decals.</p>
+      <p>Make sure that you can read all safety signs. Clean or replace these if you cannot read the words or see the pictures. When cleaning the labels use a cloth, water and soap. Do not use solvent, gasoline, etc. You must replace a label if it is damaged, missing or cannot be read. If a label is on a part that is replaced, make sure a new label is installed on the replaced part. See you Time Lift Truck branch for new labels.</p>
+      <p>The most effective method of preventing serious injury or death to yourself or others is to familiarise yourself with the proper operation of the lift truck, to be alert, and to avoid actions or conditions which can result in an accident.</p>
+      <note type="warning">Tipover can occur if the truck is improperly operated. In the event of a tipover, injury or death could result.</note>
+      <info>
+        <fig>
+          <image href="../media/image22.png"/>
+        </fig>
+      </info>
+      <info>
+        <fig>
+          <image href="../media/image23.png"/>
+        </fig>
+      </info>
+      <info>
+        <fig>
+          <image href="../media/image24.png"/>
+        </fig>
+      </info>
+      <p>The “Survive in tipover” warning is located on the overhead guard. It shows the proper use of the operator restraint system.</p>
+    </steps-informal></conbody>
+</concept>

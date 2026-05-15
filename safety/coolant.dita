@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="_Numd21e4857" xml:lang="en-us">
+  <title>Coolant</title>
+  <shortdesc>At operating temperature, the engine coolant is hot and under pressure. The radiator and all</shortdesc>
+  <prolog>
+    <metadata>
+      <keywords>
+        <keyword>engine</keyword>
+        <keyword>cause</keyword>
+        <keyword>system</keyword>
+        <keyword>Coolant</keyword>
+        <keyword>coolant</keyword>
+        <keyword>pressure</keyword>
+        <indexterm>engine</indexterm>
+        <indexterm>cause</indexterm>
+        <indexterm>system</indexterm>
+      </keywords>
+      <prodinfo>
+        <prodname></prodname>
+      </prodinfo>
+    </metadata>
+  </prolog>
+  <taskbody>  <context>
+    <p>At operating temperature, the engine coolant is hot and under pressure. The radiator and all lines to heaters or the engine contain hot water or steam. Any contact can cause severe burns.</p><p>Steam can cause personal injury</p><p>Check the coolant level only after engine has been stopped and the filler cap is cool enough to remove with your bare hand.</p><p>Cooling system additive contains alkali that can cause personal injury. Avoid contact with the skin and eyes and do not drink.</p><p>Allow cooling system components to cool before draining.</p>
+  </context>
+  <steps id="steps_062821">
+    <step>
+      <cmd>Remove the cooling system filler cap slowly to relieve pressure.</cmd>
+    </step>
+  </steps></taskbody>
+</task>

@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="_Numd21e6951" xml:lang="en-us">
+  <title>Stability and Centre of Gravity</title>
+  <shortdesc>The stability of the lift truck is determined by the location of its CG; or,</shortdesc>
+  <prolog>
+    <metadata>
+      <keywords>
+        <keyword>truck</keyword>
+        <keyword>moves</keyword>
+        <keyword>loaded</keyword>
+        <keyword>forward</keyword>
+        <keyword>backward</keyword>
+        <keyword>Stability</keyword>
+        <indexterm>truck</indexterm>
+        <indexterm>moves</indexterm>
+        <indexterm>loaded</indexterm>
+      </keywords>
+      <prodinfo>
+        <prodname></prodname>
+      </prodinfo>
+    </metadata>
+  </prolog>
+  <conbody>
+    <p>
+      <fig>
+        <image href="../media/image42.png"/>
+      </fig>
+    </p>
+    <p>The stability of the lift truck is determined by the location of its CG; or, if the truck is loaded, the combined CG of the truck and load. The lift truck has moving parts and, therefore, has a CG that moves. The CG moves forward or backward as the mast is tilted forward or backward. The CG moves up or down as the mast moves up or down. The CG and, therefore, the stability of the loaded lift truck, are affected by a number of factors such as:</p>
+    <ul id="ul_06281020">
+      <li>the size, weight, shape and position of the load</li>
+      <li>the height to which the load is lifted</li>
+      <li>the amount of forward or backward tilt</li>
+      <li>tyre pressure</li>
+      <li>dynamic forces created when the lift truck is accelerated, braked or turned</li>
+      <li>condition and grade of surfaces on which the lift truck is operated</li>
+    </ul>
+    <p>
+      <fig>
+        <image href="../media/image43.png"/>
+      </fig>
+    </p>
+    <p>These same factors are also important for unloaded lift trucks. They tip over sideways easier than a loaded lift truck carrying its load in the lowered position.</p>
+  </conbody>
+</concept>
