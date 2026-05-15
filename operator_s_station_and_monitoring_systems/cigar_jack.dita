@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="_Numd21e15800" xml:lang="en-us">
+  <title>Cigar jack</title>
+  <shortdesc>Press-in the switch, when it pops out, take it out and use it This jack</shortdesc>
+  <prolog>
+    <metadata>
+      <keywords>
+        <keyword>Cigar</keyword>
+        <keyword>Press</keyword>
+        <keyword>switch</keyword>
+        <keyword>emergency</keyword>
+        <keyword>power</keyword>
+        <keyword>supply</keyword>
+        <indexterm>Cigar</indexterm>
+        <indexterm>Press</indexterm>
+        <indexterm>switch</indexterm>
+      </keywords>
+      <prodinfo>
+        <prodname></prodname>
+      </prodinfo>
+    </metadata>
+  </prolog>
+  <body>
+    <ul id="ul_06281039">
+      <li>Press-in the switch, when it pops out, take it out and use it</li>
+      <li>This jack can be used as an emergency power supply (max. 24V, 100W).</li>
+    </ul>
+  </body>
+</topic>

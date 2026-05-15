@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="_Numd21e14065" xml:lang="en-us">
+  <title>Lift Lever</title>
+  <shortdesc>The forks can be raised or lowered by pulling backwards or pushing forwards on this</shortdesc>
+  <prolog>
+    <metadata>
+      <keywords>
+        <keyword>speed</keyword>
+        <keyword>lever</keyword>
+        <keyword>Lift</keyword>
+        <keyword>Lever</keyword>
+        <keyword>forks</keyword>
+        <keyword>controlled</keyword>
+        <indexterm>speed</indexterm>
+        <indexterm>lever</indexterm>
+        <indexterm>Lift</indexterm>
+      </keywords>
+      <prodinfo>
+        <prodname></prodname>
+      </prodinfo>
+    </metadata>
+  </prolog>
+  <conbody>
+    <p>The forks can be raised or lowered by pulling backwards or pushing forwards on this lever. The lift speed is controlled by tilt angle of the lever and accelerator pedal effort. The lowering speed can be controlled by tilt angle of the lever. The engine speed or accelerator pedal has nothing to do with the lowering speed of the forks.</p>
+  </conbody>
+</concept>

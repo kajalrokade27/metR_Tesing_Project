@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="_Numd21e19439" xml:lang="en-us">
+  <title>About MP3/WMA</title>
+  <shortdesc>This unit can play MP3 (WMA) files with .mp3, .wma (Iower case letters) or .MP3</shortdesc>
+  <prolog>
+    <metadata>
+      <keywords>
+        <keyword>files</keyword>
+        <keyword>About</keyword>
+        <keyword>letters</keyword>
+        <keyword>recognize</keyword>
+        <keyword>MPEG</keyword>
+        <keyword>Layer</keyword>
+        <indexterm>files</indexterm>
+        <indexterm>About</indexterm>
+        <indexterm>letters</indexterm>
+      </keywords>
+      <prodinfo>
+        <prodname></prodname>
+      </prodinfo>
+    </metadata>
+  </prolog>
+  <conbody>
+    <p>This unit can play MP3 (WMA) files with .mp3, .wma (Iower case letters) or .MP3 and .WMA (capital letters) file name extensions.</p>
+    <p>This unit can display ID3 Tag (Version 1.0, 1.1, 2.2, or 2.4) information for MP3 files. such as the album name and the artist.</p>
+    <p>This unit can recognize the Korean and English characters.</p>
+    <p>This unit can play MP3/WMA files meeting the conditions below;</p>
+    <ul id="ul_06281099">
+      <li>Bit rate: 8 kbps - 320 kbps / VBR for MP3</li>
+      <li>Sampling frequency:</li>
+    </ul>
+    <p>48 kHz, 44.1 kHz, 32 kHz</p>
+    <p>(for MPEG-1 Layer 2/3)</p>
+    <p>24 kHz, 22.05 kHz, 16 kHz</p>
+    <p>(for MPEG-2 Layer 2/3)</p>
+    <p>This unit can recognize total of 9,999 files, of 256 folders, and 7 stages of folder structure.</p>
+    <p>This product can play MP3 files using VBR. When playing an MP3 file of this VBR type, the remaining time displayed may be different from the real time.</p>
+  </conbody>
+</concept>

@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="_Numd21e10895" xml:lang="en-us">
+  <title>Vibration (weighted overall value)</title>
+  <shortdesc>Unit: m/sec2</shortdesc>
+  <prolog>
+    <metadata>
+      <keywords>
+        <keyword>Vibration</keyword>
+        <keyword>weighted</keyword>
+        <keyword>overall</keyword>
+        <keyword>value</keyword>
+        <keyword>Unit</keyword>
+        <keyword>Model</keyword>
+        <indexterm>Vibration</indexterm>
+        <indexterm>weighted</indexterm>
+        <indexterm>overall</indexterm>
+      </keywords>
+      <prodinfo>
+        <prodname></prodname>
+      </prodinfo>
+    </metadata>
+  </prolog>
+  <taskbody>  <context>
+    <p>Unit: m/sec2</p><table frame="all" colsep="1" rowsep="1">
+        <tgroup cols="4">
+          <colspec colname="col1" colnum="1" colwidth="1*"/>
+          <colspec colname="col2" colnum="2" colwidth="1*"/>
+          <colspec colname="col3" colnum="3" colwidth="1*"/>
+          <colspec colname="col4" colnum="4" colwidth="1*"/>
+          <tbody>
+            <row>
+              <entry morerows="1">Model</entry>
+              <entry>Measuring Place</entry>
+            </row>
+            <row>
+              <entry>Seat</entry>
+              <entry>Steering Wheel</entry>
+              <entry>Floor Plate</entry>
+            </row>
+            <row>
+              <entry>CD100/120S-7</entry>
+              <entry>0.28</entry>
+              <entry>0.27</entry>
+              <entry>0.45</entry>
+            </row>
+            <row>
+              <entry>CD140/160S-7</entry>
+              <entry>0.2</entry>
+              <entry>0.25</entry>
+              <entry>0.3</entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table><p>* Test course: Concrete road</p>
+  </context></taskbody>
+</task>

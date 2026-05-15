@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="_Numd21e18410" xml:lang="en-us">
+  <title>Saving radio stations automatically</title>
+  <shortdesc>The previously chosen broadcasting station will be received.</shortdesc>
+  <prolog>
+    <metadata>
+      <keywords>
+        <keyword>stations</keyword>
+        <keyword>automatically</keyword>
+        <keyword>button</keyword>
+        <keyword>Saving</keyword>
+        <keyword>radio</keyword>
+        <keyword>Press</keyword>
+        <indexterm>stations</indexterm>
+        <indexterm>automatically</indexterm>
+        <indexterm>button</indexterm>
+      </keywords>
+      <prodinfo>
+        <prodname></prodname>
+      </prodinfo>
+    </metadata>
+  </prolog>
+  <taskbody>
+    <context>
+      <info>
+        <fig>
+          <image href="../media/image425a.png"/>
+        </fig>
+      </info>
+    </context>
+    <steps id="steps_06281073">
+      <step>
+        <cmd>Press the <b>AM or FM</b> button repeatedly to select the band.</cmd>
+        <info>
+          <p>The previously chosen broadcasting station will be received.</p>
+          <fig>
+            <image href="../media/image430a.png"/>
+          </fig>
+        </info>
+      </step>
+      <step>
+        <cmd>Press and hold the <b>AST</b> button to automatically save receivable frequencies to Preset button.</cmd>
+      </step>
+    </steps>
+    <result>
+      <p>"AST" is shown , and then stores stations in the order of their frequencies on the Preset buttons.</p>
+      <p>Up to 6 stations can be stored in each of the AMA and FMA band</p>
+    </result>
+  </taskbody>
+</task>

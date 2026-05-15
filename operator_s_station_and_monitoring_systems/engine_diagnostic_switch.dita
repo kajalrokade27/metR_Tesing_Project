@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE reference PUBLIC "-//OASIS//DTD DITA Reference//EN" "reference.dtd">
+<reference id="_Numd21e15568" xml:lang="en-us">
+  <title>Engine Diagnostic Switch</title>
+  <shortdesc>When engine function failure indicator lamp is lit up, press this switch to display the</shortdesc>
+  <prolog>
+    <metadata>
+      <keywords>
+        <keyword>Engine</keyword>
+        <keyword>Diagnostic</keyword>
+        <keyword>Switch</keyword>
+        <keyword>display</keyword>
+        <keyword>When</keyword>
+        <keyword>engine</keyword>
+        <indexterm>Engine</indexterm>
+        <indexterm>Diagnostic</indexterm>
+        <indexterm>Switch</indexterm>
+      </keywords>
+      <prodinfo>
+        <prodname></prodname>
+      </prodinfo>
+    </metadata>
+  </prolog>
+  <refbody>    <section>
+      <ul id="ul_06281037">
+      <li>When engine function failure indicator lamp is lit up, press this switch to display the error code on the LCD display.</li>
+    </ul>
+    </section></refbody>
+</reference>

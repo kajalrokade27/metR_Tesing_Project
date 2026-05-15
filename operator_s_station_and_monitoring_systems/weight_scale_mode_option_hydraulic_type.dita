@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="_Numd21e21950" xml:lang="en-us">
+  <title>Weight Scale Mode (Option - Hydraulic Type)</title>
+  <shortdesc>A) Initial Setting</shortdesc>
+  <prolog>
+    <metadata>
+      <keywords>
+        <keyword>button</keyword>
+        <keyword>weight</keyword>
+        <keyword>MODE</keyword>
+        <keyword>light</keyword>
+        <keyword>ZERO</keyword>
+        <keyword>seconds</keyword>
+        <indexterm>button</indexterm>
+        <indexterm>weight</indexterm>
+        <indexterm>MODE</indexterm>
+      </keywords>
+      <prodinfo>
+        <prodname></prodname>
+      </prodinfo>
+    </metadata>
+  </prolog>
+  <taskbody>  <context>
+    <p>
+      <fig>
+        <image href="../media/image700a.png"/>
+      </fig>
+    </p><p>
+      <b>A) Initial Setting</b>
+    </p><p>To use the weight scale option, you need to perform the following initial settings: i) zero adjustment as unloaded (ZERO), ii) inputting a reference load (LOAD), and iii) setting the maximum rated load (RLOAD).</p><p>This option enables the operator to measure and limit the weight of the load using the LCD display.</p><p>Pressing the MODE button moves you from the normal display to the load scale mode.</p><ul id="ul_062810177">
+      <li>Zero Adjustment as Unloaded (ZERO)</li>
+    </ul><p>While keeping the vehicle unloaded, slowly raise its forks, or attachment, approximately 30 cm from the ground, wait for 4–6 seconds, and then hold the “MODE” button for 2 seconds. The ZERO lamp (6) will light up, and the weight will be displayed in the form of “ - - - - .”</p><p>Then, hold the ENTER button for 1 second to finish this step (The ZERO lamp (6) will turn off and the number indicator will be set to zero).</p><ul id="ul_062810178">
+      <li>Inputting a Reference Load (LOAD)</li>
+    </ul><p>Prepare a load whose weight is accurately known and falls within 30%–50% of the vehicle’s maximum rated capacity, or a load you usually handle (It is recommended to use a load whose weight has been proven by a legal measuring instrument).</p><p>E.g., 15-ton capacity forklift: 4,500–7,500 kg load</p><p>30,000-lb capacity forklift: 9,000–15,000 lb load</p><p>Put the mast vertical, raise the load slowly approximately 30 cm from the ground, wait for 4–6 seconds,</p><p>
+      <fig>
+        <image href="../media/image692.png"/>
+      </fig>
+    </p><p>and then hold the MODE button for 2 seconds. The ZERO lamp (6) will light up. Press the MODE button once again, and the LOAD lamp (7) will light up.</p><p>Once an arbitrary number appears on the weight indicator in the form of “ ,” put the △ or ▽ button to set the value to the already accurately identified weight of the current load.</p><p>And then, hold the ENTER button for 1 second to finish this step (The LOAD lamp (7) will turn off).</p><ul id="ul_062810179">
+      <li>Setting the Maximum Rated Load (RLOAD)</li>
+    </ul><p>Hold the MODE button for 2 seconds, and the ZERO lamp (6) will light up.</p><p>Press the MODE button twice more, and the RLOAD lamp (8) will light up. Once the weight is displayed in the form of “ ,” put the △ or ▽ button to set the value to the vehicle’s maximum rated weight plus 2%. And then, hold the ENTER button for 1 second to finish this step. The RLOAD lamp (8) will turn off and the maximum weight value (1) displayed at the left will change.</p><ul id="ul_062810180">
+      <li>
+        <b>B) Unit Change</b>
+      </li>
+    </ul><p>Hold the MODE button for 2 seconds, and the ZERO lamp (6) will light up. Press the MODE button three times more, and the RLOAD lamp (8) will light up. Use the △ and ▽ buttons to change the units. And then, hold the ENTER button for 1 second to finish this step.</p><ul id="ul_062810181">
+      <li>
+        <b>C) If you try to raise a load whose weight exceeds the rated weight setting, the warning lamp (2) will light up.</b>
+      </li>
+    </ul>
+  </context></taskbody>
+</task>

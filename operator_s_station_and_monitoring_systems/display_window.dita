@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="_Numd21e16793" xml:lang="en-us">
+  <title>Display window</title>
+  <shortdesc>1 USB/AUX indicators: When the External Device is connected, indicator is lights up.</shortdesc>
+  <prolog>
+    <metadata>
+      <keywords>
+        <keyword>indicators</keyword>
+        <keyword>indicator</keyword>
+        <keyword>When</keyword>
+        <keyword>lights</keyword>
+        <keyword>playback</keyword>
+        <keyword>Display</keyword>
+        <indexterm>indicators</indexterm>
+        <indexterm>indicator</indexterm>
+        <indexterm>When</indexterm>
+      </keywords>
+      <prodinfo>
+        <prodname></prodname>
+      </prodinfo>
+    </metadata>
+  </prolog>
+  <conbody><info>
+        <fig>
+          <image href="../media/image285.png"/>
+        </fig>
+      </info>
+    <ol>
+    <li>1 <b>USB/AUX</b> indicators: When the External Device is connected, indicator is lights up.</li>
+    <li>2 <b>MP3/WMA</b> indicators: When the Audio Stream is detected, indicator is lights up.</li>
+    <li>3 <b>Stereo [ST]</b> indicator for FM stereo station: When a stereo Broadcast is received, indicator is lights up.</li>
+    <li><p>4</p>
+      <ul id="ul_06281047">
+            <li>
+              <b>Playback mode</b> indicators for USB mode</li>
+            <li>
+              <fig>
+                <image href="../media/image246.png"/>
+              </fig> : Folder mode</li>
+            <li>
+              <fig>
+                <image href="../media/image247.png"/>
+              </fig> : Intro playback</li>
+            <li>
+              <fig>
+                <image href="../media/image248.png"/>
+              </fig> : Repeat playback</li>
+            <li>
+              <fig>
+                <image href="../media/image249.png"/>
+              </fig> : Random playback</li>
+          </ul></li>
+    <li><p>5</p>
+      <ul id="ul_06281048">
+            <li>LOUD/EQ indicators for sound effect</li>
+            <li>
+              <b>LOUD</b>: Loudness mode on</li>
+            <li>
+              <b>EQ</b>: EQ mode on</li>
+          </ul></li>
+    <li>6 <b>Multi-function</b> display area for showing the information</li>
+    </ol></conbody>
+</concept>

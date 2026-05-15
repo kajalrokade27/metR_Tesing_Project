@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE reference PUBLIC "-//OASIS//DTD DITA Reference//EN" "reference.dtd">
+<reference id="_Numd21e14887" xml:lang="en-us">
+  <title>IDLE select switch</title>
+  <shortdesc>Before operating the steering lever, push down the brake pedal and release it slowly to</shortdesc>
+  <prolog>
+    <metadata>
+      <keywords>
+        <keyword>switch</keyword>
+        <keyword>speed</keyword>
+        <keyword>position</keyword>
+        <keyword>idling</keyword>
+        <keyword>engine</keyword>
+        <keyword>function</keyword>
+        <indexterm>switch</indexterm>
+        <indexterm>speed</indexterm>
+        <indexterm>position</indexterm>
+        <indexterm>result</indexterm>
+      </keywords>
+      <prodinfo>
+        <prodname></prodname>
+      </prodinfo>
+    </metadata>
+  </prolog>
+  <refbody>    <section>
+      <info>
+        <fig>
+          <image href="../media/image234.png"/>
+        </fig>
+      </info>
+      <ol>
+    <li><p>The switch (1) is to activate idling and the switch (2) to control the speed of idling.</p>
+      <fig>
+            <image href="../media/image220.png"/>
+          </fig>
+          <ul id="ul_06281030">
+            <li>The switch ① maintains basic condition at position ‘2’.</li>
+            <li>The switch ② maintains basic condition at position ‘2’.</li>
+          </ul></li>
+    <li><p>Press the switch ① at ‘1’ position for 0.1 s to activate idle function.</p>
+      <ul>
+    <li>With the function activated, pressing the switch ② to position '1' will increase the engine idling speed from 800 rpm (baseline) up to 1300 rpm at 50 rpm steps.</li>
+    <li>Pressing the switch ② to position '3' will decrease the engine idling speed by 50 rpm steps.</li>
+    </ul></li>
+    <li>Press the switch ① at ‘1’ position for 0.1 s again to deactivate the idle function and the engine idling speed returns to 800 rpm.</li>
+    </ol>
+    </section>
+<section>
+      <title>Result</title>
+      <note type="warning">If the engine speed is increased with this switch, the creep speed of the lift truck will become higher than in normal mode.</note>
+      <p>Before operating the steering lever, push down the brake pedal and release it slowly to prevent accident caused by sudden movement.</p>
+    </section></refbody>
+</reference>

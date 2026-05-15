@@ -1,0 +1,71 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="_Numd21e10649" xml:lang="en-us">
+  <title>Noise</title>
+  <shortdesc>* Test Model: CD160S-7</shortdesc>
+  <prolog>
+    <metadata>
+      <keywords>
+        <keyword>Level</keyword>
+        <keyword>Noise</keyword>
+        <keyword>Sound</keyword>
+        <keyword>Model</keyword>
+        <keyword>Pressure</keyword>
+        <keyword>Cabin</keyword>
+        <indexterm>Level</indexterm>
+        <indexterm>Noise</indexterm>
+        <indexterm>Sound</indexterm>
+      </keywords>
+      <prodinfo>
+        <prodname></prodname>
+      </prodinfo>
+    </metadata>
+  </prolog>
+  <taskbody>  <context>
+    <table frame="all" colsep="1" rowsep="1">
+        <tgroup cols="7">
+          <colspec colname="col1" colnum="1" colwidth="1*"/>
+          <colspec colname="col2" colnum="2" colwidth="1*"/>
+          <colspec colname="col3" colnum="3" colwidth="1*"/>
+          <colspec colname="col4" colnum="4" colwidth="1*"/>
+          <colspec colname="col5" colnum="5" colwidth="1*"/>
+          <colspec colname="col6" colnum="6" colwidth="1*"/>
+          <colspec colname="col7" colnum="7" colwidth="1*"/>
+          <tbody>
+            <row>
+              <entry morerows="2">Model</entry>
+              <entry>Noise Level [Unit : dB(A)]</entry>
+            </row>
+            <row>
+              <entry>Sound Pressure Level at Operator’s ear (Leq.)</entry>
+              <entry>Sound Pressure Level at By-stander position (AS 3713)</entry>
+              <entry morerows="1">Guaranteed Sound Power Level (LWA) by new Directive 2000/14/EC</entry>
+            </row>
+            <row>
+              <entry>AS 3713</entry>
+              <entry>prEN 12053</entry>
+              <entry>Drive-By</entry>
+              <entry>Lifting Mode</entry>
+            </row>
+            <row>
+              <entry morerows="1">CD100/120/140 /160S-7</entry>
+              <entry>W/O Cabin</entry>
+              <entry>78.3</entry>
+              <entry>82.8</entry>
+              <entry>83</entry>
+              <entry>86</entry>
+              <entry>104</entry>
+            </row>
+            <row>
+              <entry>With Cabin</entry>
+              <entry>75.0</entry>
+              <entry>75.0</entry>
+              <entry>83</entry>
+              <entry>84</entry>
+              <entry>104</entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table><p>* Test Model: CD160S-7</p>
+  </context></taskbody>
+</task>

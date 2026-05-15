@@ -1,0 +1,90 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="_Numd21e25607" xml:lang="en-us">
+  <title>Use of Jumper Cables</title>
+  <shortdesc>When auxiliary start receptacles are not available, use the following procedure.</shortdesc>
+  <prolog>
+    <metadata>
+      <keywords>
+        <keyword>truck</keyword>
+        <keyword>stalled</keyword>
+        <keyword>battery</keyword>
+        <keyword>cable</keyword>
+        <keyword>boost</keyword>
+        <keyword>engine</keyword>
+        <indexterm>truck</indexterm>
+        <indexterm>stalled</indexterm>
+        <indexterm>battery</indexterm>
+      </keywords>
+      <prodinfo>
+        <prodname></prodname>
+      </prodinfo>
+    </metadata>
+  </prolog>
+  <taskbody>
+    <context>
+      <p>When auxiliary start receptacles are not available, use the following procedure.</p>
+    </context>
+    <steps id="steps_062810226">
+      <step>
+        <cmd>Make initial determination as to failure of lift truck to crank. Procedure applies even if lift truck does not have diagnostic connector.</cmd>
+      </step>
+      <step>
+        <cmd>Place the directional control in NEUTRAL on the stalled lift truck. Engage the parking/secondary brake. Lower all attachments to the ground. Move all controls to HOLD (CENTRE).</cmd>
+      </step>
+      <step>
+        <cmd>On stalled lift truck, turn the start switch to OFF. Turn off all accessories.</cmd>
+      </step>
+      <step>
+        <cmd>On stalled lift truck, turn on (close) the disconnect switch (if equipped).</cmd>
+      </step>
+      <step>
+        <cmd>Move boost start lift truck near enough to stalled lift truck for cables to reach, but DO NOT ALLOW LIFT TRUCKS TO TOUCH.</cmd>
+      </step>
+      <step>
+        <cmd>Stop the engine on the boost lift truck. Or, if using an auxiliary power source, turn off the charging system.</cmd>
+      </step>
+      <step>
+        <cmd>Make sure battery caps are all in place and tight on both lift trucks.</cmd>
+        <info>
+          <fig>
+            <image href="../media/image745a.png"/>
+          </fig>
+          <p>Typical Example of 24 Voltages</p>
+        </info>
+      </step>
+      <step>
+        <cmd>Connect positive (+) jumper cable (red) to positive (+) cable terminal of discharged battery, or battery set on the stalled lift truck.</cmd>
+        <substeps id="substeps_062810228">
+          <substep>
+            <cmd>Do not allow positive cable clamps to touch any metal other than battery terminals.</cmd>
+          </substep>
+        </substeps>
+      </step>
+      <step>
+        <cmd>Connect the other end of this positive jumper cable (red) to positive (+) terminal of boost battery. Use procedure of Step 8 to determine correct terminal.</cmd>
+      </step>
+      <step>
+        <cmd>Connect one end of the negative (-) jumper cable to the other terminal (negative) of the boost battery.</cmd>
+      </step>
+      <step>
+        <cmd>Make final connection of negative (-) cable to the stalled truck frame (not battery negative post) away from battery, fuel or hydraulic lines, or moving parts.</cmd>
+      </step>
+      <step>
+        <cmd>Start the engine on the boost lift truck, or energize the charging system on the auxiliary power source.</cmd>
+      </step>
+      <step>
+        <cmd>Wait a minimum of two minutes for the batteries in the stalled lift truck to partially charge.</cmd>
+      </step>
+      <step>
+        <cmd>Attempt to start the stalled engine. Refer to section on ‘Engine Starting’.</cmd>
+      </step>
+      <step>
+        <cmd>Immediately after starting the stalled engine, disconnect the jumper cables in reverse order.</cmd>
+      </step>
+      <step>
+        <cmd>Conclude failure analysis on starting/charging system of the stalled lift truck as required with the engine running and charging system in operation.</cmd>
+      </step>
+    </steps>
+  </taskbody>
+</task>

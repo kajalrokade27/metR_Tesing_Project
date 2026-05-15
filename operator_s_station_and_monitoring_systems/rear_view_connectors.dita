@@ -1,0 +1,65 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="_Numd21e17135" xml:lang="en-us">
+  <title>Rear view/Connectors</title>
+  <shortdesc>1 Antenna jack: To plug the FM antenna cable.</shortdesc>
+  <prolog>
+    <metadata>
+      <keywords>
+        <keyword>Rear</keyword>
+        <keyword>Front</keyword>
+        <keyword>Illumination</keyword>
+        <keyword>Connectors</keyword>
+        <keyword>cable</keyword>
+        <keyword>Battery</keyword>
+        <indexterm>Rear</indexterm>
+        <indexterm>Front</indexterm>
+        <indexterm>Illumination</indexterm>
+        <indexterm>result</indexterm>
+      </keywords>
+      <prodinfo>
+        <prodname></prodname>
+      </prodinfo>
+    </metadata>
+  </prolog>
+  <conbody><info>
+        <fig>
+          <image href="../media/image277.png"/>
+        </fig>
+      </info>
+    <ol>
+    <li>1 <b>Antenna</b> jack: To plug the FM antenna cable.</li>
+    <li>2 <b>I/0</b> connector: To plug the 1/0 cable.</li>
+    </ol>
+    <section>
+      <title>Result</title>
+      <table colsep="1" frame="all" rowsep="1">
+        <tgroup cols="2">
+          <colspec colname="col1" colnum="1" colwidth="1*"/>
+          <colspec colname="col2" colnum="2" colwidth="1*"/>
+          <tbody>
+            <row>
+              <entry>&lt;ARA-5080WF: 18 Pin&gt;</entry>
+              <entry>&lt;ARA-5081WF: 18 Pin&gt;</entry>
+            </row>
+            <row>
+              <entry>
+                <fig>
+                  <image href="../media/image311.png"/>
+                </fig>
+              </entry>
+              <entry>
+                <fig>
+                  <image href="../media/image326.png"/>
+                </fig>
+              </entry>
+            </row>
+            <row>
+              <entry>1. Front R (+) 2. Rear R (+) 3. Illumination (+) 4. ACC (+) 5. Battery (B+) 6. N.C 7. Rear L (+) 8. Front L (+) 9. Front R (-) 10. Rear R (-) 11. N.C / Illumination (-) 12. N.C 13. REM GND 14. GND 15. 5V Output 16. REM Data 17. Rear L (-) 18. Front L (-)</entry>
+              <entry>1. Tel Mute 2. Rear R (+) 3. Illumination (+) 4. ACC (+) 5. Battery (B+) 6. DMB GND 7. Rear L (+) 8. DMB L-CH 9. H/F GND 10. Rear R (-) 11. DMB Det 12. DMB Mute 13. REM GND 14. GND 15. 5V Output 16. REM Data 17. Rear L (-) 18. DMB R-CH</entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+    </section></conbody>
+</concept>

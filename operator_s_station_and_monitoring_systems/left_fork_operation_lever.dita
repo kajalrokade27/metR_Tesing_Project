@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="_Numd21e14289" xml:lang="en-us">
+  <title>Left fork operation lever</title>
+  <shortdesc>The forks can be moved right or left by pulling backwards or pushing forwards on</shortdesc>
+  <prolog>
+    <metadata>
+      <keywords>
+        <keyword>lever</keyword>
+        <keyword>right</keyword>
+        <keyword>forks</keyword>
+        <keyword>switch</keyword>
+        <keyword>handle</keyword>
+        <keyword>Left</keyword>
+        <indexterm>lever</indexterm>
+        <indexterm>right</indexterm>
+        <indexterm>forks</indexterm>
+      </keywords>
+      <prodinfo>
+        <prodname></prodname>
+      </prodinfo>
+    </metadata>
+  </prolog>
+  <conbody>
+    <p>The forks can be moved right or left by pulling backwards or pushing forwards on this lever. The moving speed can be controlled by tilt angle of the lever and accelerator pedal effort.</p>
+    <p>When the lever is pushed forward with the switch on the handle pressed down, left/right forks move towards left maintaining the same fork width.</p>
+    <p>When the lever is pulled backward with the switch on the handle pressed down, left/right forks move towards right maintaining the same fork width.</p>
+    <p>To reset the side shift function, release the switch on the handle.</p>
+  </conbody>
+</concept>

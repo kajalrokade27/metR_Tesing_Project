@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="_Numd21e22768" xml:lang="en-us">
+  <title>Seat Adjustment</title>
+  <shortdesc>should be checked at the beginning of each shift and when operators change.</shortdesc>
+  <prolog>
+    <metadata>
+      <keywords>
+        <keyword>position</keyword>
+        <keyword>adjusted</keyword>
+        <keyword>desired</keyword>
+        <keyword>lever</keyword>
+        <keyword>Seat</keyword>
+        <keyword>selected</keyword>
+        <indexterm>position</indexterm>
+        <indexterm>adjusted</indexterm>
+        <indexterm>desired</indexterm>
+      </keywords>
+      <prodinfo>
+        <prodname></prodname>
+      </prodinfo>
+    </metadata>
+  </prolog>
+  <taskbody>  <context>
+    <note type="note">Seat arrangements may vary. Basic operation will be similar.</note><p>Seat adjustment should be checked at the beginning of each shift and when operators change.</p><p>Lock the seat into position before operating, to prevent an unexpected seat change.</p><note type="note">The seat can only be correctly adjusted with the operator fully seated.</note><p>
+      <fig>
+        <image href="../media/image698.png"/>
+      </fig>
+    </p><p>The seat position can be adjusted forward or backward, upward or downward and seat back tilt. Select the desired position to allow full pedal and lever travel.</p><p>
+      <fig>
+        <image href="../media/image699.png"/>
+      </fig>
+    </p><p>To adjust the seat suspension, turn knob (1) until the indicator reads the approximate weight of operator when the range of 50 to 130kg. Turning knob (1) clockwise increases the reading and turning it counterclockwise decreases the reading.</p><p>The height of the seat can be adjusted. Hold the seat with both hands and move it upward/downward to the desired position. When released the seat will remain in the selected position.</p><p>To adjust the seat back pull up and hole lever (2) and tilt the seat back to the desired position. Release the lever to lock the seat back in the selected position.</p><p>To adjust the seat forward or backward, push up and hold lever (3) and move the seat to the desired position.</p><p>Release the lever to lock the seat in the selected position.</p><p>
+      <fig>
+        <image href="../media/image708.png"/>
+      </fig>
+    </p><p>The angle of each armrest (4) can be adjusted by operating the button located on the front of each armrest. The armrest should be positioned upright when getting on or off the machine.</p><p>The height of headrest (5) can be adjusted. Hold the headrest with both hands and move it of upward/ downward to the desired position.</p><p>When released the headrest will remain in the selected position</p>
+  </context></taskbody>
+</task>

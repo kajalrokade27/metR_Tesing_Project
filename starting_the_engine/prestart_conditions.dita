@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="_Numd21e24949" xml:lang="en-us">
+  <title>Prestart Conditions</title>
+  <shortdesc>Typical Example</shortdesc>
+  <prolog>
+    <metadata>
+      <keywords>
+        <keyword>Prestart</keyword>
+        <keyword>Conditions</keyword>
+        <keyword>engine</keyword>
+        <keyword>transmission</keyword>
+        <keyword>directional</keyword>
+        <keyword>control</keyword>
+        <indexterm>Prestart</indexterm>
+        <indexterm>Conditions</indexterm>
+        <indexterm>engine</indexterm>
+      </keywords>
+      <prodinfo>
+        <prodname></prodname>
+      </prodinfo>
+    </metadata>
+  </prolog>
+  <taskbody>
+    <context>
+      <note type="note">The engine will not start unless the transmission directional control lever is in the NEUTRAL position.</note>
+      <info>
+        <fig>
+          <image href="../media/image756a.png"/>
+        </fig>
+      </info>
+      <p>Typical Example</p>
+    </context>
+    <steps id="steps_062810222">
+      <step>
+        <cmd>Engage the parking brake, if not already engaged.</cmd>
+      </step>
+      <step>
+        <cmd>Place the transmission directional control lever in NEUTRAL position.</cmd>
+      </step>
+    </steps>
+    <result>
+      <note type="notice">When you restart the engine after turning off it, wait 4 to 5 seconds and restart it to protect the starter.</note>
+    </result>
+  </taskbody>
+</task>

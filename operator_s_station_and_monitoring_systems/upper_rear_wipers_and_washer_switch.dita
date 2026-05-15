@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="_Numd21e15442" xml:lang="en-us">
+  <title>Upper, rear wipers and washer switch</title>
+  <shortdesc>This switch has two steps to operate the upper and rear wipers and washer.</shortdesc>
+  <prolog>
+    <metadata>
+      <keywords>
+        <keyword>washer</keyword>
+        <keyword>wipers</keyword>
+        <keyword>switch</keyword>
+        <keyword>Step</keyword>
+        <keyword>Upper</keyword>
+        <keyword>operate</keyword>
+        <indexterm>washer</indexterm>
+        <indexterm>wipers</indexterm>
+        <indexterm>switch</indexterm>
+      </keywords>
+      <prodinfo>
+        <prodname></prodname>
+      </prodinfo>
+    </metadata>
+  </prolog>
+  <conbody>
+    <ul id="ul_06281036">
+      <li>This switch has two steps to operate the upper and rear wipers and washer.</li>
+      <li>Step 1: upper and rear wipers operate</li>
+      <li>Step 2: rear washer fluid is injected The washer function is effective while the switch is pressed, and when released, the wiper returns to the Step 1.</li>
+    </ul>
+  </conbody>
+</concept>

@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE reference PUBLIC "-//OASIS//DTD DITA Reference//EN" "reference.dtd">
+<reference id="_Numd21e20741" xml:lang="en-us">
+  <title>b. Operation Method (Display Menu)</title>
+  <shortdesc>Overview of b. Operation Method (Display Menu).</shortdesc>
+  <prolog>
+    <metadata>
+      <keywords>
+        <keyword>Operation</keyword>
+        <keyword>Method</keyword>
+        <keyword>Display</keyword>
+        <keyword>Menu</keyword>
+        <indexterm>Operation</indexterm>
+        <indexterm>Method</indexterm>
+        <indexterm>Display</indexterm>
+      </keywords>
+      <prodinfo>
+        <prodname></prodname>
+      </prodinfo>
+    </metadata>
+  </prolog>
+  <refbody>    <section>
+      <p>
+      <fig>
+        <image href="../media/image630.png"/>
+      </fig>
+    </p>
+    </section></refbody>
+</reference>

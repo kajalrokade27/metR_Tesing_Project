@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="_Numd21e14407" xml:lang="en-us">
+  <title>Right fork operation lever</title>
+  <shortdesc>The right side fork can be moved right or left by pulling backwards or pushing</shortdesc>
+  <prolog>
+    <metadata>
+      <keywords>
+        <keyword>lever</keyword>
+        <keyword>Right</keyword>
+        <keyword>operation</keyword>
+        <keyword>right</keyword>
+        <keyword>forwards</keyword>
+        <keyword>moved</keyword>
+        <indexterm>lever</indexterm>
+        <indexterm>Right</indexterm>
+        <indexterm>operation</indexterm>
+      </keywords>
+      <prodinfo>
+        <prodname></prodname>
+      </prodinfo>
+    </metadata>
+  </prolog>
+  <conbody>
+    <p>The right side fork can be moved right or left by pulling backwards or pushing forwards on this lever. The moving speed can be controlled by tilt angle of the lever and accelerator pedal effort.</p>
+    <note type="note">If both C and D levers are pushed forwards, forks widen, and if pulled backward, they come closer to each other.</note>
+  </conbody>
+</concept>

@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="_Numd21e12698" xml:lang="en-us">
+  <title>B- Speed Meter</title>
+  <shortdesc>Indicates the truck travelling speed (km/h).</shortdesc>
+  <prolog>
+    <metadata>
+      <keywords>
+        <keyword>Speed</keyword>
+        <keyword>Meter</keyword>
+        <keyword>Indicates</keyword>
+        <keyword>truck</keyword>
+        <keyword>travelling</keyword>
+        <keyword>speed</keyword>
+        <indexterm>Speed</indexterm>
+        <indexterm>Meter</indexterm>
+        <indexterm>Indicates</indexterm>
+      </keywords>
+      <prodinfo>
+        <prodname></prodname>
+      </prodinfo>
+    </metadata>
+  </prolog>
+  <body>
+    <p>
+      <fig>
+        <image href="../media/image213.png"/>
+      </fig>
+    </p>
+    <p>Indicates the truck travelling speed (km/h).</p>
+  </body>
+</topic>

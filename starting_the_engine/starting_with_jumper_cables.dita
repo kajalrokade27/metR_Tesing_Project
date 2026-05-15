@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="_Numd21e25467" xml:lang="en-us">
+  <title>Starting with Jumper Cables</title>
+  <shortdesc>Prevent sparks near the batteries. They could cause vapors to explode. Do not allow jump</shortdesc>
+  <prolog>
+    <metadata>
+      <keywords>
+        <keyword>battery</keyword>
+        <keyword>starting</keyword>
+        <keyword>batteries</keyword>
+        <keyword>truck</keyword>
+        <keyword>voltage</keyword>
+        <keyword>cause</keyword>
+        <indexterm>battery</indexterm>
+        <indexterm>starting</indexterm>
+        <indexterm>batteries</indexterm>
+      </keywords>
+      <prodinfo>
+        <prodname></prodname>
+      </prodinfo>
+    </metadata>
+  </prolog>
+  <conbody>
+    <note type="warning">Batteries give off flammable fumes that can explode.</note>
+    <p>Prevent sparks near the batteries. They could cause vapors to explode. Do not allow jump cable ends to contact each other or the lift truck. Do not smoke when checking battery electrolyte levels.</p>
+    <p>Electrolyte is an acid and can cause personal injury if it contacts skin or eyes.</p>
+    <p>Always wear eye protection when starting a lift truck with jump cables.</p>
+    <p>Improper jump procedures can cause an explosion resulting in personal injury.</p>
+    <p>Always connect battery positive (+) to battery positive (+) and battery negative (-) to be battery negative (-).</p>
+    <p>Jump only with a battery source and with the same voltage as the stalled lift truck.</p>
+    <p>Turn off all lights and accessories on the stalled lift truck. Otherwise, they will operate when the jump source is connected.</p>
+    <note type="notice">When starting from another machine, make sure the machines do not touch. This could prevent damage to engine bearings and electrical circuits.</note>
+    <p>Turn on (close) the disconnect switch prior to the boost connection to prevent damage to electrical components on the stalled machine.</p>
+    <p>Severely discharged maintenance free batteries might not fully recharge by the alternator alone after jump starting.</p>
+    <p>The batteries must be charged to the proper voltage by the battery charger.</p>
+    <p>Many batteries thought to be unusable, are still rechargeable.</p>
+    <p>This machine has a 24 volt starting system. Use only equal voltage for jump starting. Use of a welder or higher voltage equipment will damage the electrical system.</p>
+  </conbody>
+</concept>

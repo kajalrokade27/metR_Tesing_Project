@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="_Numd21e18555" xml:lang="en-us">
+  <title>Listening to a preset station</title>
+  <shortdesc>You can select the FM 1. FM2. AM 1 or AM2 radio band.</shortdesc>
+  <prolog>
+    <metadata>
+      <keywords>
+        <keyword>select</keyword>
+        <keyword>station</keyword>
+        <keyword>Listening</keyword>
+        <keyword>preset</keyword>
+        <keyword>Press</keyword>
+        <keyword>button</keyword>
+        <indexterm>select</indexterm>
+        <indexterm>station</indexterm>
+        <indexterm>Listening</indexterm>
+      </keywords>
+      <prodinfo>
+        <prodname></prodname>
+      </prodinfo>
+    </metadata>
+  </prolog>
+  <taskbody>
+    <context>
+      <info>
+        <fig>
+          <image href="../media/image434a.png"/>
+        </fig>
+      </info>
+    </context>
+    <steps id="steps_06281075">
+      <step>
+        <cmd>Press <b>AM or FM</b> button repeatedly to select the band.</cmd>
+        <info>
+          <p>You can select the FM 1. FM2. AM 1 or AM2 radio band.</p>
+          <p>While the Auto Store stations are stored, you can select the AMA or FMA band by additional.</p>
+          <p>The previously chosen broadcasting station will be received.</p>
+          <fig>
+            <image href="../media/image435.png"/>
+          </fig>
+        </info>
+      </step>
+      <step>
+        <cmd>Press <b>Preset</b> [1∥] - [6 D+] button</cmd>
+      </step>
+    </steps>
+    <result>
+      <p>From the 6 presets, select the frequency you want to listen to.</p>
+    </result>
+  </taskbody>
+</task>

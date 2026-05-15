@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="_Numd21e6717" xml:lang="en-us">
+  <title>Lift Truck Stability</title>
+  <shortdesc>Counterbalanced lift truck design is based on the balance of two weights on opposite sides</shortdesc>
+  <prolog>
+    <metadata>
+      <keywords>
+        <keyword>truck</keyword>
+        <keyword>Lift</keyword>
+        <keyword>Truck</keyword>
+        <keyword>Stability</keyword>
+        <keyword>centre</keyword>
+        <keyword>gravity</keyword>
+        <indexterm>truck</indexterm>
+        <indexterm>Lift</indexterm>
+        <indexterm>Truck</indexterm>
+      </keywords>
+      <prodinfo>
+        <prodname></prodname>
+      </prodinfo>
+    </metadata>
+  </prolog>
+  <conbody>
+    <p>
+      <fig>
+        <image href="../media/image39.png"/>
+      </fig>
+    </p>
+    <p>Counterbalanced lift truck design is based on the balance of two weights on opposite sides of a fulcrum (the front axle). The load on the forks must be balanced by the weight of the lift truck. The location of the centre of gravity of both the truck and the load is also a factor. This basic principle is used for picking up a load. The ability of the lift truck to handle a load is discussed in terms of centre of gravity and both forward and sideways stability.</p>
+  </conbody>
+</concept>

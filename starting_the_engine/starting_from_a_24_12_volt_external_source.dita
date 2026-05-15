@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="_Numd21e25338" xml:lang="en-us">
+  <title>Starting From a 24/12 Volt External Source</title>
+  <shortdesc>Always connect the external power source ground cable to a point away from and below</shortdesc>
+  <prolog>
+    <metadata>
+      <keywords>
+        <keyword>battery</keyword>
+        <keyword>ground</keyword>
+        <keyword>cables</keyword>
+        <keyword>NEGATIVE</keyword>
+        <keyword>Starting</keyword>
+        <keyword>Volt</keyword>
+        <indexterm>battery</indexterm>
+        <indexterm>ground</indexterm>
+        <indexterm>cables</indexterm>
+      </keywords>
+      <prodinfo>
+        <prodname></prodname>
+      </prodinfo>
+    </metadata>
+  </prolog>
+  <taskbody>
+    <steps-informal>
+      <note type="warning">Sparks occurring near the battery could cause vapors to explode.</note>
+      <p>Always connect the external power source ground cable to a point away from and below the battery, and well clear of fuel system components.</p>
+      <info>
+        <fig>
+          <image href="../media/image759.png"/>
+        </fig>
+      </info>
+      <p>Typical Example</p>
+      <note type="notice">Do not reverse battery cables. It can cause damage to the alternator.</note>
+      <p>Always connect the external power source cables in parallel with the lift truck battery cables : POSITIVE(+) to POSITIVE(+) and NEGATIVE(-) to NEGATIVE(-).</p>
+      <p>Attach ground cable last, remove first. All lift trucks equipped with Time built internal combustion engines are NEGATIVE(-) ground.</p>
+    </steps-informal>
+  </taskbody>
+</task>

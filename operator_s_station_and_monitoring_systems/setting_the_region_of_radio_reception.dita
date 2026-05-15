@@ -1,0 +1,71 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="_Numd21e17916" xml:lang="en-us">
+  <title>Setting the region of radio reception</title>
+  <shortdesc>FM: 87.7 - 107.9 MHz (200 kHz step)</shortdesc>
+  <prolog>
+    <metadata>
+      <keywords>
+        <keyword>region</keyword>
+        <keyword>seconds</keyword>
+        <keyword>setting</keyword>
+        <keyword>press</keyword>
+        <keyword>radio</keyword>
+        <keyword>reception</keyword>
+        <indexterm>region</indexterm>
+        <indexterm>seconds</indexterm>
+        <indexterm>setting</indexterm>
+        <indexterm>result</indexterm>
+      </keywords>
+      <prodinfo>
+        <prodname></prodname>
+      </prodinfo>
+    </metadata>
+  </prolog>
+  <conbody>    <ol>
+    <li><p>When the power is turned on, press and hold the buttons more 3 seconds at the same time as below;</p>
+      <ul id="ul_06281063">
+            <li>U.S.A: Hold down <fig>
+                <image href="../media/image380.png"/>
+              </fig> and press <fig>
+                <image href="../media/image381.png"/>
+              </fig> more 3 seconds</li>
+          </ul>
+          <p>FM: 87.7 - 107.9 MHz (200 kHz step)</p>
+          <p>AM: 530 - 1.7 10 kHz (10kHz step)</p>
+          <ul id="ul_06281064">
+            <li>South America: Hold down <fig>
+                <image href="../media/image382.png"/>
+              </fig> and press <fig>
+                <image href="../media/image383(1).png"/>
+              </fig> more 3 seconds</li>
+          </ul>
+          <p>FM: 87.5 - 108.0 MHz (100 kHz step)</p>
+          <p>AM: 530 - 1.7 10 kHz (10kHz step)</p>
+          <ul id="ul_06281065">
+            <li>Asia: Hold down <fig>
+                <image href="../media/image380(1).png"/>
+              </fig> and press <fig>
+                <image href="../media/image383(1).png"/>
+              </fig> more 3 seconds</li>
+          </ul>
+          <p>FM: 87.5 - 108.0 MHz (100 kHz step)</p>
+          <p>AM: 531 - 1,602 kHz (9 kHz step)</p>
+          <ul id="ul_06281066">
+            <li>Europe: Hold down <fig>
+                <image href="../media/image382(1).png"/>
+              </fig> and press <fig>
+                <image href="../media/image381(1).png"/>
+              </fig> seconds</li>
+          </ul>
+          <p>FM: 87.5 - 108.0 MHz (50 kHz step)</p>
+          <p>AM: 522 - 1,629 kHz (9 kHz step)</p></li>
+    <li>Please wait for more 5 seconds with no operation, the unit will save and apply your's setting.</li>
+    </ol>
+    <section>
+      <title>Result</title>
+      <p>If the region setting is not selected correctly to your country or region, the radio reception can not be received. Retry the setting the region of radio reception correctly.</p>
+      <p>The region setting is required only for the first time</p>
+      <p>The region setting is return to the default setting when the power connector or battery is disconnected.</p>
+    </section></conbody>
+</concept>

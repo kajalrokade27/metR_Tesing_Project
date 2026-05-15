@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="_Numd21e3888" xml:lang="en-us">
+  <title>Operating the Lift Truck</title>
+  <shortdesc>Always keep the lift truck under control.</shortdesc>
+  <prolog>
+    <metadata>
+      <keywords>
+        <keyword>truck</keyword>
+        <keyword>overhead</keyword>
+        <keyword>Always</keyword>
+        <keyword>grades</keyword>
+        <keyword>other</keyword>
+        <keyword>Slow</keyword>
+        <indexterm>truck</indexterm>
+        <indexterm>overhead</indexterm>
+        <indexterm>Always</indexterm>
+      </keywords>
+      <prodinfo>
+        <prodname></prodname>
+      </prodinfo>
+    </metadata>
+  </prolog>
+  <conbody>
+    <ul id="ul_06281008">
+      <li>Always keep the lift truck under control. Obey all traffic rules and warning signs.</li>
+      <li>Never leave the lift truck with the engine operating, or with the parking brake disengaged.</li>
+      <li>Operate the engine only in a well ventilated area.</li>
+      <li>Lower mast, with or without load, before turning or traveling. Tip over could result. Watch out for overhead obstructions.</li>
+      <li>Always observe floor load limits and overhead clearance.</li>
+      <li>Start, turn, and brake smoothly. Slow down for turns, grades, slippery or uneven surfaces.</li>
+    </ul>
+    <p>
+      <fig>
+        <image href="../media/image18.png"/>
+      </fig>
+    </p>
+    <ul id="ul_06281009">
+      <li>Use special care when operating on grades. Do not angle across or turn on grades. Do not use lift truck on slippery grades. Travel with forks downgrade when unloaded. Travel with load upgrade.</li>
+      <li>Do not overload, or handle offset, unstable, or loosely stacked loads. Refer to load capacity plate on the lift truck. Use extreme caution when handling suspended, long, high or wide load.</li>
+    </ul>
+    <p>
+      <fig>
+        <image href="../media/image19.png"/>
+      </fig>
+    </p>
+    <ul id="ul_06281010">
+      <li>Tilt elevated load forward only when directly over unloading area and with load as low as possible.</li>
+      <li>Do not stunt ride or indulge in horseplay.</li>
+      <li>Always look and keep a clear view of the path of travel.</li>
+      <li>Travel in reverse if load or attachment obstructs visibility. Use extreme caution if visibility is obstructed.</li>
+      <li>Stay in designated travel path, clear of dock edges, ditches, other dropoffs and surfaces which cannot safely support the lift truck.</li>
+      <li>Slow down and use extra care through doorways, intersections and other location where visibility is reduced.</li>
+      <li>Slow down for cross aisles, turns, ramps, dips, uneven or slippery surfaces and in congested areas and avoid pedestrians, other vehicles, obstruction, pot holes and other hazards or objects in the path of travel.</li>
+      <li>Always use overhead guards except where operation conditions do not permit. Do not operate lift truck in high stacking areas without overhead guards.</li>
+      <li>When stacking, watch for falling objects. Use load backrest extension and overhead guard.</li>
+      <li>Refer to the topic “Operation Techniques” in the “Operation Section” of this manual.</li>
+    </ul>
+  </conbody>
+</concept>

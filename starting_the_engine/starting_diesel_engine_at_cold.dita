@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="_Numd21e25084" xml:lang="en-us">
+  <title>Starting Diesel Engine at Cold</title>
+  <shortdesc>If engine coolant is cold, engine low idle speed could be higher than normal condition.</shortdesc>
+  <prolog>
+    <metadata>
+      <keywords>
+        <keyword>engine</keyword>
+        <keyword>ignition</keyword>
+        <keyword>Engine</keyword>
+        <keyword>position</keyword>
+        <keyword>preheat</keyword>
+        <keyword>light</keyword>
+        <indexterm>engine</indexterm>
+        <indexterm>ignition</indexterm>
+        <indexterm>Engine</indexterm>
+      </keywords>
+      <prodinfo>
+        <prodname></prodname>
+      </prodinfo>
+    </metadata>
+  </prolog>
+  <taskbody>
+    <steps id="steps_062810223">
+      <step>
+        <cmd>Turn the ignition key to the ON position. The start preheat light will come ON. The preheat light will stay ON maximum 20 seconds, depending on the ambient temperature.</cmd>
+        <info>
+          <note type="notice">Do not crank more than 10 seconds continuously.</note>
+          <p>If engine coolant is cold, engine low idle speed could be higher than normal condition. (Electronic Engine)</p>
+        </info>
+      </step>
+      <step>
+        <cmd>After the preheat light goes OFF, turn the ignition key to the START position, with the accelerator pedal pressed.</cmd>
+      </step>
+      <step>
+        <cmd>Release the ignition key after engine starting and check the engine condition.</cmd>
+      </step>
+      <step>
+        <cmd>If the engine stalls or does not start, turn the ignition key to the OFF position, then repeat steps 1 thru 3.</cmd>
+      </step>
+    </steps>
+  </taskbody>
+</task>

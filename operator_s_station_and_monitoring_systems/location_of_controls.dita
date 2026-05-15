@@ -1,0 +1,99 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="_Numd21e16555" xml:lang="en-us">
+  <title>Location of controls</title>
+  <shortdesc>Radio mode: Recall each stored station(press); store each station (press and hold)</shortdesc>
+  <prolog>
+    <metadata>
+      <keywords>
+        <keyword>button</keyword>
+        <keyword>press</keyword>
+        <keyword>Select</keyword>
+        <keyword>Radio</keyword>
+        <keyword>rotate</keyword>
+        <keyword>buttons</keyword>
+        <indexterm>button</indexterm>
+        <indexterm>press</indexterm>
+        <indexterm>Select</indexterm>
+      </keywords>
+      <prodinfo>
+        <prodname></prodname>
+      </prodinfo>
+    </metadata>
+  </prolog>
+  <taskbody>
+    <context>
+      <info>
+        <fig>
+          <image href="../media/image252.png"/>
+        </fig>
+      </info>
+    </context>
+    <steps id="steps_06281044">
+      <step>
+        <cmd>1 <b>AM</b> button: Select AM Radio mode.</cmd>
+      </step>
+      <step>
+        <cmd>2 <b>FM</b> button: Select FM Radio mode.</cmd>
+      </step>
+      <step>
+        <cmd>3 <b>USB</b> button: Select USB player.</cmd>
+      </step>
+      <step>
+        <cmd>4 <b>AUX</b> button: Select AUX mode.</cmd>
+      </step>
+      <step>
+        <cmd>5 <b>POWER/MUTE</b> button with VOLUME dial: Turn the power on or mute function on/off (press); turn the power off (press and hold); control the volume level (rotate).</cmd>
+        <info>
+          <fig>
+            <image href="../media/image244.png"/>
+          </fig>
+        </info>
+      </step>
+      <step>
+        <cmd>6 Display window for Play/Reception/Menu state and information.</cmd>
+      </step>
+      <step>
+        <cmd>7</cmd>
+        <info>
+          <ul id="ul_06281041">
+            <li>
+              <b>PRESET</b> [1∥] - [6 D+] buttons</li>
+          </ul>
+          <p>Radio mode: Recall each stored station(press); store each station (press and hold)</p>
+          <p>USB mode: Change the playback mode ([1∥]/[2 RPT]/[3 RDM] buttons); shows available information about the current track ([4INFO] button); move to folder down/up ([5 D-]/[6 D+] buttons).</p>
+        </info>
+      </step>
+      <step>
+        <cmd>8</cmd>
+        <info>
+          <ul id="ul_06281042">
+            <li>
+              <b>SCN/AST</b> button with│◀◀ TUNE/TRACK ▶▶│dial</li>
+          </ul>
+          <p>Radio mode: Plays frequencies with superior reception for 5 seconds each (press); Saves frequencies with superior reception to Preset buttons (press and hold). select the reception frequency manually (rotate).</p>
+          <p>USB mode: Scans the beginning parts (approx. 10 seconds per track) of tracks (press); moves to the previous/next track (rotate); rewind or fast- forward the track (rotate and hold).</p>
+        </info>
+      </step>
+      <step>
+        <cmd>9 <b>LOUD</b> button: Turn the Loudness mode on/off.</cmd>
+      </step>
+      <step>
+        <cmd>10 <b>MENU</b> button: Enter the sound setting mode (press); show/hide the clock or when power is off, enter the clock setting mode (press and hold).</cmd>
+      </step>
+      <step>
+        <cmd>11</cmd>
+      </step>
+    </steps>
+    <result>
+      <ul id="ul_06281043">
+        <li>
+          <b>Input Terminal cover</b>: Open the cover to connect the external audio device or the USB device.</li>
+        <li>
+          <b>AUX IN</b> jack: Connect the external audio device.</li>
+        <li>
+          <b>USB port</b>: Connect the USB device.</li>
+      </ul>
+    </result>
+  </taskbody>
+</task>

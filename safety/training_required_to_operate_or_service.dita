@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="_Numd21e1902" xml:lang="en-us">
+  <title>Training Required To Operate or Service</title>
+  <shortdesc>Located on the operator’s cell.</shortdesc>
+  <prolog>
+    <metadata>
+      <keywords>
+        <keyword>Training</keyword>
+        <keyword>Required</keyword>
+        <keyword>Operate</keyword>
+        <keyword>Service</keyword>
+        <keyword>Located</keyword>
+        <keyword>operator</keyword>
+        <indexterm>Training</indexterm>
+        <indexterm>Required</indexterm>
+        <indexterm>Operate</indexterm>
+      </keywords>
+      <prodinfo>
+        <prodname></prodname>
+      </prodinfo>
+    </metadata>
+  </prolog>
+  <conbody>
+    <p>
+      <fig>
+        <image href="../media/image2.png"/>
+      </fig>
+    </p>
+    <p>Located on the operator’s cell.</p>
+    <note type="warning">Improper operation or maintenance could result in injury or death. Do not operate or work on the lift truck unless you are properly trained. Read and understand the Operation and Maintenance Manual. Additional manuals are available from Time Lift Truck branchs.</note>
+    <p>This label also provides allowable lift truck capacity information.</p>
+    <p>
+      <fig>
+        <image href="../media/image3.png"/>
+      </fig>
+    </p>
+    <p>Located on the OVHG in sight of operator.</p>
+  </conbody>
+</concept>

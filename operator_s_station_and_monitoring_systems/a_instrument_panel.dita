@@ -1,0 +1,200 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="_Numd21e12297" xml:lang="en-us">
+  <title>A- Instrument Panel</title>
+  <shortdesc>(1) Upper Indicator Light</shortdesc>
+  <prolog>
+    <metadata>
+      <keywords>
+        <keyword>light</keyword>
+        <keyword>engine</keyword>
+        <keyword>Light</keyword>
+        <keyword>Indicator</keyword>
+        <keyword>Indicates</keyword>
+        <keyword>Engine</keyword>
+        <indexterm>light</indexterm>
+        <indexterm>engine</indexterm>
+        <indexterm>Light</indexterm>
+        <indexterm>result</indexterm>
+      </keywords>
+      <prodinfo>
+        <prodname></prodname>
+      </prodinfo>
+    </metadata>
+  </prolog>
+  <conbody><info>
+        <fig>
+          <image href="../media/image179.png"/>
+        </fig>
+      </info>
+    <ol>
+    <li>1. Upper Indicator Light</li>
+    <li>2. Air Cleaner Indicator Light</li>
+    <li>3. Alternator Indicator Light</li>
+    <li>4. Diesel Engine Start Preheat Indicator Light</li>
+    <li>5. Moisture separator warning light</li>
+    <li>6. Front Flood Light</li>
+    <li>7. Engine Oil Pressure Indicator Light</li>
+    <li>8. Parking Indicator Light</li>
+    <li>9. Blank</li>
+    <li>10. Seat Belt Warning light</li>
+    <li>11. Seat Leaving Warning Light</li>
+    <li>12. Blank</li>
+    <li>13. Engine Malfunction Indicator Light</li>
+    <li>14. Directional Turning Indicator Lights</li>
+    <li>15. Hour Counter</li>
+    <li>16. Fuel Level Gauge</li>
+    <li>17. Engine Coolant Gauge</li>
+    <li>18. Transmission Oil Temperature Gauge</li>
+    </ol>
+    <section>
+      <title>Result</title>
+      <info>
+        <fig>
+          <image href="../media/image187.png"/>
+        </fig>
+      </info>
+      <p>
+        <b>(1) Upper Indicator Light</b>
+      </p>
+      <p>Indicates the upper indicator light is on.</p>
+      <info>
+        <fig>
+          <image href="../media/image188.png"/>
+        </fig>
+      </info>
+      <p>
+        <b>(2) Air Cleaner Indicator Light</b>
+      </p>
+      <p>Indicates that the air filter is blocked. If the light stays on after starting the engine, stop the engine, remove the air filter element and clean it thoroughly using compressed air. Refit the filter, and check that the light goes out when the engine is started.</p>
+      <info>
+        <fig>
+          <image href="../media/image189.png"/>
+        </fig>
+      </info>
+      <p>
+        <b>(3) Alternator Indicator Light</b>
+      </p>
+      <p>Indicates if the battery charging system is operational. The light will come on when the ignition switch is turned to the ON position.</p>
+      <p>The light should go off after the engine is started, indicating the alternator is producing sufficient voltage to charge the battery. If the light turns on with the engine running, check the alternator charging system for a malfunction.</p>
+      <info>
+        <fig>
+          <image href="../media/image190.png"/>
+        </fig>
+      </info>
+      <p>
+        <b>(4) Diesel Engine Start Preheat Indicator Light</b>
+      </p>
+      <p>The light will come ON when the key is turned to the ON position from the OFF position. This indicates that the glow plugs are preheating the pre-combustion chambers for easier starting.</p>
+      <p>The amount of time needed to preheat the pre- combustion chambers is approximately seven seconds, depending on the surrounding air temperature. When the light goes OFF the maximum pre-combustion chamber temperature has been reached and the key can be turned to the START position to start the engine.</p>
+      <info>
+        <fig>
+          <image href="../media/image191.png"/>
+        </fig>
+      </info>
+      <p>
+        <b>(5) Moisture separator warning light</b>
+      </p>
+      <p>The light will be turned on if humidity reaches a certain level in the fuel filter. In this case, loosen screws under the fuel filter and remove moisture.</p>
+      <info>
+        <fig>
+          <image href="../media/image192.png"/>
+        </fig>
+      </info>
+      <p>
+        <b>(6) Front Floodlights</b>
+      </p>
+      <p>Push down on the switch to the first step, to turn on the front floodlights.</p>
+      <info>
+        <fig>
+          <image href="../media/image193.png"/>
+        </fig>
+      </info>
+      <p>
+        <b>(7) Engine Oil Pressure Indicator Light</b>
+      </p>
+      <p>Indicates insufficient engine oil pressure.</p>
+      <p>The light will come on when the ignition switch is turned to the ON position. The light should go off after the engine is started. If the light turns on while operating the lift truck, insufficient engine oil pressure is indicated. Park the lift truck and stop the engine.</p>
+      <info>
+        <fig>
+          <image href="../media/image194.png"/>
+        </fig>
+      </info>
+      <p>
+        <b>(8) Parking indicator light</b>
+      </p>
+      <p>Turned on when the parking switch is pressed.</p>
+      <note type="warning">Flashing parking indicator lamp (8) warns a malfunction detected in the charging function of the brake system which can lead to a serious accident. Stop the operation and call the nearest branch to check up the brake system.</note>
+      <info>
+        <fig>
+          <image href="../media/image195.png"/>
+        </fig>
+      </info>
+      <p>
+        <b>(10) Seat Belt Warning Light</b>
+      </p>
+      <p>Indicates when the seat belt dose not fastened by operator</p>
+      <p>The light will come on when the ignition switch is turned to the ON position. The light should go off after engine is started.</p>
+      <info>
+        <fig>
+          <image href="../media/image196.png"/>
+        </fig>
+      </info>
+      <p>
+        <b>(11) Seat Leaving Warning Light</b>
+      </p>
+      <p>When operator leaves seat without engine stop, hydraulic control lever cannot operate for 3 seconds.</p>
+      <info>
+        <fig>
+          <image href="../media/image198.png"/>
+        </fig>
+      </info>
+      <p>
+        <b>(13) Engine Malfunction Indicator Lamp</b>
+      </p>
+      <p>The engine control system is equipped with built-in fault diagnostics. Detected system faults can be displayed by the Malfunction Indicator Lamp (MIL) as Diagnostic Fault Codes (DFC) or flash codes, and viewed in detail with the use of service tool software. When the ignition key is turned ON the MIL will perform a self-test, illuminate once and then go OFF. If a detected fault condition exists, the fault or faults will be stored in the memory of the engine control unit (ECM). Once a fault occurs the MIL will illuminate and remain ON. This signals the operator that a fault has been detected by the ECU. The error code is displayed in figures on the LCD in the left side dash board</p>
+      <info>
+        <fig>
+          <image href="../media/image199.png"/>
+        </fig>
+      </info>
+      <p>
+        <b>(14) Directional Turning Indicator Light</b>
+      </p>
+      <p>Pull the lever to activate the right turn signal. Push the lever to activate the left turn signal.</p>
+      <p>
+        <b>(15) Hour Counter</b>
+      </p>
+      <p>Indicates the total number of hours the engine and the lift truck have operated. The hour meter will operate when the ignition switch is in the ON position, whether the engine is running or not.</p>
+      <p>The hour meter is used to determine lubrication and maintenance intervals.</p>
+      <info>
+        <fig>
+          <image href="../media/image200.png"/>
+        </fig>
+      </info>
+      <p>
+        <b>(16) Fuel Level Gauge</b>
+      </p>
+      <p>Indicates the level of the fuel in the fuel tank</p>
+      <info>
+        <fig>
+          <image href="../media/image201.png"/>
+        </fig>
+      </info>
+      <p>
+        <b>(17) Engine Coolant Gauge</b>
+      </p>
+      <p>Indicates coolant temperature. If the pointer moves beyond the green band while operating the lift truck, overheating is indicated. Park the lift truck and stop the engine.</p>
+      <p>Check the cooling system for a malfunction. The point will be at the end of the green band when the coolant temperature reaches approximately 103°C(217°F) on all engines.</p>
+      <info>
+        <fig>
+          <image href="../media/image202.png"/>
+        </fig>
+      </info>
+      <p>
+        <b>(18) Transmission Oil Temperature Gauge</b>
+      </p>
+      <p>Indicates transmission oil temperature. If the pointer moves beyond the green band while operating the lift truck, excessive transmission oil temperature is indicated. Park the lift truck and stop the engine.</p>
+      <p>Check the system for a malfunction. The pointer will be at the end of the green band when the transmission oil temperature reaches approximately 120°C (248°F).</p>
+    </section></conbody>
+</concept>

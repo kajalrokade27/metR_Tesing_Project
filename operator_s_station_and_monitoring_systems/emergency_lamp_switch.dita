@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="_Numd21e15326" xml:lang="en-us">
+  <title>Emergency lamp switch</title>
+  <shortdesc>This switch operates the emergency lamp which indicates emergency status to other vehicles.</shortdesc>
+  <prolog>
+    <metadata>
+      <keywords>
+        <keyword>switch</keyword>
+        <keyword>Emergency</keyword>
+        <keyword>emergency</keyword>
+        <keyword>operates</keyword>
+        <keyword>which</keyword>
+        <keyword>indicates</keyword>
+        <indexterm>switch</indexterm>
+        <indexterm>Emergency</indexterm>
+        <indexterm>emergency</indexterm>
+      </keywords>
+      <prodinfo>
+        <prodname></prodname>
+      </prodinfo>
+    </metadata>
+  </prolog>
+  <body>
+    <ul id="ul_06281035">
+      <li>This switch operates the emergency lamp which indicates emergency status to other vehicles.</li>
+    </ul>
+  </body>
+</topic>

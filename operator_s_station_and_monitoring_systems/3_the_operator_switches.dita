@@ -1,0 +1,65 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="_Numd21e13662" xml:lang="en-us">
+  <title>3 The Operator &amp; Switches</title>
+  <shortdesc>Figure : [Pilot Valve Box]</shortdesc>
+  <prolog>
+    <metadata>
+      <keywords>
+        <keyword>Switch</keyword>
+        <keyword>Plug</keyword>
+        <keyword>Spare</keyword>
+        <keyword>Room</keyword>
+        <keyword>Figure</keyword>
+        <keyword>Operation</keyword>
+        <indexterm>Switch</indexterm>
+        <indexterm>Plug</indexterm>
+        <indexterm>Spare</indexterm>
+      </keywords>
+      <prodinfo>
+        <prodname></prodname>
+      </prodinfo>
+    </metadata>
+  </prolog>
+  <conbody><p>Figure : [Pilot Valve Box]</p>
+      <info>
+        <fig>
+          <image href="../media/image211.png"/>
+        </fig>
+      </info>
+    <ol>
+    <li>1. Lift Lever</li>
+    <li>2. Tilt Lever</li>
+    <li>3. Left fork Operation lever</li>
+    <li>4. Right fork Operation lever.</li>
+    <li>5. Auxiliary Operation lever</li>
+    <li>6. Parking Switch</li>
+    <li>7. Auto/Manual Change Switch</li>
+    <li>8. Light Switch</li>
+    <li>9. Front Working Lamp Switch</li>
+    <li>10. Idle On Switch</li>
+    <li>11. Idle Up/Down Switch</li>
+    <li>12. Rear Working Lamp Switch</li>
+    <li><p>13. Mast Working Lamp Switch</p>
+      <p>Figure : [The Left Side In Cabin]</p>
+          <fig>
+            <image href="../media/image212.png"/>
+          </fig></li>
+    <li>1. Plug(Spare Room)</li>
+    <li>2. Air Compressor Switch</li>
+    <li>3. Strobe Switch</li>
+    <li>4. Seat Heater Switch</li>
+    <li>5. Heating Lay Mirror Switch</li>
+    <li><p>6. Wiper Switch</p>
+      <p>Figure : [The Right Side In Cabin]</p>
+          <fig>
+            <image href="../media/image214.png"/>
+          </fig></li>
+    <li>1. Plug(Spare Room)</li>
+    <li>2. Plug(Spare Room)</li>
+    <li>3. Plug(Spare Room)</li>
+    <li>4. Plug(Spare Room)</li>
+    <li>5. Economic Switch</li>
+    <li>6. Regeneration(SCR Cleaning) Switch</li>
+    </ol></conbody>
+</concept>

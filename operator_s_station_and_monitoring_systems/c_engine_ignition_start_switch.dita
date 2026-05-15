@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="_Numd21e12815" xml:lang="en-us">
+  <title>C-Engine Ignition Start Switch</title>
+  <shortdesc>The key switch is a three position switch. Position (1) is ACCESSORY OFF. Position (2)</shortdesc>
+  <prolog>
+    <metadata>
+      <keywords>
+        <keyword>position</keyword>
+        <keyword>Ignition</keyword>
+        <keyword>Position</keyword>
+        <keyword>START</keyword>
+        <keyword>Engine</keyword>
+        <keyword>Start</keyword>
+        <indexterm>position</indexterm>
+        <indexterm>Ignition</indexterm>
+        <indexterm>Position</indexterm>
+      </keywords>
+      <prodinfo>
+        <prodname></prodname>
+      </prodinfo>
+    </metadata>
+  </prolog>
+  <taskbody>
+    <steps-informal>
+      <info>
+        <fig>
+          <image href="../media/image204.png"/>
+        </fig>
+      </info>
+      <p>The key switch is a three position switch. Position (1) is ACCESSORY OFF. Position (2) is On/Ignition.</p>
+      <p>Position (3) is START, which engages the starter.</p>
+      <p>After the key has been turned to the START position, the key must be returned to the OFF position before it can be turned to the START position again.</p>
+    </steps-informal>
+  </taskbody>
+</task>

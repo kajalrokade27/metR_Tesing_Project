@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="_Numd21e11239" xml:lang="en-us">
+  <title>Operator’s Warning and Identification Plate</title>
+  <shortdesc>Familiarise yourself with the OPERATOR’S WARNING Plate and IDENTIFICATION, LIFT CAPACITY and ATTACHMENT PLATES. DO</shortdesc>
+  <prolog>
+    <metadata>
+      <keywords>
+        <keyword>Plate</keyword>
+        <keyword>truck</keyword>
+        <keyword>Operator</keyword>
+        <keyword>Warning</keyword>
+        <keyword>Identification</keyword>
+        <keyword>Familiarise</keyword>
+        <indexterm>Plate</indexterm>
+        <indexterm>truck</indexterm>
+        <indexterm>Operator</indexterm>
+      </keywords>
+      <prodinfo>
+        <prodname></prodname>
+      </prodinfo>
+    </metadata>
+  </prolog>
+  <conbody>
+    <p>Familiarise yourself with the OPERATOR’S WARNING Plate and IDENTIFICATION, LIFT CAPACITY and ATTACHMENT PLATES. DO NOT exceed Capacity as equipped load ratings.</p>
+    <note type="warning">The load capacity of lift truck should never be exceeded. Overloading of the lift truck could be a hazard to the safety of others, material, or damage the truck.</note>
+  </conbody>
+</concept>

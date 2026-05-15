@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="_Numd21e14757" xml:lang="en-us">
+  <title>Engine stop switch</title>
+  <shortdesc>This switch stops the engine under an emergency condition.</shortdesc>
+  <prolog>
+    <metadata>
+      <keywords>
+        <keyword>switch</keyword>
+        <keyword>Engine</keyword>
+        <keyword>stops</keyword>
+        <keyword>engine</keyword>
+        <keyword>condition</keyword>
+        <keyword>position</keyword>
+        <indexterm>switch</indexterm>
+        <indexterm>Engine</indexterm>
+        <indexterm>stops</indexterm>
+      </keywords>
+      <prodinfo>
+        <prodname></prodname>
+      </prodinfo>
+    </metadata>
+  </prolog>
+  <taskbody>
+    <context>
+      <info>
+        <fig>
+          <image href="../media/image229.png"/>
+        </fig>
+        <fig>
+          <image href="../media/image230.png"/>
+        </fig>
+      </info>
+      <p>This switch stops the engine under an emergency condition.</p>
+    </context>
+    <steps id="steps_06281029">
+      <step>
+        <cmd>At this position, the engine stops.</cmd>
+      </step>
+      <step>
+        <cmd>At this position, the basic condition is maintained</cmd>
+      </step>
+    </steps>
+  </taskbody>
+</task>

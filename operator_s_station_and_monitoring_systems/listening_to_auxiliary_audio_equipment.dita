@@ -1,0 +1,71 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="_Numd21e19723" xml:lang="en-us">
+  <title>Listening to auxiliary audio equipment</title>
+  <shortdesc>By connecting an optional portable audio device to the AUX input jack (stereo mini jack)</shortdesc>
+  <prolog>
+    <metadata>
+      <keywords>
+        <keyword>audio</keyword>
+        <keyword>equipment</keyword>
+        <keyword>external</keyword>
+        <keyword>volume</keyword>
+        <keyword>Turn</keyword>
+        <keyword>Listening</keyword>
+        <indexterm>audio</indexterm>
+        <indexterm>equipment</indexterm>
+        <indexterm>external</indexterm>
+      </keywords>
+      <prodinfo>
+        <prodname></prodname>
+      </prodinfo>
+    </metadata>
+  </prolog>
+  <taskbody>
+    <context>
+      <p>By connecting an optional portable audio device to the AUX input jack (stereo mini jack) on the unit and then simply selecting the source, you can listen on your car speakers.</p>
+      <info>
+        <fig>
+          <image href="../media/image506a.png"/>
+        </fig>
+      </info>
+    </context>
+    <steps id="steps_062810100">
+      <step>
+        <cmd>Turn the <b>VOLUME</b> dial left to decrease the volume level.</cmd>
+        <info>
+          <p>The <b>AUX</b> volume can also be controlled separately through the connected device.</p>
+          <fig>
+            <image href="../media/image561a.png"/>
+          </fig>
+        </info>
+      </step>
+      <step>
+        <cmd>Turn the external audio equipment off Open the cover, connect the audio output of the external audio equipment to AUX input terminal on the unit.</cmd>
+      </step>
+      <step>
+        <cmd>Turn the external audio equipment on. Start playback of the external audio equipment at a moderate volume.</cmd>
+        <info>
+          <fig>
+            <image href="../media/image554.png"/>
+          </fig>
+        </info>
+      </step>
+      <step>
+        <cmd>Press the <b>AUX</b> button to select the AUX function.</cmd>
+        <info>
+          <fig>
+            <image href="../media/image617a.png"/>
+          </fig>
+        </info>
+      </step>
+      <step>
+        <cmd>Set your usual listening volume by turn the <b>VOLUME</b> dial left/right on the unit.</cmd>
+      </step>
+    </steps>
+    <result>
+      <p>Once the connector is disconnected, the previous mode will be restored.</p>
+      <p>AUX mode can be used only when an external audio player has been connected.</p>
+    </result>
+  </taskbody>
+</task>

@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="_Numd21e7944" xml:lang="en-us">
+  <title>How to Survive in a Tipover</title>
+  <shortdesc>Always use operator restraint system.</shortdesc>
+  <prolog>
+    <metadata>
+      <keywords>
+        <keyword>operator</keyword>
+        <keyword>Survive</keyword>
+        <keyword>Tipover</keyword>
+        <keyword>restraint</keyword>
+        <keyword>system</keyword>
+        <keyword>Lean</keyword>
+        <indexterm>operator</indexterm>
+        <indexterm>Survive</indexterm>
+        <indexterm>Tipover</indexterm>
+      </keywords>
+      <prodinfo>
+        <prodname></prodname>
+      </prodinfo>
+    </metadata>
+  </prolog>
+  <conbody><steps-informal>
+      <note type="warning">In the event of a tipover, the risk of serious injury or death will be reduced if the operator is using the operator restraint system and follows the instructions provided.</note>
+      <info>
+        <fig>
+          <image href="../media/image84.png"/>
+        </fig>
+      </info>
+      <p>Always use operator restraint system.</p>
+      <info>
+        <fig>
+          <image href="../media/image85.png"/>
+        </fig>
+      </info>
+      <p>Don’t jump.</p>
+      <info>
+        <fig>
+          <image href="../media/image86.png"/>
+        </fig>
+      </info>
+      <p>Hold on tight.</p>
+      <info>
+        <fig>
+          <image href="../media/image87.png"/>
+        </fig>
+      </info>
+      <p>Brace your feet and keep them within the operator’s compartment.</p>
+      <info>
+        <fig>
+          <image href="../media/image88.png"/>
+        </fig>
+      </info>
+      <p>Lean away from the direction of fall.</p>
+      <info>
+        <fig>
+          <image href="../media/image89.png"/>
+        </fig>
+      </info>
+      <p>Lean forward.</p>
+    </steps-informal></conbody>
+</concept>

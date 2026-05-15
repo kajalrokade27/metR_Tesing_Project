@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="_Numd21e18266" xml:lang="en-us">
+  <title>Saving radio stations manually</title>
+  <shortdesc>You can save up to 6 preset channels each for FM 1, FM2, FMA, AM1,</shortdesc>
+  <prolog>
+    <metadata>
+      <keywords>
+        <keyword>preset</keyword>
+        <keyword>button</keyword>
+        <keyword>stations</keyword>
+        <keyword>Saving</keyword>
+        <keyword>radio</keyword>
+        <keyword>manually</keyword>
+        <indexterm>preset</indexterm>
+        <indexterm>button</indexterm>
+        <indexterm>stations</indexterm>
+      </keywords>
+      <prodinfo>
+        <prodname></prodname>
+      </prodinfo>
+    </metadata>
+  </prolog>
+  <taskbody>
+    <context>
+      <p>You can save up to 6 preset channels each for FM 1, FM2, FMA, AM1, AM2, and AMA.</p>
+      <p>If change the stations while driving, use preset button to prevent accidents.</p>
+    </context>
+    <steps id="steps_06281071">
+      <step>
+        <cmd>Press the <b>AM or FM</b> button repeatedly to select the band.</cmd>
+        <info>
+          <fig>
+            <image href="../media/image418a.png"/>
+          </fig>
+        </info>
+      </step>
+      <step>
+        <cmd>After selecting the frequency, press and hold the</cmd>
+      </step>
+    </steps>
+    <result>
+      <p>
+        <b>PRESET</b> [1∥] - [6 D+] button.</p>
+      <p>The frequency is saved to the selected preset button.</p>
+      <p>A total of 24 frequencies with 6 preset frequencies each for FM1/FM2/AM1/AM2 modes can be saved.</p>
+    </result>
+  </taskbody>
+</task>

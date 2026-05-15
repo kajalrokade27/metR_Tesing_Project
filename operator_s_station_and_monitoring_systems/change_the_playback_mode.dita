@@ -1,0 +1,99 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="_Numd21e19232" xml:lang="en-us">
+  <title>Change the playback mode</title>
+  <shortdesc>While playing, press the SCN button to begin the Intro scan playback.</shortdesc>
+  <prolog>
+    <metadata>
+      <keywords>
+        <keyword>playback</keyword>
+        <keyword>plays</keyword>
+        <keyword>current</keyword>
+        <keyword>button</keyword>
+        <keyword>device</keyword>
+        <keyword>files</keyword>
+        <indexterm>playback</indexterm>
+        <indexterm>plays</indexterm>
+        <indexterm>current</indexterm>
+      </keywords>
+      <prodinfo>
+        <prodname></prodname>
+      </prodinfo>
+    </metadata>
+  </prolog>
+  <taskbody>
+    <context>
+      <info>
+        <fig>
+          <image href="../media/image482.png"/>
+        </fig>
+      </info>
+    </context>
+    <steps id="steps_06281096">
+      <step>
+        <cmd>While playing, press the SCN button to begin the Intro scan playback.</cmd>
+        <info>
+          <ul id="ul_06281093">
+            <li>When pressed shortly, scans the beginning parts of device files. (approx. 10 seconds per file)</li>
+            <li>
+              <fig>
+                <image href="../media/image483.png"/>
+              </fig> : Successively plays the intro of the file in the USB device.</li>
+            <li>
+              <fig>
+                <image href="../media/image484.png"/>
+              </fig>
+              <fig>
+                <image href="../media/image485.png"/>
+              </fig>: Successively plays the intro of the file in the current folder.</li>
+            <li>Off: Cancels intro playback.</li>
+          </ul>
+          <fig>
+            <image href="../media/image486.png"/>
+          </fig>
+        </info>
+      </step>
+      <step>
+        <cmd>Press the [2 RPT] button to select the Repeat playback mode.</cmd>
+        <info>
+          <ul id="ul_06281094">
+            <li>
+              <fig>
+                <image href="../media/image248(1).png"/>
+              </fig> : The current file plays repeatedly.</li>
+            <li>
+              <fig>
+                <image href="../media/image484(1).png"/>
+              </fig>
+              <fig>
+                <image href="../media/image248(2).png"/>
+              </fig> : The current folder plays repeatedly.</li>
+            <li>Off: Cancels repeat playback.</li>
+          </ul>
+          <fig>
+            <image href="../media/image487.png"/>
+          </fig>
+        </info>
+      </step>
+      <step>
+        <cmd>Press the [3 RDM] button to select the Random playback mode.</cmd>
+      </step>
+    </steps>
+    <result>
+      <ul id="ul_06281095">
+        <li>
+          <fig>
+            <image href="../media/image488.png"/>
+          </fig>
+          <fig>
+            <image href="../media/image249(1).png"/>
+          </fig> : AII files of current folder play in random order</li>
+        <li>
+          <fig>
+            <image href="../media/image489.png"/>
+          </fig> : AII files of USB device play in random order</li>
+        <li>Off: Cancels random playback.</li>
+      </ul>
+    </result>
+  </taskbody>
+</task>

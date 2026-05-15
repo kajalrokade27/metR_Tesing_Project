@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="_Numd21e15200" xml:lang="en-us">
+  <title>Economic(Fuel saving) switch</title>
+  <shortdesc>This switch is to keep the engine’s speed from exceeding a limit.</shortdesc>
+  <prolog>
+    <metadata>
+      <keywords>
+        <keyword>switch</keyword>
+        <keyword>engine</keyword>
+        <keyword>speed</keyword>
+        <keyword>Economic</keyword>
+        <keyword>Fuel</keyword>
+        <keyword>saving</keyword>
+        <indexterm>switch</indexterm>
+        <indexterm>engine</indexterm>
+        <indexterm>speed</indexterm>
+      </keywords>
+      <prodinfo>
+        <prodname></prodname>
+      </prodinfo>
+    </metadata>
+  </prolog>
+  <conbody>
+    <p>
+      <fig>
+        <image href="../media/image242.png"/>
+      </fig>
+    </p>
+    <p>This switch is to keep the engine’s speed from exceeding a limit.</p>
+    <p>
+      <fig>
+        <image href="../media/image225.png"/>
+      </fig>
+    </p>
+    <p>With the switch off, the engine reaches the maximum speed when the accelerator pedal is fully pressed. With the switch on, the engine’s speed is limited to a maximum rpm of 2,100. In the case where the vehicle is used mainly for driving, using this switch reduces fuel consumption by approximately 10%.</p>
+  </conbody>
+</concept>

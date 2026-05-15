@@ -1,0 +1,106 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="_Numd21e17633" xml:lang="en-us">
+  <title>Adjusting volume directly</title>
+  <shortdesc>Setting the sound</shortdesc>
+  <prolog>
+    <metadata>
+      <keywords>
+        <keyword>sound</keyword>
+        <keyword>level</keyword>
+        <keyword>volume</keyword>
+        <keyword>button</keyword>
+        <keyword>Press</keyword>
+        <keyword>VOLUME</keyword>
+        <indexterm>sound</indexterm>
+        <indexterm>level</indexterm>
+        <indexterm>volume</indexterm>
+      </keywords>
+      <prodinfo>
+        <prodname></prodname>
+      </prodinfo>
+    </metadata>
+  </prolog>
+  <taskbody>
+    <context>
+      <info>
+        <fig>
+          <image href="../media/image363.png"/>
+        </fig>
+      </info>
+    </context>
+    <steps id="steps_06281060">
+      <step>
+        <cmd>Turn the <b>VOLUME</b> dial to control volume. Available volume range: 1 - 41.</cmd>
+        <info>
+          <p>
+            <b>Setting the sound</b>
+          </p>
+          <fig>
+            <image href="../media/image357.png"/>
+          </fig>
+        </info>
+      </step>
+      <step>
+        <cmd>Press <b>MENU</b> button repeatedly to select the Sound setting mode as below;</cmd>
+        <info>
+          <ul id="ul_06281057">
+            <li>
+              <b>BAS</b> (Bass): sets the bass sound level. (-5 ~ +5)</li>
+            <li>
+              <b>MID</b> (Middle): sets the middle sound level. (-5 ~ +5)</li>
+            <li>
+              <b>TRE</b> (Treble): sets the treble sound level. (-5 ~ +5)</li>
+            <li>
+              <b>FAD</b> (Fader: Option): sets the sound fade between the front and rear speakers. (F15 ~ R15)</li>
+            <li>
+              <b>BAL</b> (Balance): sets the sound balance between the right and left speakers. (L 15 ~ R15)</li>
+            <li>
+              <b>LOUD</b> (Loudness): turn Loudness mode on/off</li>
+            <li>
+              <b>EQ</b> (Equalizer style): selects the one of the 7 EQ styles (EQ OFF, POP, ROCK, COUNTRY, VOICE, JAZZ, CLASSIC)</li>
+            <li>
+              <b>BEEP</b> (Beep): turn Beep sound on/off</li>
+            <li>
+              <b>SCROLL</b> (Scroll): turn Scroll mode on/off</li>
+            <li>
+              <b>VOL</b> (Volume): sets the sound volume level. (VOL 0 ~ VOL 41)</li>
+          </ul>
+          <fig>
+            <image href="../media/image383.png"/>
+          </fig>
+        </info>
+      </step>
+      <step>
+        <cmd>Turn the <b>VOLUME</b> dial left/right to adjust the value of the level, balance or style.</cmd>
+      </step>
+    </steps>
+    <result>
+      <p>
+        <b>Setting the Loudness mode</b>
+      </p>
+      <info>
+        <fig>
+          <image href="../media/image377.png"/>
+        </fig>
+      </info>
+      <ul id="ul_06281058">
+        <li>Press the <b>LOUD</b> button to turn loudness mode on/off.</li>
+      </ul>
+      <p>Increases the level for low frequency.</p>
+      <p>To turn the loudness option off, press the <b>LOUD</b> button again.</p>
+      <p>
+        <b>Muting the sound quickly</b>
+      </p>
+      <info>
+        <fig>
+          <image href="../media/image396.png"/>
+        </fig>
+      </info>
+      <ul id="ul_06281059">
+        <li>Press the <b>MUTE</b> button to turn mute on. "MUTE" will flash on the display and mute the sound.</li>
+      </ul>
+      <p>Press the <b>MUTE</b> button again or turn <b>VOLUME</b> dial to restore sound.</p>
+    </result>
+  </taskbody>
+</task>

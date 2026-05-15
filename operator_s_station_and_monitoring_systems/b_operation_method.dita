@@ -1,0 +1,177 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="_Numd21e21593" xml:lang="en-us">
+  <title>b. Operation Method</title>
+  <shortdesc>The basic level is set up by 25.</shortdesc>
+  <prolog>
+    <metadata>
+      <keywords>
+        <keyword>MENU</keyword>
+        <keyword>images</keyword>
+        <keyword>AUTO</keyword>
+        <keyword>button</keyword>
+        <keyword>image</keyword>
+        <keyword>trigger</keyword>
+        <indexterm>MENU</indexterm>
+        <indexterm>images</indexterm>
+        <indexterm>AUTO</indexterm>
+      </keywords>
+      <prodinfo>
+        <prodname></prodname>
+      </prodinfo>
+    </metadata>
+  </prolog>
+  <taskbody>
+    <context>
+      <ul id="ul_062810160">
+        <li>▶ <b>Color tone control</b>
+        </li>
+      </ul>
+      <info>
+        <fig>
+          <image href="../media/image684.png"/>
+        </fig>
+      </info>
+    </context>
+    <steps id="steps_062810167">
+      <step>
+        <cmd>
+          <b>Color tone control</b>
+        </cmd>
+        <info>
+          <fig>
+            <image href="../media/image684.png"/>
+          </fig>
+        </info>
+        <substeps id="substeps_062810168">
+          <substep>
+            <cmd>Press MENU button for 0.5~1 second.</cmd>
+          </substep>
+          <substep>
+            <cmd>Press MENU button for 0.5~1 second.</cmd>
+          </substep>
+          <substep>
+            <cmd>Select brightness, value of color, color tone and color density using SELECT button.</cmd>
+          </substep>
+          <substep>
+            <cmd>Adjust each title using UP and DOWN buttons.</cmd>
+            <info>
+              <p>The basic level is set up by 25.</p>
+            </info>
+          </substep>
+        </substeps>
+      </step>
+      <step>
+        <cmd>▶ Main MANU (SETUP MENU) setting method</cmd>
+        <substeps id="substeps_062810170">
+          <substep>
+            <cmd>Call SETUP MENU window by pressing MENU button for 2 seconds.</cmd>
+          </substep>
+          <substep>
+            <cmd>OSD menu disappears if no entry for 5 seconds.</cmd>
+            <info>
+              <fig>
+                <image href="../media/image670.png"/>
+              </fig>
+            </info>
+          </substep>
+        </substeps>
+      </step>
+      <step>
+        <cmd>
+          <b>NORMAL / MIRROR</b>
+        </cmd>
+        <info>
+          <fig>
+            <image href="../media/image671c.png"/>
+          </fig>
+          <ul id="ul_062810161">
+            <li>This function turns the camera image right ↔ left.</li>
+          </ul>
+        </info>
+      </step>
+      <step>
+        <cmd>
+          <b>TRIGGER DELAY</b>
+        </cmd>
+        <info>
+          <fig>
+            <image href="../media/image672f.png"/>
+          </fig>
+          <ul id="ul_062810162">
+            <li>If 2 trigger signals are activated, the respective trigger sources can be selected.</li>
+            <li>When trigger signal is activated, the selected image appears in the screen.</li>
+            <li>Each trigger signal can be set up with 0~20 seconds of delay.</li>
+          </ul>
+        </info>
+      </step>
+      <step>
+        <cmd>
+          <b>CAMERA NAME</b>
+        </cmd>
+        <info>
+          <fig>
+            <image href="../media/image675r.png"/>
+          </fig>
+          <ul id="ul_062810163">
+            <li>Name of each camera can be registered and displayed in the screen OSD.</li>
+          </ul>
+        </info>
+      </step>
+      <step>
+        <cmd>
+          <b>SCALE MODE</b>
+        </cmd>
+        <info>
+          <fig>
+            <image href="../media/image676w.png"/>
+          </fig>
+          <ul id="ul_062810164">
+            <li>To show distance together with the camera image on the monitor, this function controls figures and dots of a certain size.</li>
+            <li>Other scale modes of CAM1~CAM2 can be set up, which can be turned ON/OFF in DISPLAY MODEP.</li>
+            <li>SCALE1 and SCALE2 are indicated with adjustable figures.</li>
+            <li>When trigger signal is activated, the scale OSD set up in the screen appears.</li>
+            <li>This is simply an electrical expression of the distance from the truck.</li>
+          </ul>
+        </info>
+      </step>
+      <step>
+        <cmd>
+          <b>ADVANCED MENU</b>
+        </cmd>
+        <info>
+          <fig>
+            <image href="../media/image677d.png"/>
+          </fig>
+          <ul id="ul_062810165">
+            <li>DISPLAY</li>
+            <li>FULL: images are displayed in 16:9 ratio.</li>
+            <li>NORMAL: images are displayed in 4:3 ratio.</li>
+            <li>UP/DOWN</li>
+            <li>Turns images upside down.</li>
+            <li>AUTO POWER</li>
+            <li>If AUTO POWER is set to ON, the monitor turns ‘AUTO ON’ when the vehicle power is turned on.</li>
+            <li>If AUTO POWER is set to ONF, the monitor does not operate when the vehicle power is turned on.</li>
+          </ul>
+        </info>
+      </step>
+      <step>
+        <cmd>
+          <b>AUTO SCAN</b>
+        </cmd>
+      </step>
+    </steps>
+    <result>
+      <info>
+        <fig>
+          <image href="../media/image678q.png"/>
+        </fig>
+      </info>
+      <ul id="ul_062810166">
+        <li>If AUTO SCAN is set to ON, images are displayed in the sequence of CAM1→CAM2.</li>
+        <li>The duration of an image display can be set to 0~20 seconds. ‘0’ setting eliminates the image.</li>
+        <li>Press the SELECT button to stop repeating images, and press it again to see the images repeatedly.</li>
+      </ul>
+    </result>
+  </taskbody>
+</task>

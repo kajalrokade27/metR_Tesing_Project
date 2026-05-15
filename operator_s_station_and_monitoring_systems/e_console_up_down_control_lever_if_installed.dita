@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="_Numd21e13058" xml:lang="en-us">
+  <title>E-Console Up/Down Control Lever (if installed)</title>
+  <shortdesc>Typical Example</shortdesc>
+  <prolog>
+    <metadata>
+      <keywords>
+        <keyword>Console</keyword>
+        <keyword>Down</keyword>
+        <keyword>Control</keyword>
+        <keyword>Lever</keyword>
+        <keyword>installed</keyword>
+        <keyword>lever</keyword>
+        <indexterm>Console</indexterm>
+        <indexterm>Down</indexterm>
+        <indexterm>Control</indexterm>
+      </keywords>
+      <prodinfo>
+        <prodname></prodname>
+      </prodinfo>
+    </metadata>
+  </prolog>
+  <taskbody>
+    <steps-informal>
+      <info>
+        <fig>
+          <image href="../media/image235.png"/>
+        </fig>
+      </info>
+      <p>Typical Example</p>
+      <p>Pull the indicated lever to move up/down the steering handle to set the most comfortable driving position and then, fix the lever.</p>
+    </steps-informal>
+  </taskbody>
+</task>

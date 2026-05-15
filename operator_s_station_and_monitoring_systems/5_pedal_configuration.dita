@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="_Numd21e16037" xml:lang="en-us">
+  <title>5 Pedal Configuration</title>
+  <shortdesc>Accelerator Pedal B.</shortdesc>
+  <prolog>
+    <metadata>
+      <keywords>
+        <keyword>inching</keyword>
+        <keyword>Pedal</keyword>
+        <keyword>pedal</keyword>
+        <keyword>control</keyword>
+        <keyword>Configuration</keyword>
+        <keyword>Inching</keyword>
+        <indexterm>inching</indexterm>
+        <indexterm>Pedal</indexterm>
+        <indexterm>pedal</indexterm>
+      </keywords>
+      <prodinfo>
+        <prodname></prodname>
+      </prodinfo>
+    </metadata>
+  </prolog>
+  <conbody><p>
+        <fig>
+          <image href="../media/image227.png"/>
+        </fig>
+      </p>
+<table frame="all" colsep="1" rowsep="1">
+        <tgroup cols="2">
+          <colspec colname="col1" colnum="1" colwidth="1*"/>
+          <colspec colname="col2" colnum="2" colwidth="1*"/>
+          <tbody>
+            <row>
+              <entry>
+                <b>A. Accelerator Pedal</b>
+              </entry>
+              <entry/>
+            </row>
+            <row>
+              <entry>
+                <b>B. Service Foot Brake Pedal</b>
+              </entry>
+              <entry/>
+            </row>
+            <row>
+              <entry>
+                <b>C. Inching Control Switch</b>
+              </entry>
+              <entry>Inching Control Switch – if the service foot pedal and inching control pedal, the controller regulates the hydraulic pressure to the clutch packs, to permit disc slippage by means of the proportional valve technology. Further pushing on the pedal completely relieves clutch pack pressure and applies the service brakes to stop and hold the lift truck <b>Note:</b>The purpose of the inching control pedal is to provide precise inching control at slow travel speed, with high engine rpm. This is used for fast hydraulic lift during load approach, pickup or positioning. <b>Note:</b>INCHING” mode can be switched over from inching to no-inching or vice-versa by using the inching switch</entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table></conbody>
+</concept>

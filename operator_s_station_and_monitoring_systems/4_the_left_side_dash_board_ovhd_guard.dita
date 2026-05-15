@@ -1,0 +1,66 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="_Numd21e13903" xml:lang="en-us">
+  <title>4 The Left Side Dash Board (OVHD Guard)</title>
+  <shortdesc>To use side shift function, operate the lever with the switch on the handle pressed</shortdesc>
+  <prolog>
+    <metadata>
+      <keywords>
+        <keyword>Switch</keyword>
+        <keyword>Plug</keyword>
+        <keyword>Spare</keyword>
+        <keyword>Room</keyword>
+        <keyword>Left</keyword>
+        <keyword>Side</keyword>
+        <indexterm>Switch</indexterm>
+        <indexterm>Plug</indexterm>
+        <indexterm>Spare</indexterm>
+      </keywords>
+      <prodinfo>
+        <prodname></prodname>
+      </prodinfo>
+    </metadata>
+  </prolog>
+  <taskbody>
+    <context>
+      <info>
+        <fig>
+          <image href="../media/image215.png"/>
+        </fig>
+      </info>
+      <note type="notice">To use side shift function, operate the lever with the switch on the handle pressed down.</note>
+    </context>
+    <steps id="steps_06281028">
+      <step>
+        <cmd>Regeneration(SCR Cleaning) Switch</cmd>
+      </step>
+      <step>
+        <cmd>Strobe Switch</cmd>
+      </step>
+      <step>
+        <cmd>Emergency Lamp Switch</cmd>
+      </step>
+      <step>
+        <cmd>Plug(Spare Room).</cmd>
+      </step>
+      <step>
+        <cmd>Air Compressor Switch</cmd>
+      </step>
+      <step>
+        <cmd>Economic Switch</cmd>
+      </step>
+      <step>
+        <cmd>Engine Stop Switch</cmd>
+      </step>
+      <step>
+        <cmd>Plug(Spare Room).</cmd>
+      </step>
+      <step>
+        <cmd>Plug(Spare Room).</cmd>
+      </step>
+      <step>
+        <cmd>Speed Meter</cmd>
+      </step>
+    </steps>
+  </taskbody>
+</task>

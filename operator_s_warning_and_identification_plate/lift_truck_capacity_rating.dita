@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="_Numd21e11592" xml:lang="en-us">
+  <title>Lift Truck Capacity Rating</title>
+  <shortdesc>DO NOT exceed allowable lift truck working capacity load ratings.</shortdesc>
+  <prolog>
+    <metadata>
+      <keywords>
+        <keyword>truck</keyword>
+        <keyword>capacity</keyword>
+        <keyword>centre</keyword>
+        <keyword>Lift</keyword>
+        <keyword>Truck</keyword>
+        <keyword>Capacity</keyword>
+        <indexterm>truck</indexterm>
+        <indexterm>capacity</indexterm>
+        <indexterm>centre</indexterm>
+      </keywords>
+      <prodinfo>
+        <prodname></prodname>
+      </prodinfo>
+    </metadata>
+  </prolog>
+  <conbody>
+    <p>DO NOT exceed allowable lift truck working capacity load ratings.</p>
+    <p>The capacity of the lift truck is given by weight and distance to the load centre. For example: a capacity of 1200kg(2540 lb) at 600mm(24in) means that the lift truck can lift 1200kg(2640lb) if the load centre is 600 mm (24in) from both the vertical and horizontal faces of the forks.</p>
+    <p>Before attempting to lift any load, ensure that the weight and load centre combination is within the capacity of the lift truck as shown on the capacity rating plate. To determine the load centre, measure the distance from the face of the carriage to the gravitational centre of the load.</p>
+    <p>The rated capacity on the plate refers to the capacity of the lift truck as it left the factory. Subsequent changes of any form to the equipment or battery can alter the lift truck’s rating.</p>
+    <p>The rated capacity of the lift truck applies to operating conditions where the lift truck is on level ground. The capacity of the lift truck is reduced on inclines.</p>
+  </conbody>
+</concept>

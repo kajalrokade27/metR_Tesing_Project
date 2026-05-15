@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="_Numd21e17470" xml:lang="en-us">
+  <title>Turning the unit on/off</title>
+  <shortdesc>Displays the current time.</shortdesc>
+  <prolog>
+    <metadata>
+      <keywords>
+        <keyword>power</keyword>
+        <keyword>button</keyword>
+        <keyword>Turning</keyword>
+        <keyword>POWER</keyword>
+        <keyword>Turn</keyword>
+        <keyword>ignition</keyword>
+        <indexterm>power</indexterm>
+        <indexterm>button</indexterm>
+        <indexterm>Turning</indexterm>
+      </keywords>
+      <prodinfo>
+        <prodname></prodname>
+      </prodinfo>
+    </metadata>
+  </prolog>
+  <conbody><info>
+        <fig>
+          <image href="../media/image343.png"/>
+        </fig>
+      </info>
+    <ol>
+    <li><p>Turn your car's ignition key to <b>ACC</b> or <b>IGN (ON)</b> position.</p>
+      <p>Displays the current time.</p>
+          <fig>
+            <image href="../media/image349.png"/>
+          </fig></li>
+    <li><p>Press the <b>POWER</b> button to turn the power on. If the source is ready, playback also starts.</p>
+      <p>
+            <b>To turn on the power directly</b>
+          </p>
+          <p>By connecting an USB into the USB port or pressing the AM/FM or USB button (while the USB device is connected), you can also turn on the power and the unit then plays.</p>
+          <fig>
+            <image href="../media/image353.png"/>
+          </fig></li>
+    <li>When power is on, press and hold the <b>POWER</b> button to turn power off.</li>
+    </ol></conbody>
+</concept>

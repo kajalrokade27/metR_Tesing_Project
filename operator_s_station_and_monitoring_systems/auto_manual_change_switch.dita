@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="_Numd21e15050" xml:lang="en-us">
+  <title>Auto/Manual Change Switch</title>
+  <shortdesc>Automatic speed range:</shortdesc>
+  <prolog>
+    <metadata>
+      <keywords>
+        <keyword>speed</keyword>
+        <keyword>When</keyword>
+        <keyword>switch</keyword>
+        <keyword>position</keyword>
+        <keyword>travel</keyword>
+        <keyword>Auto</keyword>
+        <indexterm>speed</indexterm>
+        <indexterm>When</indexterm>
+        <indexterm>switch</indexterm>
+      </keywords>
+      <prodinfo>
+        <prodname></prodname>
+      </prodinfo>
+    </metadata>
+  </prolog>
+  <conbody>
+    <p>
+      <fig>
+        <image href="../media/image239.png"/>
+      </fig>
+    </p>
+    <p>Automatic speed range:</p>
+    <ul id="ul_06281034">
+      <li>FORWARD: 3 grade speed</li>
+      <li>REVERSE: 3 grade speed.</li>
+    </ul>
+    <p>
+      <fig>
+        <image href="../media/image223.png"/>
+      </fig>
+    </p>
+    <p>MAN When this switch is in “MAN”(manual) position, travel mode is switched to “MANUAL” and allows operator to choose speeds manually.</p>
+    <p>A-1ST When this switch is in “A-1ST”(automatic 1ST) position, gears are started from 1ST speed and changed “AUTOMATICALLY” to the appropriate speed up to the limit set by the gear ratio according to travel load and engine rpm.</p>
+    <p>A-2ND When this switch is in “A-2ND”(automatic 2ND) position, gears are started from 2ND speed and changed “AUTOMATICALLY” to the appropriate speed up to the limit set by the gear ratio according to travel load and engine rpm.</p>
+  </conbody>
+</concept>

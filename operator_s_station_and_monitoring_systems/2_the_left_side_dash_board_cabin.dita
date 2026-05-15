@@ -1,0 +1,155 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="_Numd21e13177" xml:lang="en-us">
+  <title>2 The Left Side Dash Board (Cabin)</title>
+  <shortdesc>A) Engine stop switch Press this switch to stop the engine When emergency status, for</shortdesc>
+  <prolog>
+    <metadata>
+      <keywords>
+        <keyword>switch</keyword>
+        <keyword>Display</keyword>
+        <keyword>Cleaning</keyword>
+        <keyword>DeSOx</keyword>
+        <keyword>engine</keyword>
+        <keyword>Blue</keyword>
+        <indexterm>switch</indexterm>
+        <indexterm>Display</indexterm>
+        <indexterm>Cleaning</indexterm>
+      </keywords>
+      <prodinfo>
+        <prodname></prodname>
+      </prodinfo>
+    </metadata>
+  </prolog>
+  <conbody><p>
+        <fig>
+          <image href="../media/image208.png"/>
+        </fig>
+      </p>
+<ul id="ul_06281024">
+        <li>
+          <b>A) Engine stop switch</b>
+        </li>
+        <li>Press this switch to stop the engine</li>
+        <li>When emergency status, for example, you cannot stop engine in spite of key switch “OFF,” push this switch. You can STOP the engine.</li>
+        <li>
+          <b>B) Emergency lamp switch</b>
+        </li>
+        <li>This switch operates the emergency lamp which indicates emergency status to other vehicles.</li>
+        <li>
+          <b>C) LCD Display</b>
+        </li>
+      </ul>
+<p>
+        <fig>
+          <image href="../media/image238.png"/>
+        </fig>
+      </p>
+<table frame="all" colsep="1" rowsep="1">
+        <tgroup cols="2">
+          <colspec colname="col1" colnum="1" colwidth="1*"/>
+          <colspec colname="col2" colnum="2" colwidth="1*"/>
+          <tbody>
+            <row>
+              <entry>Tachometer (RPM GAUGE)</entry>
+              <entry>Display engine RPM with 1/1000 unit.</entry>
+            </row>
+            <row>
+              <entry>MULTI TORQUE MODE for engine</entry>
+              <entry>With the switch off, the engine reaches the maximum speed when the accelerator pedal is fully pressed. With the switch on, the engine’s speed is limited to a maximum rpm of 2,100. In the case where the vehicle is used mainly for driving, using this switch reduces fuel consumption by approximately 10%.</entry>
+            </row>
+            <row>
+              <entry>ODOMETER</entry>
+              <entry>Accumulated total mileage.</entry>
+            </row>
+            <row>
+              <entry>WARNING LAMP</entry>
+              <entry>Warning Lamp for Transmission and engine etc.</entry>
+            </row>
+            <row>
+              <entry>DEF/Ad-Blue LEVEL GUAGE</entry>
+              <entry>Display DEF/Ad-Blue Level, residual quantity of DEF/Ad-Blue in DEF/Ad-Blue Tank (DEF /Ad- Blue: Fluid for SCR Cleaning – DeSOx)</entry>
+            </row>
+            <row>
+              <entry>ENTER (SELECT)</entry>
+              <entry>Key for operating LCD Display.</entry>
+            </row>
+            <row>
+              <entry>DOWN (RIGHT)</entry>
+              <entry>Key for operating LCD Display.</entry>
+            </row>
+            <row>
+              <entry>UP (LEFT)</entry>
+              <entry>Key for operating LCD Display.</entry>
+            </row>
+            <row>
+              <entry>MODE (BACK)</entry>
+              <entry>Key for operating LCD Display by pressing button.</entry>
+            </row>
+            <row>
+              <entry>DIRECTION (T/M STATUS)</entry>
+              <entry>Display Status for direction. “N” or “F” or “R”</entry>
+            </row>
+            <row>
+              <entry>SPEEDOMETER</entry>
+              <entry>Display the current vehicle speed.</entry>
+            </row>
+            <row>
+              <entry>GEAR DISPLAY (AUTO / MANUAL)</entry>
+              <entry>The gear range indicator bars will indicate which gear is selected by displaying the corresponding number of bars. The forward and reverse indicator bars will be "OFF” when the transmission is in "MANUAL MODE". When transmission is in "AUTOMATIC MODE", all the gear range indicator bars and both travel direction indicators will be "ON".</entry>
+            </row>
+            <row>
+              <entry>DEF/Ad-Blue Level Indicator</entry>
+              <entry>Indicator lamps for DEF/Ad-Blue Level Over 10%: Green ON 5~10%: Yellow ON .Below 5%: Red Blink</entry>
+            </row>
+            <row>
+              <entry>Speed limit Symbol</entry>
+              <entry>If speed limit option selected, the symbol is on.</entry>
+            </row>
+            <row>
+              <entry>Gear limit Symbol</entry>
+              <entry>If gear limit option selected, the symbol is on. <fig>
+                  <image href="../media/image221.png"/>
+                </fig>
+              </entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+<table frame="all" colsep="1" rowsep="1">
+        <tgroup cols="2">
+          <colspec colname="col1" colnum="1" colwidth="1*"/>
+          <colspec colname="col2" colnum="2" colwidth="1*"/>
+          <tbody>
+            <row>
+              <entry>DEF/Ad-Blue FAULT WARNING</entry>
+              <entry>If the lamp is turned on, after-treatment system should be checked. Refer page. 82 (Section “Detecting control failure)</entry>
+            </row>
+            <row>
+              <entry>SCR Cleaning-DeSOx Request / On</entry>
+              <entry>“Service SCR Cleaning-DeSOx” is required for removing sulphur oxides inside SCR material. “Service SCR Cleaning-DeSOx” process occurs, the vehicle cannot be used. Pop-up window and the lamp will be turned on 10 hours before if “Service SCR Cleaning-DeSOx” needed. “Service SCR Cleaning-DeSOx” will take about 30 minutes; the lamp will blink during the process. Press the “SCR Cleaning-DeSOx” switch continuously for 3 sec, SCR cleaning will be started. For detailed instructions refer to p.69.</entry>
+            </row>
+            <row>
+              <entry>SCR Cleaning-DeSOx Inhibition</entry>
+              <entry>When the symbol is turned on and “Active SCR Cleaning-DeSOx” is inhibited by pressing the inhibition switch. In places where there is a risk of fire or explosion, to prevent fire or explosion caused by flammable substances or particles inhibition switch should be used.</entry>
+            </row>
+            <row>
+              <entry>Exhaust Gas Temp High</entry>
+              <entry>While SCR Cleaning-DeSOx for after-treatment, the temperature of exhaust gas will increase over 600°C. If this lamp on, operator should warn passengers around the truck not to approach or touch exhaust system especially rear side. And if the place of your truck has flammable material (Gas, Particle etc.) please replace truck to other safety zone.</entry>
+            </row>
+            <row>
+              <entry>Weight Scale Mode</entry>
+              <entry>Press “MODE” once, Display will change to weight scale mode, for detailed instructions, refer to page 62.</entry>
+            </row>
+            <row>
+              <entry>Engine Check Lamp (RED)</entry>
+              <entry>Malfunction or necessary for diagnostic of engine, this lamp will light on. To check error, press “MODE” 3 seconds, display will converse to main menu then you can use check function. For detailed instructions refer to p.59.</entry>
+            </row>
+            <row>
+              <entry>Transmission Check Lamp (RED)</entry>
+              <entry>Malfunction or necessary for diagnostic of transmission, this lamp will light on. To check error, press “MODE” 3 seconds, display will converse to main menu then you can use check function. For detailed instructions refer to p.59.</entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table></conbody>
+</concept>

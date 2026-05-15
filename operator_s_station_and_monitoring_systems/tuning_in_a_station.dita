@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="_Numd21e18096" xml:lang="en-us">
+  <title>Tuning in a station</title>
+  <shortdesc>You can select the FM 1. FM2. AM 1 or AM2 radio band.</shortdesc>
+  <prolog>
+    <metadata>
+      <keywords>
+        <keyword>station</keyword>
+        <keyword>Press</keyword>
+        <keyword>button</keyword>
+        <keyword>select</keyword>
+        <keyword>Using</keyword>
+        <keyword>reception</keyword>
+        <indexterm>station</indexterm>
+        <indexterm>Press</indexterm>
+        <indexterm>button</indexterm>
+      </keywords>
+      <prodinfo>
+        <prodname></prodname>
+      </prodinfo>
+    </metadata>
+  </prolog>
+  <taskbody>
+    <context>
+      <info>
+        <fig>
+          <image href="../media/image395a.png"/>
+        </fig>
+      </info>
+    </context>
+    <steps id="steps_06281069">
+      <step>
+        <cmd>Press the <b>AM or FM</b> button to change the band in order of AM1. AM2. FM1 or FM2.</cmd>
+        <info>
+          <p>You can select the FM 1. FM2. AM 1 or AM2 radio band.</p>
+          <p>While the Auto 5tore stations are stored, you can select the AMA or FMA band by additional.</p>
+          <p>The previously chosen broadcasting station will be received.</p>
+          <fig>
+            <image href="../media/image406a.png"/>
+          </fig>
+        </info>
+      </step>
+      <step>
+        <cmd>Press the <b>SCN</b> button or turn the │◀◀ <b>TUNE</b> ▶▶│dial left/right to select the station.</cmd>
+      </step>
+    </steps>
+    <result>
+      <p>
+        <b>Using TUNE</b>: Briefly turn the dial, plays previous/next frequency.</p>
+      <p>
+        <b>Using SEEK</b>: Turn and hold the dial, automatically search for station with superior reception.</p>
+      <p>
+        <b>Using SCAN</b>: Press the button, starting from the current station, stations with superior reception are scanned for 5 seconds and the previous station is restored.</p>
+      <p>During the seeking or scanning, if press or turn the dial left/right again, the selected station will begin playing.</p>
+      <p>During the FM reception, the Stereo [ST] indicator is on.</p>
+    </result>
+  </taskbody>
+</task>

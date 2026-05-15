@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="_Numd21e11712" xml:lang="en-us">
+  <title>Mast Abbreviations</title>
+  <shortdesc>Below are abbreviations that may appear on the Identification, Lift Capacity and Attachment Plate and</shortdesc>
+  <prolog>
+    <metadata>
+      <keywords>
+        <keyword>Mast</keyword>
+        <keyword>inner</keyword>
+        <keyword>Lift</keyword>
+        <keyword>Abbreviations</keyword>
+        <keyword>single</keyword>
+        <keyword>member</keyword>
+        <indexterm>Mast</indexterm>
+        <indexterm>inner</indexterm>
+        <indexterm>Lift</indexterm>
+      </keywords>
+      <prodinfo>
+        <prodname></prodname>
+      </prodinfo>
+    </metadata>
+  </prolog>
+  <conbody>
+    <p>Below are abbreviations that may appear on the Identification, Lift Capacity and Attachment Plate and their meanings</p>
+    <p>
+      <b>STD -</b> Standard Mast (single inner member, low free lift)</p>
+    <p>
+      <b>FF -</b> Full Free Lift Mast (single inner member with high free lift duplex cylinder)</p>
+    <p>
+      <b>FFT -</b> Triple Lift Mast (two inner members) with either low or full free lift characteristics.</p>
+    <p>
+      <b>QUAD -</b> Quadruple (Quad) Mast(with three inner members)</p>
+    <note type="note">When only a mast-type is listed on the identification plate, a standard carriage and forks are used.</note>
+  </conbody>
+</concept>

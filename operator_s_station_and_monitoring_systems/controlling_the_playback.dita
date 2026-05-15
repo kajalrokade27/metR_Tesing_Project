@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="_Numd21e19039" xml:lang="en-us">
+  <title>Controlling the playback</title>
+  <shortdesc>Counter-clockwise: move to the previous file</shortdesc>
+  <prolog>
+    <metadata>
+      <keywords>
+        <keyword>folder</keyword>
+        <keyword>While</keyword>
+        <keyword>previous</keyword>
+        <keyword>speed</keyword>
+        <keyword>Controlling</keyword>
+        <keyword>playback</keyword>
+        <indexterm>folder</indexterm>
+        <indexterm>While</indexterm>
+        <indexterm>previous</indexterm>
+      </keywords>
+      <prodinfo>
+        <prodname></prodname>
+      </prodinfo>
+    </metadata>
+  </prolog>
+  <conbody><info>
+        <fig>
+          <image href="../media/image469a.png"/>
+        </fig>
+      </info>
+    <ol>
+    <li><p>While playing, turn the ▶▶│TRACK│◀◀ dial left/right to moves to the previous or next track.</p>
+      <ul id="ul_06281084">
+            <li>Clockwise: move to the next file</li>
+          </ul>
+          <p>Counter-clockwise: move to the previous file</p>
+          <ul id="ul_06281085">
+            <li>You can skip files within the same folder.</li>
+          </ul>
+          <fig>
+            <image href="../media/image406b.png"/>
+          </fig></li>
+    <li><p>While the ▶▶│TRACK│◀◀ dial is being turned and held, the file will rewind or fast forward at high speed. Once released, the file will begin playing at normal speed.</p>
+      <ul id="ul_06281086">
+            <li>Clockwise: fast forward</li>
+            <li>Counter-clockwise: fast rewind</li>
+            <li>The search function works but search speed is not constant.</li>
+            <li>While fast forwarding or rewinding, you can only hear intermittent sounds.</li>
+          </ul>
+          <fig>
+            <image href="../media/image480.png"/>
+          </fig></li>
+    <li><p>Press the [5 D-] or [6 D+] button to moves to the previous or next folder.</p>
+      <ul id="ul_06281087">
+            <li>[5 D-]: move to previous folder</li>
+          </ul></li>
+    <li><p>[6 D+]: move to next folder</p>
+      <fig>
+            <image href="../media/image481.png"/>
+          </fig></li>
+    <li>While folder moving, he folder name will be displayed briefly.</li>
+    </ol></conbody>
+</concept>

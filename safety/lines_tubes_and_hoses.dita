@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="_Numd21e5596" xml:lang="en-us">
+  <title>Lines, Tubes and Hoses</title>
+  <shortdesc>Do not bend or strike high pressure lines. Do not install bent or damaged lines,</shortdesc>
+  <prolog>
+    <metadata>
+      <keywords>
+        <keyword>lines</keyword>
+        <keyword>damaged</keyword>
+        <keyword>tubes</keyword>
+        <keyword>hoses</keyword>
+        <keyword>Lines</keyword>
+        <keyword>Tubes</keyword>
+        <indexterm>lines</indexterm>
+        <indexterm>damaged</indexterm>
+        <indexterm>tubes</indexterm>
+      </keywords>
+      <prodinfo>
+        <prodname></prodname>
+      </prodinfo>
+    </metadata>
+  </prolog>
+  <conbody>
+    <p>Do not bend or strike high pressure lines. Do not install bent or damaged lines, tubes or hoses.</p>
+    <p>Repair any loose or damaged fuel and oil lines, tubes and hoses. Leaks can cause fires. Contact your Time branch for repair or replacement.</p>
+    <p>Check lines, tubes and hoses carefully. Do not use your bare hand to check for leaks. Use a board or cardboard to check for leaks. See Fluid Penetration in the Safety Section for more details. Tighten all connections to the recommended torque. Replace if any of the following conditions are found.</p>
+    <ul id="ul_06281013">
+      <li>End fittings damaged or leaking.</li>
+      <li>Outer covering chafed or cut and wire reinforcing exposed.</li>
+      <li>Outer covering ballooning locally.</li>
+      <li>Evidence of kinking or crushing of the flexible part of hose.</li>
+      <li>Armoring embedded in the outer cover.</li>
+      <li>End fittings displaced.</li>
+    </ul>
+    <p>Make sure that all clamps, guards and heat shields are installed correctly to prevent vibration, rubbing against other parts, and excessive heat during operation.</p>
+  </conbody>
+</concept>

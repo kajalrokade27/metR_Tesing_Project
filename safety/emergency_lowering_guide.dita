@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="_Numd21e7364" xml:lang="en-us">
+  <title>Emergency Lowering Guide</title>
+  <shortdesc>To us the emergency lowering valve, follow these step.</shortdesc>
+  <prolog>
+    <metadata>
+      <keywords>
+        <keyword>carriage</keyword>
+        <keyword>assembly</keyword>
+        <keyword>valve</keyword>
+        <keyword>lowering</keyword>
+        <keyword>using</keyword>
+        <keyword>emergency</keyword>
+        <indexterm>carriage</indexterm>
+        <indexterm>assembly</indexterm>
+        <indexterm>valve</indexterm>
+      </keywords>
+      <prodinfo>
+        <prodname></prodname>
+      </prodinfo>
+    </metadata>
+  </prolog>
+  <taskbody>
+    <context>
+      <note type="warning">In case that it is impossible to lower the carriage assembly by the lift lever, the carriage assembly can be lowered by using the emergency lowering valve located on Frame (see Figure). When lowering the carriage assembly by using this emergency lowering valve, serious injury can result if anyone is under or near the carriage assembly.</note>
+      <p>To us the emergency lowering valve, follow these step.</p>
+    </context>
+    <steps id="steps_06281022">
+      <step>
+        <cmd>Turn off the engine</cmd>
+      </step>
+      <step>
+        <cmd>Open the cabin by using the cabin tilting function.</cmd>
+      </step>
+      <step>
+        <cmd>Turn the nut and screw of the emergency lowering valve slowly to a counterclockwise for two rotations. Then the carriage assembly will be lowered slowly.</cmd>
+      </step>
+      <step>
+        <cmd>When the carriage assembly has been lowered to the ground, tighten the screw of this valve and nut to clockwise for preventing the drift through this valve.</cmd>
+      </step>
+      <step>
+        <cmd>Close the cabin by using the cabin tilting function or assemble the cover.</cmd>
+      </step>
+    </steps>
+    <result>
+      <info>
+        <fig>
+          <image href="../media/image47.png"/>
+        </fig>
+      </info>
+      <p>EMERGENCY LOWERING VALVE</p>
+    </result>
+  </taskbody>
+</task>

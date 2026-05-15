@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="_Numd21e19902" xml:lang="en-us">
+  <title>Listening to DMB sound (lf Equipped)</title>
+  <shortdesc>When the DMB receiver is turned power on, the current operation will be paused and</shortdesc>
+  <prolog>
+    <metadata>
+      <keywords>
+        <keyword>sound</keyword>
+        <keyword>receiver</keyword>
+        <keyword>Listening</keyword>
+        <keyword>Equipped</keyword>
+        <keyword>While</keyword>
+        <keyword>playing</keyword>
+        <indexterm>sound</indexterm>
+        <indexterm>receiver</indexterm>
+        <indexterm>Listening</indexterm>
+      </keywords>
+      <prodinfo>
+        <prodname></prodname>
+      </prodinfo>
+    </metadata>
+  </prolog>
+  <conbody>    <ol>
+    <li><p>By connecting the optional DMB receiver, you can listen the DMB source provided for the vehicle.</p>
+      <p>When the DMB receiver is turned power on, the current operation will be paused and the “AUX 1" will be displayed on the Display window.</p>
+          <p>The DMB's sound is output from the speakers in the unit.</p></li>
+    <li>While playing the DMB, press the AM, FM or USB button to change the function.</li>
+    <li>While playing the DMB, if turn the DMB receiver off, the unit will be returned to previous mode.</li>
+    </ol></conbody>
+</concept>

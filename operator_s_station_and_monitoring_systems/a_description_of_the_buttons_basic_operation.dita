@@ -1,0 +1,88 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="_Numd21e20519" xml:lang="en-us">
+  <title>a. Description of the Buttons (Basic Operation)</title>
+  <shortdesc>1 POWER button Touch the button to turn on the monitor.</shortdesc>
+  <prolog>
+    <metadata>
+      <keywords>
+        <keyword>button</keyword>
+        <keyword>Touch</keyword>
+        <keyword>brightness</keyword>
+        <keyword>Description</keyword>
+        <keyword>Buttons</keyword>
+        <keyword>Basic</keyword>
+        <indexterm>button</indexterm>
+        <indexterm>Touch</indexterm>
+        <indexterm>brightness</indexterm>
+      </keywords>
+      <prodinfo>
+        <prodname></prodname>
+      </prodinfo>
+    </metadata>
+  </prolog>
+  <taskbody>
+    <context>
+      <info>
+        <fig>
+          <image href="../media/image612.png"/>
+        </fig>
+      </info>
+    </context>
+    <steps id="steps_062810113">
+      <step>
+        <cmd>1 <b>POWER button</b>
+        </cmd>
+        <info>
+          <ul id="ul_062810108">
+            <li>Touch the button to turn on the monitor.</li>
+            <li>Touch the button again to turn the power off.</li>
+          </ul>
+        </info>
+      </step>
+      <step>
+        <cmd>2 <b>SELECT button</b>
+        </cmd>
+        <info>
+          <ul id="ul_062810109">
+            <li>Touch the button to select a camera.</li>
+            <li>The button is used to select an item on the Setup menu.</li>
+          </ul>
+        </info>
+      </step>
+      <step>
+        <cmd>3 <b>MENU button</b>
+        </cmd>
+        <info>
+          <ul id="ul_062810110">
+            <li>Enter the menu selection mode by pressing the Display menu (press shortly) or the Main menu (press long), using the button.</li>
+            <li>Touch once to enter the menu mode.</li>
+            <li>Touch again to exit from the menu mode.</li>
+            <li>The menu selection OSD menu will disappear within 7 seconds, if no touch is made.</li>
+            <li>Touch the Menu button more than 2 seconds to return to the Main menu from the sub-menu.</li>
+          </ul>
+        </info>
+      </step>
+      <step>
+        <cmd>4 <b>5. ‘▲’button ‘▼’ button</b>
+        </cmd>
+        <info>
+          <ul id="ul_062810111">
+            <li>Use the <b>▲</b> and <b>▼</b> button for the available menu option.</li>
+            <li>Touch the Menu button to adjust brightness, contrast, color, tint, and other settings.</li>
+          </ul>
+        </info>
+      </step>
+      <step>
+        <cmd>5 <b>DAY/NIGHT SENSOR</b>
+        </cmd>
+      </step>
+    </steps>
+    <result>
+      <ul id="ul_062810112">
+        <li>Automatic brightness control</li>
+        <li>Screen brightness is automatically controlled according to surrounding brightness.</li>
+      </ul>
+    </result>
+  </taskbody>
+</task>

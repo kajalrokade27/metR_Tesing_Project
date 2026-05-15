@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="_Numd21e15920" xml:lang="en-us">
+  <title>12V socket</title>
+  <shortdesc>Use this socket when 12V power supply (30W or less) is required.</shortdesc>
+  <prolog>
+    <metadata>
+      <keywords>
+        <keyword>socket</keyword>
+        <keyword>power</keyword>
+        <keyword>supply</keyword>
+        <keyword>required</keyword>
+        <indexterm>socket</indexterm>
+        <indexterm>power</indexterm>
+        <indexterm>supply</indexterm>
+      </keywords>
+      <prodinfo>
+        <prodname></prodname>
+      </prodinfo>
+    </metadata>
+  </prolog>
+  <conbody>
+    <ul id="ul_06281040">
+      <li>Use this socket when 12V power supply (30W or less) is required.</li>
+    </ul>
+  </conbody>
+</concept>

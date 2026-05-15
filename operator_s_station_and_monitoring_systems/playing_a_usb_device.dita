@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="_Numd21e18840" xml:lang="en-us">
+  <title>Playing a USB device</title>
+  <shortdesc>Once a USB is connected, USB will automatically start playing from the first file within</shortdesc>
+  <prolog>
+    <metadata>
+      <keywords>
+        <keyword>played</keyword>
+        <keyword>device</keyword>
+        <keyword>playing</keyword>
+        <keyword>information</keyword>
+        <keyword>button</keyword>
+        <keyword>connected</keyword>
+        <indexterm>played</indexterm>
+        <indexterm>device</indexterm>
+        <indexterm>playing</indexterm>
+        <indexterm>result</indexterm>
+      </keywords>
+      <prodinfo>
+        <prodname></prodname>
+      </prodinfo>
+    </metadata>
+  </prolog>
+  <conbody><info>
+        <fig>
+          <image href="../media/image446.png"/>
+        </fig>
+      </info>
+    <ol>
+    <li><p>Open the cover, plug the USB device to the USB port.</p>
+      <p>Once a USB is connected, USB will automatically start playing from the first file within the USB.</p>
+          <p>If a previously played USB is reconnected, then the file after the most recently played file is played.</p>
+          <p>If a different USB is connected or the file information within the USB was changed, then the USB will start playing from the first song within the USB.</p>
+          <fig>
+            <image href="../media/image447.png"/>
+          </fig></li>
+    <li><p>When a USB device to be played is already connected, press the USB button to play <b>USB</b> device.</p>
+      <p>The previously selected file is played.</p>
+          <fig>
+            <image href="../media/image449a.png"/>
+          </fig></li>
+    <li><p>While playing, press the [1∥] button to pause the file.</p>
+      <p>Press the button again to play the current file.</p>
+          <fig>
+            <image href="../media/image450.png"/>
+          </fig></li>
+    <li><p>Press the [4 INFO] button repeatedly to display information about the file being played.</p>
+      <p>The information displayed includes the file name, playing time, ID3 Tag or folder name information saved with the song.</p>
+          <p>If there is no information on the playing file, then the unit will display "<b>NO INFO</b>".</p>
+          <fig>
+            <image href="../media/image451.png"/>
+          </fig></li>
+    <li>Press <b>MENU</b> button repeatedly to select the Scroll setting mode. Tum the <b>VOLUME</b> dial to changes the display method between Scroll On/Off.</li>
+    </ol>
+    <section>
+      <title>Result</title>
+      <ul id="ul_06281078">
+        <li>SCROLL ON: activate the scroll function</li>
+        <li>SCROLL OFF: deactivate the scroll function</li>
+      </ul>
+    </section></conbody>
+</concept>
