@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="_Numd21e25963" xml:lang="en-us">
+  <title>Introduction</title>
+  <shortdesc>The DL06 engine which is a high-power engine in compliance with the EPA/CARB TIER-4 (EURO</shortdesc>
+  <prolog>
+    <metadata>
+      <keywords>
+        <keyword>engine</keyword>
+        <keyword>after</keyword>
+        <keyword>system</keyword>
+        <keyword>pressure</keyword>
+        <keyword>order</keyword>
+        <keyword>exhaust</keyword>
+        <indexterm>engine</indexterm>
+        <indexterm>after</indexterm>
+        <indexterm>system</indexterm>
+      </keywords>
+      <prodinfo>
+        <prodname></prodname>
+      </prodinfo>
+    </metadata>
+  </prolog>
+  <conbody>
+    <p>The DL06 engine which is a high-power engine in compliance with the EPA/CARB TIER-4 (EURO STAGE Ⅳ) Engine Emissions Standard is provided with various systems. The DL06 engine is equipped with a turbo- charger intercooler system that compresses and cools air and feed it to the intake manifold. Here, MAF sensor and temperature/pressure sensors detect the air condition and transmit the data to the ECU which controls fuel injection rate according to the engine load, speed and air quantity. Fuel is supplied to a high pressure pump through a fuel filter. The fuel compressed in the high pressure pump is transferred to common rail and injected by injectors in controlled order. Surplus fuel after injection returns to the fuel tank via a return hose. The exhaust gas recirculation (EGR) system controls the quantity of recirculating air according to the engine speed and load in order to comply with applicable exhaust gas emission standards.</p>
+    <p>The DOC (Diesel Oxidation Catalyst) uses a chemical process to reduce hydrocarbons(HC) and carbon monoxide(CO). The SCR (Selective Catalytic Reduction) system reduces NOx in the exhaust gas of the diesel engine into nitrogen gas (N2) and water (H2O) using catalyst. The SCR system uses DEF (Diesel Exhaust Fluid) or Ad-Blue fluid.</p>
+    <p>The figure below shows the positions of the electronic control system and sensors.</p>
+    <note type="notice">When the engine is regularly turned off using the ignition key after operation, the supply module starts up (after-run) in order to remove the DEF/Ad-Blue remaining in the after-treatment system by returning it into the DEF tank. This is to prevent the hose from bursting due to a freeze-up or any other kind of obstruction. A sound is produced during the after-run.</note>
+    <ul id="ul_062810229">
+      <li>Do not cut off the battery’s main supply during the after-run.</li>
+      <li>If the after-run does not begin after the engine is turned off, inspect the system.</li>
+    </ul>
+    <p>White Smoke can be emitted during SCR Cleaning.</p>
+    <p>
+      <fig>
+        <image href="../media/image750.png"/>
+      </fig>
+    </p>
+  </conbody>
+</concept>

@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="_Numd21e32581" xml:lang="en-us">
+  <title>Impeded EGR / Interruption of Dosing for Europe only</title>
+  <shortdesc>There are several interruption level points at which the DEF indicator and engine check lamps</shortdesc>
+  <prolog>
+    <metadata>
+      <keywords>
+        <keyword>Impeded</keyword>
+        <keyword>Interruption</keyword>
+        <keyword>Dosing</keyword>
+        <keyword>engine</keyword>
+        <keyword>Europe</keyword>
+        <keyword>display</keyword>
+        <indexterm>Impeded</indexterm>
+        <indexterm>Interruption</indexterm>
+        <indexterm>Dosing</indexterm>
+      </keywords>
+      <prodinfo>
+        <prodname></prodname>
+      </prodinfo>
+    </metadata>
+  </prolog>
+  <conbody>
+    <p>There are several interruption level points at which the DEF indicator and engine check lamps light up or blink and the display shows a message to warn that the DEF/Ad-Blue is not being consumed due to a fault on the engine EGR valve and SCR system. The lower the point, the more the system limits the engine power and speed. As shown in the table below, for your information, we provide correlation of Impeded EGR / Interruption of Dosing inducement strategy and LCD display.</p>
+  </conbody>
+</concept>

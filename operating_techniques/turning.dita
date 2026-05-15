@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="_Numd21e34887" xml:lang="en-us">
+  <title>Turning</title>
+  <shortdesc>When turning sharp corners, keep close to the inside corner.</shortdesc>
+  <prolog>
+    <metadata>
+      <keywords>
+        <keyword>Turning</keyword>
+        <keyword>turning</keyword>
+        <keyword>inside</keyword>
+        <keyword>corner</keyword>
+        <keyword>When</keyword>
+        <keyword>sharp</keyword>
+        <indexterm>Turning</indexterm>
+        <indexterm>turning</indexterm>
+        <indexterm>inside</indexterm>
+      </keywords>
+      <prodinfo>
+        <prodname></prodname>
+      </prodinfo>
+    </metadata>
+  </prolog>
+  <taskbody>
+    <context>
+      <info>
+        <fig>
+          <image href="../media/image800.png"/>
+        </fig>
+      </info>
+    </context>
+    <steps id="steps_062810246">
+      <step>
+        <cmd>When turning sharp corners, keep close to the inside corner. Begin the turn when the inside drive wheel meets the corner.</cmd>
+        <info>
+          <fig>
+            <image href="../media/image801.png"/>
+          </fig>
+        </info>
+      </step>
+      <step>
+        <cmd>In narrow aisles, keep away from the stockpile when turning into the aisle. Allow for counterweight swing.</cmd>
+      </step>
+    </steps>
+  </taskbody>
+</task>

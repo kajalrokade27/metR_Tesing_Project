@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="_Numd21e35755" xml:lang="en-us">
+  <title>Load Swing</title>
+  <shortdesc>Be careful whilst travelling or turning, the load ends will swing wide. Make sure you</shortdesc>
+  <prolog>
+    <metadata>
+      <keywords>
+        <keyword>Load</keyword>
+        <keyword>Swing</keyword>
+        <keyword>careful</keyword>
+        <keyword>whilst</keyword>
+        <keyword>travelling</keyword>
+        <keyword>turning</keyword>
+        <indexterm>Load</indexterm>
+        <indexterm>Swing</indexterm>
+        <indexterm>careful</indexterm>
+      </keywords>
+      <prodinfo>
+        <prodname></prodname>
+      </prodinfo>
+    </metadata>
+  </prolog>
+  <body>
+    <p>Be careful whilst travelling or turning, the load ends will swing wide. Make sure you have adequate clearance, and watch out for people in the area.</p>
+  </body>
+</topic>

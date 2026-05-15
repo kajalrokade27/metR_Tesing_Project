@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="_Numd21e35529" xml:lang="en-us">
+  <title>Load lateral centre of gravity</title>
+  <shortdesc>Where it is necessary to lift a wide load where the lateral load centre of</shortdesc>
+  <prolog>
+    <metadata>
+      <keywords>
+        <keyword>lateral</keyword>
+        <keyword>centre</keyword>
+        <keyword>gravity</keyword>
+        <keyword>Load</keyword>
+        <keyword>Where</keyword>
+        <keyword>necessary</keyword>
+        <indexterm>lateral</indexterm>
+        <indexterm>centre</indexterm>
+        <indexterm>gravity</indexterm>
+      </keywords>
+      <prodinfo>
+        <prodname></prodname>
+      </prodinfo>
+    </metadata>
+  </prolog>
+  <conbody>
+    <p>Where it is necessary to lift a wide load where the lateral load centre of gravity is unknown.</p>
+    <p>Do a test lift first to determine lateral centre of gravity and potential movement with the load during transport. Exercise extra caution when handling offcentre loads that cannot be centreed.</p>
+  </conbody>
+</concept>

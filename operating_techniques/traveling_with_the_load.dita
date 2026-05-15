@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="_Numd21e34569" xml:lang="en-us">
+  <title>Traveling with the Load</title>
+  <shortdesc>Typical Example</shortdesc>
+  <prolog>
+    <metadata>
+      <keywords>
+        <keyword>Traveling</keyword>
+        <keyword>Load</keyword>
+        <keyword>possible</keyword>
+        <keyword>clearance</keyword>
+        <keyword>Typical</keyword>
+        <keyword>Example</keyword>
+        <indexterm>Traveling</indexterm>
+        <indexterm>Load</indexterm>
+        <indexterm>possible</indexterm>
+      </keywords>
+      <prodinfo>
+        <prodname></prodname>
+      </prodinfo>
+    </metadata>
+  </prolog>
+  <conbody><note type="notice">Travel with the load as low as possible, while still maintaining ground clearance.</note>
+      <info>
+        <fig>
+          <image href="../media/image791.png"/>
+        </fig>
+      </info>
+      <p>Typical Example</p>
+    <ol>
+    <li>Carry the load as low as possible but maintain clearance.</li>
+    <li><p>On grades, always travel with the load on the UPHILL side, as shown above.</p>
+      <fig>
+            <image href="../media/image792.png"/>
+          </fig>
+          <p>Typical Example</p></li>
+    <li>For better vision, travel in reverse with bulky loads.</li>
+    </ol></conbody>
+</concept>

@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="_Numd21e22281" xml:lang="en-us">
+  <title>Steering Column Tilting Angle Adjustment</title>
+  <shortdesc>Typical Example</shortdesc>
+  <prolog>
+    <metadata>
+      <keywords>
+        <keyword>Steering</keyword>
+        <keyword>Column</keyword>
+        <keyword>Tilting</keyword>
+        <keyword>Angle</keyword>
+        <keyword>Adjustment</keyword>
+        <keyword>steering</keyword>
+        <indexterm>Steering</indexterm>
+        <indexterm>Column</indexterm>
+        <indexterm>Tilting</indexterm>
+      </keywords>
+      <prodinfo>
+        <prodname></prodname>
+      </prodinfo>
+    </metadata>
+  </prolog>
+  <conbody>
+    <p>
+      <fig>
+        <image href="../media/image694.png"/>
+      </fig>
+    </p>
+    <p>Typical Example</p>
+    <p>The tilting angle of the steering wheel is adjustable within a range of 6 degrees to suit individual operators. The steering column is unlocked by turning the lever counter clockwise and locked by turning it clockwise.</p>
+  </conbody>
+</concept>

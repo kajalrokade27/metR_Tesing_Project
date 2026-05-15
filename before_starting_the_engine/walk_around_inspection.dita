@@ -1,0 +1,116 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="_Numd21e24715" xml:lang="en-us">
+  <title>Walk-Around Inspection</title>
+  <shortdesc>Make a thorough walk-around inspection before mounting the lift truck or starting the engine. Look</shortdesc>
+  <prolog>
+    <metadata>
+      <keywords>
+        <keyword>Inspect</keyword>
+        <keyword>engine</keyword>
+        <keyword>loose</keyword>
+        <keyword>truck</keyword>
+        <keyword>bolts</keyword>
+        <keyword>Typical</keyword>
+        <indexterm>Inspect</indexterm>
+        <indexterm>engine</indexterm>
+        <indexterm>loose</indexterm>
+      </keywords>
+      <prodinfo>
+        <prodname></prodname>
+      </prodinfo>
+    </metadata>
+  </prolog>
+  <taskbody>
+    <context>
+      <p>Make a thorough walk-around inspection before mounting the lift truck or starting the engine. Look for such items as loose bolts, debris buildup, oil or coolant leaks. Check condition of tyres, mast, carriage, forks or attachments. Have repairs made as needed and all debris removed.</p>
+      <info>
+        <fig>
+          <image href="../media/image744.png"/>
+        </fig>
+      </info>
+      <p>Typical Example</p>
+    </context>
+    <steps id="steps_062810216">
+      <step>
+        <cmd>Inspect the operator's compartment for loose items and cleanliness.</cmd>
+      </step>
+      <step>
+        <cmd>Inspect the instrument panel for broken or damaged indicator lights or gauges.</cmd>
+      </step>
+      <step>
+        <cmd>Test the horn and other safety devices for proper operation.</cmd>
+        <info>
+          <fig>
+            <image href="../media/image732.png"/>
+          </fig>
+          <p>Typical Example</p>
+        </info>
+      </step>
+      <step>
+        <cmd>Inspect the mast and lift chains for wear, broken links, pins and loose rollers.</cmd>
+      </step>
+      <step>
+        <cmd>Inspect the carriage, forks or attachments for wear, damage and loose or missing bolts.</cmd>
+      </step>
+      <step>
+        <cmd>Inspect the tyres and wheels for cuts, gouges, foreign objects, inflation pressure and loose or missing bolts.</cmd>
+      </step>
+      <step>
+        <cmd>Inspect the overhead guard and cabin for damage and loose or missing mounting bolts.</cmd>
+      </step>
+      <step>
+        <cmd>Inspect the hydraulic system for leaks, worn hoses or damaged lines.</cmd>
+      </step>
+      <step>
+        <cmd>Look for transmission and drive axle leaks on the lift truck and on the ground.</cmd>
+      </step>
+      <step>
+        <cmd>Inspect common parts and drive axle, mast etc for grounded, loosen or missing mounting bolts.</cmd>
+        <info>
+          <fig>
+            <image href="../media/image747.png"/>
+          </fig>
+          <p>Typical Example</p>
+        </info>
+      </step>
+      <step>
+        <cmd>Inspect the engine compartment for oil, coolant and fuel leaks.</cmd>
+      </step>
+      <step>
+        <cmd>Measure the engine crankcase oil level with the dip stick. Maintain the oil level between the MAX. and MIN., (or FULL and ADD) notches on the dip stick.</cmd>
+        <info>
+          <fig>
+            <image href="../media/image749.png"/>
+          </fig>
+          <p>Typical Example</p>
+        </info>
+      </step>
+      <step>
+        <cmd>Observe the engine coolant level in the coolant recovery bottle. With the engine cold, maintain the level to the COLD mark. If the recovery bottle is empty, also fill the radiator at the top tank.</cmd>
+        <info>
+          <fig>
+            <image href="../media/image932.png"/>
+          </fig>
+          <p>Typical Example : For cabin type truck</p>
+        </info>
+      </step>
+      <step>
+        <cmd>Observe the fuel level gauge after starting the truck. Add fuel if necessary.</cmd>
+        <info>
+          <note type="warning">Personal injury may occur from accidents caused by improper seat adjustment. Always adjust the operator's seat before starting the lift truck engine.</note>
+          <p>Seat adjustment must be done at the beginning of each shift and when operators change.</p>
+          <fig>
+            <image href="../media/image752.png"/>
+          </fig>
+        </info>
+      </step>
+      <step>
+        <cmd>To position the seat, PUSH the lever away from the seat track and move the seat forward or backward to a comfortable position.</cmd>
+      </step>
+      <step>
+        <cmd>Inspect seat belt for wear and correct operation.</cmd>
+      </step>
+    </steps>
+  </taskbody>
+</task>

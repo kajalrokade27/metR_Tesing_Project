@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="_Numd21e35023" xml:lang="en-us">
+  <title>Lifting Drums or Round Objects</title>
+  <shortdesc>Block drums or round objects.</shortdesc>
+  <prolog>
+    <metadata>
+      <keywords>
+        <keyword>Lifting</keyword>
+        <keyword>Drums</keyword>
+        <keyword>Round</keyword>
+        <keyword>Objects</keyword>
+        <keyword>Block</keyword>
+        <keyword>drums</keyword>
+        <indexterm>Lifting</indexterm>
+        <indexterm>Drums</indexterm>
+        <indexterm>Round</indexterm>
+      </keywords>
+      <prodinfo>
+        <prodname></prodname>
+      </prodinfo>
+    </metadata>
+  </prolog>
+  <conbody><info>
+        <fig>
+          <image href="../media/image802.png"/>
+        </fig>
+      </info>
+    <ol>
+    <li><p>Block drums or round objects. Tilt the mast FORWARD and side the fork tips along the floor to get under the load.</p>
+      <fig>
+            <image href="../media/image803.png"/>
+          </fig></li>
+    <li>Before lifting, tilt the mast BACK slightly until the load is cradled on the forks.</li>
+    </ol></conbody>
+</concept>

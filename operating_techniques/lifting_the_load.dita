@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="_Numd21e34417" xml:lang="en-us">
+  <title>Lifting the Load</title>
+  <shortdesc>Typical Example</shortdesc>
+  <prolog>
+    <metadata>
+      <keywords>
+        <keyword>Lifting</keyword>
+        <keyword>Load</keyword>
+        <keyword>Lift</keyword>
+        <keyword>Typical</keyword>
+        <keyword>Example</keyword>
+        <keyword>carefully</keyword>
+        <indexterm>Lifting</indexterm>
+        <indexterm>Load</indexterm>
+        <indexterm>Lift</indexterm>
+        <indexterm>result</indexterm>
+      </keywords>
+      <prodinfo>
+        <prodname></prodname>
+      </prodinfo>
+    </metadata>
+  </prolog>
+  <conbody>    <ol>
+    <li><p>Lift the load carefully and tilt the mast back a short distance.</p>
+      <fig>
+            <image href="../media/image789.png"/>
+          </fig>
+          <p>Typical Example</p></li>
+    <li><p>Tilt the mast further back to cradle the load</p>
+      <fig>
+            <image href="../media/image790.png"/>
+          </fig>
+          <p>Typical Example</p></li>
+    <li>Operate the lift truck in reverse until the load is clear of the other material.</li>
+    <li>Lower the cradled load to the travel position.</li>
+    </ol>
+    <section>
+      <title>Result</title>
+      <note type="note">Lift and tilt speeds are controlled by engine rpm.</note>
+    </section></conbody>
+</concept>

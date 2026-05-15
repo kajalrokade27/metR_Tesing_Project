@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="_Numd21e22400" xml:lang="en-us">
+  <title>Tow Eye</title>
+  <shortdesc>Typical Example</shortdesc>
+  <prolog>
+    <metadata>
+      <keywords>
+        <keyword>disabled</keyword>
+        <keyword>vehicle</keyword>
+        <keyword>towed</keyword>
+        <keyword>truck</keyword>
+        <keyword>Typical</keyword>
+        <keyword>Example</keyword>
+        <indexterm>disabled</indexterm>
+        <indexterm>vehicle</indexterm>
+        <indexterm>towed</indexterm>
+      </keywords>
+      <prodinfo>
+        <prodname></prodname>
+      </prodinfo>
+    </metadata>
+  </prolog>
+  <conbody><steps-informal>
+      <info>
+        <fig>
+          <image href="../media/image695.png"/>
+        </fig>
+      </info>
+      <p>Typical Example</p>
+      <p>It is for emergency use in towing a disabled vehicle or being towed by another truck when your truck is disabled. Use wire rope strong enough according to the weight and size of the vehicle to be towed.</p>
+    </steps-informal></conbody>
+</concept>

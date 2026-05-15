@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="_Numd21e34716" xml:lang="en-us">
+  <title>Unloading</title>
+  <shortdesc>Typical Example</shortdesc>
+  <prolog>
+    <metadata>
+      <keywords>
+        <keyword>Typical</keyword>
+        <keyword>Example</keyword>
+        <keyword>unloading</keyword>
+        <keyword>position</keyword>
+        <keyword>Unloading</keyword>
+        <keyword>directly</keyword>
+        <indexterm>Typical</indexterm>
+        <indexterm>Example</indexterm>
+        <indexterm>unloading</indexterm>
+      </keywords>
+      <prodinfo>
+        <prodname></prodname>
+      </prodinfo>
+    </metadata>
+  </prolog>
+  <conbody><info>
+        <fig>
+          <image href="../media/image794.png"/>
+        </fig>
+      </info>
+      <p>Typical Example</p>
+    <ol>
+    <li><p>Move the lift truck into the unloading position.</p>
+      <fig>
+            <image href="../media/image796.png"/>
+          </fig>
+          <p>Typical Example</p></li>
+    <li><p>Tilt the mast FORWARD only when directly over the unloading area.</p>
+      <note type="warning">Do not tilt the mast forward with the load unless directly over the unloading area, even if the power is off.</note>
+          <fig>
+            <image href="../media/image798.png"/>
+          </fig>
+          <p>Typical Example</p></li>
+    <li><p>Deposit the load and BACK away carefully to disengage the forks.</p>
+      <fig>
+            <image href="../media/image799.png"/>
+          </fig>
+          <p>Typical Example</p></li>
+    <li>Lower the carriage and forks to the travel position or to the park position.</li>
+    </ol></conbody>
+</concept>

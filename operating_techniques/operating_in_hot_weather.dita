@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="_Numd21e35159" xml:lang="en-us">
+  <title>Operating in Hot Weather</title>
+  <shortdesc>Keep the following points in mind when you operate the lift truck in hot weather.</shortdesc>
+  <prolog>
+    <metadata>
+      <keywords>
+        <keyword>engine</keyword>
+        <keyword>Operating</keyword>
+        <keyword>Weather</keyword>
+        <keyword>Check</keyword>
+        <keyword>tension</keyword>
+        <keyword>Keep</keyword>
+        <indexterm>engine</indexterm>
+        <indexterm>Operating</indexterm>
+        <indexterm>Weather</indexterm>
+      </keywords>
+      <prodinfo>
+        <prodname></prodname>
+      </prodinfo>
+    </metadata>
+  </prolog>
+  <conbody><p>Keep the following points in mind when you operate the lift truck in hot weather.</p>
+    <ol>
+    <li>Check the radiator. Clogging can cause the overheating. Clean them out regularly with a blast of compressed air. Also, check the leakage of water.</li>
+    <li>Check the fan belt tension and adjust to proper tension</li>
+    <li>Even if the engine overheats and the coolant boils over, let the engine idle for a while with opening engine hood until temperature falls before shut off the engine.</li>
+    </ol></conbody>
+</concept>

@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="_Numd21e31264" xml:lang="en-us">
+  <title>SCR system tampering for USA / Europe</title>
+  <shortdesc>There are several tampering level points at which the DEF indicator lamp lights up or</shortdesc>
+  <prolog>
+    <metadata>
+      <keywords>
+        <keyword>system</keyword>
+        <keyword>tampering</keyword>
+        <keyword>Europe</keyword>
+        <keyword>display</keyword>
+        <keyword>There</keyword>
+        <keyword>several</keyword>
+        <indexterm>system</indexterm>
+        <indexterm>tampering</indexterm>
+        <indexterm>Europe</indexterm>
+      </keywords>
+      <prodinfo>
+        <prodname></prodname>
+      </prodinfo>
+    </metadata>
+  </prolog>
+  <conbody>
+    <p>There are several tampering level points at which the DEF indicator lamp lights up or blinks and the display shows a message to warn that the DEF/Ad-Blue is not being consumed due to the malfunctioning of the SCR system, the installation of another device to the system, or the handling of related parts. The lower the point, the more the system limits the engine power and speed. As shown in the table below, for your information, we provide correlation of SCR tampering inducement strategy and LCD display.</p>
+  </conbody>
+</concept>

@@ -1,0 +1,650 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="_Numd21e26477" xml:lang="en-us">
+  <title>Detecting Control Failure</title>
+  <shortdesc>As shown in the table below, the ECU performs self diagnosis. If a fault/failure is</shortdesc>
+  <prolog>
+    <metadata>
+      <keywords>
+        <keyword>Check</keyword>
+        <keyword>harness</keyword>
+        <keyword>Blink</keyword>
+        <keyword>valve</keyword>
+        <keyword>Close</keyword>
+        <keyword>sensors</keyword>
+        <indexterm>Check</indexterm>
+        <indexterm>harness</indexterm>
+        <indexterm>Blink</indexterm>
+      </keywords>
+      <prodinfo>
+        <prodname></prodname>
+      </prodinfo>
+    </metadata>
+  </prolog>
+  <taskbody>  <context>
+    <p>As shown in the table below, the ECU performs self diagnosis. If a fault/failure is detected, engine check lamp lights up and failure code (DFC) is indicated by the number of flashes of the engine check lamp.</p><table frame="all" colsep="1" rowsep="1">
+        <tgroup cols="6">
+          <colspec colname="col1" colnum="1" colwidth="1*"/>
+          <colspec colname="col2" colnum="2" colwidth="1*"/>
+          <colspec colname="col3" colnum="3" colwidth="1*"/>
+          <colspec colname="col4" colnum="4" colwidth="1*"/>
+          <colspec colname="col5" colnum="5" colwidth="1*"/>
+          <colspec colname="col6" colnum="6" colwidth="1*"/>
+          <tbody>
+            <row>
+              <entry morerows="1">DFC</entry>
+              <entry>Item</entry>
+              <entry>Symptoms of Failure</entry>
+              <entry morerows="1">Corrective Action</entry>
+            </row>
+            <row>
+              <entry>Classification</entry>
+              <entry>Engine Check Lamp</entry>
+              <entry>Torque Decrease</entry>
+              <entry>Others</entry>
+            </row>
+            <row>
+              <entry>351</entry>
+              <entry morerows="6">Air flow and temperature sensor</entry>
+              <entry>ON</entry>
+              <entry>50%</entry>
+              <entry morerows="2">Close the EGR valve</entry>
+              <entry morerows="6">Key off. Check sensors and harness</entry>
+            </row>
+            <row>
+              <entry>351</entry>
+              <entry>X</entry>
+              <entry>X</entry>
+            </row>
+            <row>
+              <entry>351</entry>
+              <entry>X</entry>
+              <entry>X</entry>
+            </row>
+            <row>
+              <entry>321</entry>
+              <entry>ON</entry>
+              <entry>50%</entry>
+              <entry>X</entry>
+            </row>
+            <row>
+              <entry>321</entry>
+              <entry>ON</entry>
+              <entry>50%</entry>
+              <entry>X</entry>
+            </row>
+            <row>
+              <entry>321</entry>
+              <entry>ON</entry>
+              <entry>50%</entry>
+              <entry>X</entry>
+            </row>
+            <row>
+              <entry>321</entry>
+              <entry>ON</entry>
+              <entry>50%</entry>
+              <entry>X</entry>
+            </row>
+            <row>
+              <entry>323</entry>
+              <entry>Exhaust gas temperature</entry>
+              <entry>ON</entry>
+              <entry>50%</entry>
+              <entry>Close the EGR valve</entry>
+              <entry>Stop the vehicle and cool down</entry>
+            </row>
+            <row>
+              <entry>232</entry>
+              <entry morerows="8">EGR valve</entry>
+              <entry>ON</entry>
+              <entry>50%</entry>
+              <entry morerows="8">Close the EGR valve</entry>
+              <entry morerows="8">Key Off Check EGR valve and harness</entry>
+            </row>
+            <row>
+              <entry>232</entry>
+              <entry>ON</entry>
+              <entry>50%</entry>
+            </row>
+            <row>
+              <entry>231</entry>
+              <entry>ON</entry>
+              <entry>50%</entry>
+            </row>
+            <row>
+              <entry>232</entry>
+              <entry>ON</entry>
+              <entry>50%</entry>
+            </row>
+            <row>
+              <entry>231</entry>
+              <entry>ON</entry>
+              <entry>50%</entry>
+            </row>
+            <row>
+              <entry>231</entry>
+              <entry>ON</entry>
+              <entry>50%</entry>
+            </row>
+            <row>
+              <entry>231</entry>
+              <entry>ON</entry>
+              <entry>50%</entry>
+            </row>
+            <row>
+              <entry>231</entry>
+              <entry>ON</entry>
+              <entry>50%</entry>
+            </row>
+            <row>
+              <entry>232</entry>
+              <entry>ON</entry>
+              <entry>50%</entry>
+            </row>
+            <row>
+              <entry>322</entry>
+              <entry morerows="4">Intake air boost temperature sensor</entry>
+              <entry>ON</entry>
+              <entry>X</entry>
+              <entry morerows="4">Close the EGR valve</entry>
+              <entry morerows="4">Key off. Check sensors and harness</entry>
+            </row>
+            <row>
+              <entry>322</entry>
+              <entry>X</entry>
+              <entry>X</entry>
+            </row>
+            <row>
+              <entry>322</entry>
+              <entry>ON</entry>
+              <entry>X</entry>
+            </row>
+            <row>
+              <entry>322</entry>
+              <entry>ON</entry>
+              <entry>X</entry>
+            </row>
+            <row>
+              <entry>322</entry>
+              <entry>ON</entry>
+              <entry>X</entry>
+            </row>
+            <row>
+              <entry>343</entry>
+              <entry morerows="2">Manifold Pressure Sensor</entry>
+              <entry>ON</entry>
+              <entry>50%</entry>
+              <entry morerows="2">Close the EGR valve</entry>
+              <entry morerows="2">Key off. Check sensors and harness</entry>
+            </row>
+            <row>
+              <entry>343</entry>
+              <entry>ON</entry>
+              <entry>50%</entry>
+            </row>
+            <row>
+              <entry>343</entry>
+              <entry>ON</entry>
+              <entry>50%</entry>
+            </row>
+            <row>
+              <entry>331</entry>
+              <entry morerows="2">Coolant Temperature Sensor</entry>
+              <entry>X</entry>
+              <entry>X</entry>
+              <entry>X</entry>
+              <entry morerows="2">Key off. Check sensors and harness</entry>
+            </row>
+            <row>
+              <entry>331</entry>
+              <entry>ON</entry>
+              <entry>50%</entry>
+              <entry>X</entry>
+            </row>
+            <row>
+              <entry>331</entry>
+              <entry>ON</entry>
+              <entry>50%</entry>
+              <entry>X</entry>
+            </row>
+            <row>
+              <entry>333</entry>
+              <entry morerows="2">Fuel Temperature Sensor</entry>
+              <entry>ON</entry>
+              <entry>50%</entry>
+              <entry>X</entry>
+              <entry morerows="2">Key off. Check sensors and harness</entry>
+            </row>
+            <row>
+              <entry>333</entry>
+              <entry>ON</entry>
+              <entry>50%</entry>
+              <entry>X</entry>
+            </row>
+            <row>
+              <entry>333</entry>
+              <entry>ON</entry>
+              <entry>50%</entry>
+              <entry>X</entry>
+            </row>
+            <row>
+              <entry>342</entry>
+              <entry morerows="1">Oil Temperature &amp; Pressure</entry>
+              <entry>ON</entry>
+              <entry>50%</entry>
+              <entry>X</entry>
+              <entry morerows="3">Key off. Check sensors and harness</entry>
+            </row>
+            <row>
+              <entry>342</entry>
+              <entry>ON</entry>
+              <entry>50%</entry>
+              <entry>X</entry>
+            </row>
+            <row>
+              <entry>332</entry>
+              <entry morerows="1">Sensor</entry>
+              <entry>ON</entry>
+              <entry>50%</entry>
+              <entry>X</entry>
+            </row>
+            <row>
+              <entry>332</entry>
+              <entry>X</entry>
+              <entry>X</entry>
+              <entry>X</entry>
+            </row>
+            <row>
+              <entry>411</entry>
+              <entry morerows="2">Batteries</entry>
+              <entry>ON</entry>
+              <entry>50%</entry>
+              <entry morerows="2">Close the EGR valve</entry>
+              <entry morerows="2">Key off Check battery condition Check battery connection</entry>
+            </row>
+            <row>
+              <entry>411</entry>
+              <entry>ON</entry>
+              <entry>50%</entry>
+            </row>
+            <row>
+              <entry>412</entry>
+              <entry>ON</entry>
+              <entry>X</entry>
+            </row>
+            <row>
+              <entry>312</entry>
+              <entry morerows="5">Crank &amp; Cam Sensor</entry>
+              <entry>ON</entry>
+              <entry>80%</entry>
+              <entry morerows="5">Idle rpm increased</entry>
+              <entry morerows="5">Key off Check the sensors and harness *Call Time A/S Team</entry>
+            </row>
+            <row>
+              <entry>311</entry>
+              <entry>X</entry>
+              <entry>X</entry>
+            </row>
+            <row>
+              <entry>311</entry>
+              <entry>X</entry>
+              <entry>80%</entry>
+            </row>
+            <row>
+              <entry>312</entry>
+              <entry>X</entry>
+              <entry>80%</entry>
+            </row>
+            <row>
+              <entry>312</entry>
+              <entry>X</entry>
+              <entry>80%</entry>
+            </row>
+            <row>
+              <entry>312</entry>
+              <entry>X</entry>
+              <entry>80%</entry>
+            </row>
+            <row>
+              <entry>421</entry>
+              <entry morerows="2">Atmospheric Pressure Sensor</entry>
+              <entry>ON</entry>
+              <entry>50%</entry>
+              <entry>X</entry>
+              <entry morerows="2">Key off Check/Replace ECU *Call Time A/S Team</entry>
+            </row>
+            <row>
+              <entry>421</entry>
+              <entry>ON</entry>
+              <entry>50%</entry>
+              <entry>X</entry>
+            </row>
+            <row>
+              <entry>421</entry>
+              <entry>ON</entry>
+              <entry>50%</entry>
+              <entry>X</entry>
+            </row>
+            <row>
+              <entry>323</entry>
+              <entry morerows="4">Turbine Inlet Temperature Sensor</entry>
+              <entry>ON</entry>
+              <entry>50%</entry>
+              <entry morerows="2">Close the EGR valve</entry>
+              <entry morerows="4">Key off. Check sensors and harness</entry>
+            </row>
+            <row>
+              <entry>323</entry>
+              <entry>ON</entry>
+              <entry>50%</entry>
+            </row>
+            <row>
+              <entry>323</entry>
+              <entry>ON</entry>
+              <entry>50%</entry>
+            </row>
+            <row>
+              <entry>323</entry>
+              <entry>X</entry>
+              <entry>X</entry>
+              <entry>X</entry>
+            </row>
+            <row>
+              <entry>323</entry>
+              <entry>ON</entry>
+              <entry>50%</entry>
+              <entry>Close the EGR valve</entry>
+            </row>
+            <row>
+              <entry>222</entry>
+              <entry morerows="5">Rail Pressure</entry>
+              <entry>Blink</entry>
+              <entry>80%</entry>
+              <entry morerows="5">Engine stops after 20 sec</entry>
+              <entry morerows="5">Key off Check the sensors and harness *Call Time A/S Team</entry>
+            </row>
+            <row>
+              <entry>341</entry>
+              <entry>ON</entry>
+              <entry>50%</entry>
+            </row>
+            <row>
+              <entry>341</entry>
+              <entry>Blink</entry>
+              <entry>80%</entry>
+            </row>
+            <row>
+              <entry>341</entry>
+              <entry>Blink</entry>
+              <entry>80%</entry>
+            </row>
+            <row>
+              <entry>341</entry>
+              <entry>Blink</entry>
+              <entry>80%</entry>
+            </row>
+            <row>
+              <entry>341</entry>
+              <entry>Blink</entry>
+              <entry>80%</entry>
+            </row>
+            <row>
+              <entry>432</entry>
+              <entry morerows="3">Pedal Position Sensor</entry>
+              <entry>ON</entry>
+              <entry>50%</entry>
+              <entry morerows="3">Limp Home mode Close the EGR Valve</entry>
+              <entry morerows="3">Key Off Check acceleration pedal and harness</entry>
+            </row>
+            <row>
+              <entry>432</entry>
+              <entry>ON</entry>
+              <entry>50%</entry>
+            </row>
+            <row>
+              <entry>432</entry>
+              <entry>ON</entry>
+              <entry>50%</entry>
+            </row>
+            <row>
+              <entry>432</entry>
+              <entry>ON</entry>
+              <entry>50%</entry>
+            </row>
+            <row>
+              <entry>352</entry>
+              <entry morerows="3">Fuel Moisture Sensor</entry>
+              <entry>ON</entry>
+              <entry>50%</entry>
+              <entry>X</entry>
+              <entry morerows="3">Key Off Check sensors and harness Check fuel filter</entry>
+            </row>
+            <row>
+              <entry>352</entry>
+              <entry>ON</entry>
+              <entry>50%</entry>
+              <entry>X</entry>
+            </row>
+            <row>
+              <entry>352</entry>
+              <entry>ON</entry>
+              <entry>50%</entry>
+              <entry>X</entry>
+            </row>
+            <row>
+              <entry>352</entry>
+              <entry>ON</entry>
+              <entry>50%</entry>
+              <entry>X</entry>
+            </row>
+            <row>
+              <entry>211</entry>
+              <entry morerows="9">Injector</entry>
+              <entry>ON</entry>
+              <entry>50%</entry>
+              <entry morerows="9">Close the EGR valve Idle rpm increased</entry>
+              <entry morerows="9">Key off Check the injector and harness *Call Time A/S Team</entry>
+            </row>
+            <row>
+              <entry>212</entry>
+              <entry>ON</entry>
+              <entry>50%</entry>
+            </row>
+            <row>
+              <entry>213</entry>
+              <entry>ON</entry>
+              <entry>50%</entry>
+            </row>
+            <row>
+              <entry>214</entry>
+              <entry>ON</entry>
+              <entry>50%</entry>
+            </row>
+            <row>
+              <entry>211</entry>
+              <entry>ON</entry>
+              <entry>X</entry>
+            </row>
+            <row>
+              <entry>212</entry>
+              <entry>ON</entry>
+              <entry>X</entry>
+            </row>
+            <row>
+              <entry>213</entry>
+              <entry>ON</entry>
+              <entry>X</entry>
+            </row>
+            <row>
+              <entry>214</entry>
+              <entry>ON</entry>
+              <entry>X</entry>
+            </row>
+            <row>
+              <entry>215</entry>
+              <entry>Blink</entry>
+              <entry>X</entry>
+            </row>
+            <row>
+              <entry>215</entry>
+              <entry>Blink</entry>
+              <entry>X</entry>
+            </row>
+            <row>
+              <entry>222</entry>
+              <entry morerows="5">Inlet Metering Valve</entry>
+              <entry>X</entry>
+              <entry>50%</entry>
+              <entry>X</entry>
+              <entry morerows="5">Key off Check the IMV and harness *Call Time A/S Team</entry>
+            </row>
+            <row>
+              <entry>222</entry>
+              <entry>X</entry>
+              <entry>50%</entry>
+              <entry>X</entry>
+            </row>
+            <row>
+              <entry>222</entry>
+              <entry>Blink</entry>
+              <entry>80%</entry>
+              <entry morerows="3">Engine stops after 20 sec</entry>
+            </row>
+            <row>
+              <entry>222</entry>
+              <entry>Blink</entry>
+              <entry>80%</entry>
+            </row>
+            <row>
+              <entry>222</entry>
+              <entry>ON</entry>
+              <entry>50%</entry>
+            </row>
+            <row>
+              <entry>222</entry>
+              <entry>Blink</entry>
+              <entry>80%</entry>
+            </row>
+            <row>
+              <entry>443</entry>
+              <entry morerows="2">Preheat Plug Relay</entry>
+              <entry>ON</entry>
+              <entry>X</entry>
+              <entry>X</entry>
+              <entry morerows="2">Key off. Check sensors and harness</entry>
+            </row>
+            <row>
+              <entry>443</entry>
+              <entry>ON</entry>
+              <entry>X</entry>
+              <entry>X</entry>
+            </row>
+            <row>
+              <entry>443</entry>
+              <entry>ON</entry>
+              <entry>X</entry>
+              <entry>X</entry>
+            </row>
+            <row>
+              <entry>421</entry>
+              <entry morerows="8">Inside the ECU.</entry>
+              <entry>Blink</entry>
+              <entry>X</entry>
+              <entry>X</entry>
+              <entry morerows="8">Key off Check battery condition Check ECU connector and harness. * When replacing the ECU, call Time A/S Team</entry>
+            </row>
+            <row>
+              <entry>421</entry>
+              <entry>X</entry>
+              <entry>50%</entry>
+              <entry>X</entry>
+            </row>
+            <row>
+              <entry>421</entry>
+              <entry>X</entry>
+              <entry>80%</entry>
+              <entry>Close the EGR valve</entry>
+            </row>
+            <row>
+              <entry>421</entry>
+              <entry>X</entry>
+              <entry>X</entry>
+              <entry>X</entry>
+            </row>
+            <row>
+              <entry>421</entry>
+              <entry>X</entry>
+              <entry>X</entry>
+              <entry>X</entry>
+            </row>
+            <row>
+              <entry>421</entry>
+              <entry>X</entry>
+              <entry>X</entry>
+              <entry>X</entry>
+            </row>
+            <row>
+              <entry>412</entry>
+              <entry>Blink</entry>
+              <entry>50%</entry>
+              <entry>X</entry>
+            </row>
+            <row>
+              <entry>412</entry>
+              <entry>Blink</entry>
+              <entry>50%</entry>
+              <entry>X</entry>
+            </row>
+            <row>
+              <entry>412</entry>
+              <entry>Blink</entry>
+              <entry>50%</entry>
+              <entry>X</entry>
+            </row>
+            <row>
+              <entry>441</entry>
+              <entry morerows="1">Lamps</entry>
+              <entry>X</entry>
+              <entry>X</entry>
+              <entry>X</entry>
+              <entry morerows="1">Key Off Check the harness related with lamps</entry>
+            </row>
+            <row>
+              <entry>442</entry>
+              <entry>X</entry>
+              <entry>X</entry>
+              <entry>X</entry>
+            </row>
+            <row>
+              <entry>434</entry>
+              <entry>Transmission Oil Temperature</entry>
+              <entry>ON</entry>
+              <entry>50%</entry>
+              <entry>X</entry>
+              <entry>Stop the vehicle and cool down the oil. Check transmission temperature switch and harness</entry>
+            </row>
+            <row>
+              <entry>433</entry>
+              <entry morerows="2">Torque Converter Switch</entry>
+              <entry>ON</entry>
+              <entry>X</entry>
+              <entry>X</entry>
+              <entry morerows="2">Key off. Check torque switch and harness</entry>
+            </row>
+            <row>
+              <entry>433</entry>
+              <entry>ON</entry>
+              <entry>X</entry>
+              <entry>X</entry>
+            </row>
+            <row>
+              <entry>433</entry>
+              <entry>ON</entry>
+              <entry>X</entry>
+              <entry>X</entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+  </context></taskbody>
+</task>

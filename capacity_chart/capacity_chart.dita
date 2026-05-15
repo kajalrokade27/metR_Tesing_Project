@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="_Numd21e10489" xml:lang="en-us">
+  <title>Capacity Chart</title>
+  <shortdesc>The load capacity of lift truck should never be exceeded.</shortdesc>
+  <prolog>
+    <metadata>
+      <keywords>
+        <keyword>truck</keyword>
+        <keyword>Capacity</keyword>
+        <keyword>Chart</keyword>
+        <keyword>Side</keyword>
+        <keyword>Shifter</keyword>
+        <keyword>capacity</keyword>
+        <indexterm>truck</indexterm>
+        <indexterm>Capacity</indexterm>
+        <indexterm>Chart</indexterm>
+      </keywords>
+      <prodinfo>
+        <prodname></prodname>
+      </prodinfo>
+    </metadata>
+  </prolog>
+  <conbody><note type="warning">The load capacity of lift truck should never be exceeded. Overloading of the lift truck could : Be a hazard to the safety of others, material, or damage the truck.</note>
+<table frame="all" colsep="1" rowsep="1">
+        <tgroup cols="2">
+          <colspec colname="col1" colnum="1" colwidth="1*"/>
+          <colspec colname="col2" colnum="2" colwidth="1*"/>
+          <tbody>
+            <row>
+              <entry>Without Side Shifter</entry>
+              <entry>With Side Shifter</entry>
+            </row>
+            <row>
+              <entry>
+                <fig>
+                  <image href="../media/image113.png"/>
+                </fig>
+              </entry>
+              <entry>
+                <fig>
+                  <image href="../media/image137.png"/>
+                </fig>
+              </entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table></conbody>
+</concept>

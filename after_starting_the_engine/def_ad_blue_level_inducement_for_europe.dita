@@ -1,0 +1,205 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE reference PUBLIC "-//OASIS//DTD DITA Reference//EN" "reference.dtd">
+<reference id="_Numd21e29350" xml:lang="en-us">
+  <title>DEF/Ad-Blue Level Inducement for Europe</title>
+  <shortdesc>Inducement Stage Condition DEF volume [%] Repeat Offence (within 40hrs) Inducement Strategy DEF Level Indicator</shortdesc>
+  <prolog>
+    <metadata>
+      <keywords>
+        <keyword>Level</keyword>
+        <keyword>Inducement</keyword>
+        <keyword>Engine</keyword>
+        <keyword>Every</keyword>
+        <keyword>LEVEL</keyword>
+        <keyword>REFILL</keyword>
+        <indexterm>Level</indexterm>
+        <indexterm>Inducement</indexterm>
+        <indexterm>Engine</indexterm>
+      </keywords>
+      <prodinfo>
+        <prodname></prodname>
+      </prodinfo>
+    </metadata>
+  </prolog>
+  <refbody>
+    <section>
+      <table frame="all" colsep="1" rowsep="1">
+        <tgroup cols="9">
+          <colspec colname="col1" colnum="1" colwidth="1*"/>
+          <colspec colname="col2" colnum="2" colwidth="1*"/>
+          <colspec colname="col3" colnum="3" colwidth="1*"/>
+          <colspec colname="col4" colnum="4" colwidth="1*"/>
+          <colspec colname="col5" colnum="5" colwidth="1*"/>
+          <colspec colname="col6" colnum="6" colwidth="1*"/>
+          <colspec colname="col7" colnum="7" colwidth="1*"/>
+          <colspec colname="col8" colnum="8" colwidth="1*"/>
+          <colspec colname="col9" colnum="9" colwidth="1*"/>
+          <tbody>
+            <row>
+              <entry morerows="2">Inducement Stage</entry>
+              <entry morerows="2">Condition DEF volume [%]</entry>
+              <entry morerows="2">Repeat Offence (within 40hrs)</entry>
+              <entry>Inducement Strategy</entry>
+            </row>
+            <row>
+              <entry>DEF Level Indicator</entry>
+              <entry>DEF Indicator</entry>
+              <entry>Engine Check Lamp</entry>
+              <entry>Buzzer</entry>
+              <entry>Torque Reduction</entry>
+              <entry>RPM Limit</entry>
+            </row>
+            <row>
+              <entry>
+                <fig>
+                  <image href="../media/image950a.png"/>
+                </fig>
+              </entry>
+              <entry>
+                <fig>
+                  <image href="../media/image951a.png"/>
+                </fig>
+              </entry>
+              <entry>
+                <fig>
+                  <image href="../media/image763b.png"/>
+                </fig>
+              </entry>
+              <entry>
+                <fig>
+                  <image href="../media/image764.png"/>
+                </fig>
+              </entry>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry>
+                <b>Normal</b>
+              </entry>
+              <entry>25 ~ 100</entry>
+              <entry>NA</entry>
+              <entry>Green ON</entry>
+              <entry>Off</entry>
+              <entry>Off</entry>
+              <entry>Off</entry>
+              <entry>0%</entry>
+              <entry>NA</entry>
+            </row>
+            <row>
+              <entry>
+                <b>Level1</b>
+              </entry>
+              <entry>10 ~ 25</entry>
+              <entry>NA</entry>
+              <entry>Green ON</entry>
+              <entry>Off</entry>
+              <entry>Off</entry>
+              <entry>Off</entry>
+              <entry>0%</entry>
+              <entry>NA</entry>
+            </row>
+            <row>
+              <entry>
+                <b>Level2</b>
+              </entry>
+              <entry>5~10</entry>
+              <entry>NA</entry>
+              <entry>Yellow ON</entry>
+              <entry>Off</entry>
+              <entry>Off</entry>
+              <entry>At starting &amp; Every 20min</entry>
+              <entry>25%</entry>
+              <entry>NA</entry>
+            </row>
+            <row>
+              <entry>
+                <b>Level3</b>
+              </entry>
+              <entry>0~5</entry>
+              <entry>NA</entry>
+              <entry>Red Blink</entry>
+              <entry>Off</entry>
+              <entry>Off</entry>
+              <entry>Every 10min</entry>
+              <entry>50%</entry>
+              <entry>60% (about 1500rpm)</entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <table frame="all" colsep="1" rowsep="1">
+        <tgroup cols="5">
+          <colspec colname="col1" colnum="1" colwidth="1*"/>
+          <colspec colname="col2" colnum="2" colwidth="1*"/>
+          <colspec colname="col3" colnum="3" colwidth="1*"/>
+          <colspec colname="col4" colnum="4" colwidth="1*"/>
+          <colspec colname="col5" colnum="5" colwidth="1*"/>
+          <tbody>
+            <row>
+              <entry morerows="2">Inducement Stage</entry>
+              <entry morerows="2">Condition DEF volume [%]</entry>
+              <entry morerows="2">Repeat Offence (within 40hrs)</entry>
+              <entry>LCD Display</entry>
+            </row>
+            <row>
+              <entry>Method</entry>
+              <entry>Message on the Display</entry>
+            </row>
+            <row>
+              <entry>
+                <fig>
+                  <image href="../media/image769.png"/>
+                </fig>
+              </entry>
+              <entry>
+                <fig>
+                  <image href="../media/image770.png"/>
+                </fig>
+              </entry>
+            </row>
+            <row>
+              <entry>
+                <b>Normal</b>
+              </entry>
+              <entry>25 ~ 100</entry>
+              <entry>NA</entry>
+              <entry>NA</entry>
+              <entry>NA</entry>
+            </row>
+            <row>
+              <entry>
+                <b>Level1</b>
+              </entry>
+              <entry>10 ~ 25</entry>
+              <entry>NA</entry>
+              <entry>For 1min At starting &amp; Every 20min</entry>
+              <entry>
+                <b>DEF LEVEL LOW - REFILL</b> Engine Power will be Reduced</entry>
+            </row>
+            <row>
+              <entry>
+                <b>Level2</b>
+              </entry>
+              <entry>5~10</entry>
+              <entry>NA</entry>
+              <entry>For 1min Every 10min</entry>
+              <entry>
+                <b>DEF LEVEL VERY LOW - REFILL NOW</b> Engine Power Reduced By 25%</entry>
+            </row>
+            <row>
+              <entry>
+                <b>Level3</b>
+              </entry>
+              <entry>0~5</entry>
+              <entry>NA</entry>
+              <entry>Continuous</entry>
+              <entry>
+                <b>DEF LEVEL VERY LOW - REFILL NOW</b> Engine Power Reduced By 50%</entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+    </section>
+  </refbody>
+</reference>

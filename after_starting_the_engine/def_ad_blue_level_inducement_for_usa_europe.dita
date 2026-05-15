@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="_Numd21e28651" xml:lang="en-us">
+  <title>DEF/Ad-Blue Level inducement for USA / Europe</title>
+  <shortdesc>There are several DEF/Ad-Blue level points at which the DEF level indicator lamp changes and</shortdesc>
+  <prolog>
+    <metadata>
+      <keywords>
+        <keyword>Blue</keyword>
+        <keyword>level</keyword>
+        <keyword>inducement</keyword>
+        <keyword>Level</keyword>
+        <keyword>Europe</keyword>
+        <keyword>display</keyword>
+        <indexterm>Blue</indexterm>
+        <indexterm>level</indexterm>
+        <indexterm>inducement</indexterm>
+      </keywords>
+      <prodinfo>
+        <prodname></prodname>
+      </prodinfo>
+    </metadata>
+  </prolog>
+  <conbody>
+    <p>There are several DEF/Ad-Blue level points at which the DEF level indicator lamp changes and the display shows a message to warn the shortage of DEF/Ad-Blue. The lower the point, the more the system limits the engine power and speed in order to prevent nitrogen oxide emissions from exceeding the acceptable level due to a lack of DEF/Ad-Blue. As shown in the table below, for your information, we provide correlation of DEF/Ad-Blue level inducement strategy and LCD display.</p>
+  </conbody>
+</concept>

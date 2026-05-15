@@ -1,0 +1,195 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="_Numd21e32027" xml:lang="en-us">
+  <title>SCR system Tampering for Europe</title>
+  <shortdesc>Inducement Stage Condition Repeat Offence (within 40hrs) Inducement Strategy DEF Level Indicator DEF Indicator Engine</shortdesc>
+  <prolog>
+    <metadata>
+      <keywords>
+        <keyword>Level</keyword>
+        <keyword>Tampering</keyword>
+        <keyword>Engine</keyword>
+        <keyword>Green</keyword>
+        <keyword>Every</keyword>
+        <keyword>Inducement</keyword>
+        <indexterm>Level</indexterm>
+        <indexterm>Tampering</indexterm>
+        <indexterm>Engine</indexterm>
+      </keywords>
+      <prodinfo>
+        <prodname></prodname>
+      </prodinfo>
+    </metadata>
+  </prolog>
+  <conbody><table frame="all" colsep="1" rowsep="1">
+        <tgroup cols="9">
+          <colspec colname="col1" colnum="1" colwidth="1*"/>
+          <colspec colname="col2" colnum="2" colwidth="1*"/>
+          <colspec colname="col3" colnum="3" colwidth="1*"/>
+          <colspec colname="col4" colnum="4" colwidth="1*"/>
+          <colspec colname="col5" colnum="5" colwidth="1*"/>
+          <colspec colname="col6" colnum="6" colwidth="1*"/>
+          <colspec colname="col7" colnum="7" colwidth="1*"/>
+          <colspec colname="col8" colnum="8" colwidth="1*"/>
+          <colspec colname="col9" colnum="9" colwidth="1*"/>
+          <tbody>
+            <row>
+              <entry morerows="2">Inducement Stage</entry>
+              <entry morerows="2">Condition</entry>
+              <entry morerows="2">Repeat Offence (within 40hrs)</entry>
+              <entry>Inducement Strategy</entry>
+            </row>
+            <row>
+              <entry>DEF Level Indicator</entry>
+              <entry>DEF Indicator</entry>
+              <entry>Engine Check Lamp</entry>
+              <entry>Buzzer</entry>
+              <entry>Torque Reduction</entry>
+              <entry>RPM Limit</entry>
+            </row>
+            <row>
+              <entry>
+                <fig>
+                  <image href="../media/image950a.png"/>
+                </fig>
+              </entry>
+              <entry>
+                <fig>
+                  <image href="../media/image951a.png"/>
+                </fig>
+              </entry>
+              <entry>
+                <fig>
+                  <image href="../media/image763b.png"/>
+                </fig>
+              </entry>
+              <entry>
+                <fig>
+                  <image href="../media/image764.png"/>
+                </fig>
+              </entry>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry>
+                <b>Normal</b>
+              </entry>
+              <entry>NA</entry>
+              <entry morerows="3">≥ 95% of counter value for severe inducement</entry>
+              <entry>Green ON</entry>
+              <entry>Off</entry>
+              <entry>Off</entry>
+              <entry>Off</entry>
+              <entry>0%</entry>
+              <entry>NA</entry>
+            </row>
+            <row>
+              <entry>
+                <b>Level1</b>
+              </entry>
+              <entry>Tampering was detected</entry>
+              <entry>Green ON</entry>
+              <entry>On</entry>
+              <entry>On</entry>
+              <entry>Off</entry>
+              <entry>0%</entry>
+              <entry>NA</entry>
+            </row>
+            <row>
+              <entry>
+                <b>Level2</b>
+              </entry>
+              <entry>36~100hrs</entry>
+              <entry>Green ON</entry>
+              <entry>On</entry>
+              <entry>On</entry>
+              <entry>At starting &amp; Every 20min</entry>
+              <entry>25%</entry>
+              <entry>NA</entry>
+            </row>
+            <row>
+              <entry>
+                <b>Level3</b>
+              </entry>
+              <entry>over 100hrs</entry>
+              <entry>Green ON</entry>
+              <entry>Blinking</entry>
+              <entry>On</entry>
+              <entry>Every 10min</entry>
+              <entry>50%</entry>
+              <entry>60% (about 1500rpm)</entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+<table frame="all" colsep="1" rowsep="1">
+        <tgroup cols="5">
+          <colspec colname="col1" colnum="1" colwidth="1*"/>
+          <colspec colname="col2" colnum="2" colwidth="1*"/>
+          <colspec colname="col3" colnum="3" colwidth="1*"/>
+          <colspec colname="col4" colnum="4" colwidth="1*"/>
+          <colspec colname="col5" colnum="5" colwidth="1*"/>
+          <tbody>
+            <row>
+              <entry morerows="2">Inducement Stage</entry>
+              <entry morerows="2">Condition</entry>
+              <entry morerows="2">Repeat Offence (within 40hrs)</entry>
+              <entry>LCD Display</entry>
+            </row>
+            <row>
+              <entry>Method</entry>
+              <entry>Message on the Display</entry>
+            </row>
+            <row>
+              <entry>
+                <fig>
+                  <image href="../media/image777.png"/>
+                </fig>
+              </entry>
+              <entry>
+                <fig>
+                  <image href="../media/image778.png"/>
+                </fig>
+              </entry>
+            </row>
+            <row>
+              <entry>
+                <b>Normal</b>
+              </entry>
+              <entry>NA</entry>
+              <entry morerows="3">≥ 95% of counter value for severe inducement</entry>
+              <entry>NA</entry>
+              <entry>NA</entry>
+            </row>
+            <row>
+              <entry>
+                <b>Level1</b>
+              </entry>
+              <entry>Tampering was detected</entry>
+              <entry>At starting &amp; Every 20min</entry>
+              <entry>
+                <b>SCR SYSTEM MALFUNCTION CALL Time SERVICE AGENT</b> Engine Power will be Reduced</entry>
+            </row>
+            <row>
+              <entry>
+                <b>Level2</b>
+              </entry>
+              <entry>36~100hrs</entry>
+              <entry>Every 10min</entry>
+              <entry>
+                <b>SCR SYSTEM MALFUNCTION CALL Time SERVICE AGENT</b> Engine Power is Reduced By 25%</entry>
+            </row>
+            <row>
+              <entry>
+                <b>Level3</b>
+              </entry>
+              <entry>over 100hrs</entry>
+              <entry>Continuous</entry>
+              <entry>
+                <b>SCR SYSTEM MALFUNCTION CALL Time SERVICE AGENT</b> Engine Power is Reduced By 50%</entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table></conbody>
+</concept>

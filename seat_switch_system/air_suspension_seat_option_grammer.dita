@@ -1,0 +1,130 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="_Numd21e22928" xml:lang="en-us">
+  <title>AIR SUSPENSION SEAT(Option - GRAMMER)</title>
+  <shortdesc>1 Seat Backrest 2 Auxiliary Seat Backrest 3 Armrest 4 Seat Mat 5 Seat Heater</shortdesc>
+  <prolog>
+    <metadata>
+      <keywords>
+        <keyword>Seat</keyword>
+        <keyword>Adjustment</keyword>
+        <keyword>Lever</keyword>
+        <keyword>Adjusts</keyword>
+        <keyword>Suspension</keyword>
+        <keyword>Backrest</keyword>
+        <indexterm>Seat</indexterm>
+        <indexterm>Adjustment</indexterm>
+        <indexterm>Lever</indexterm>
+      </keywords>
+      <prodinfo>
+        <prodname></prodname>
+      </prodinfo>
+    </metadata>
+  </prolog>
+  <taskbody>
+    <context>
+      <info>
+        <fig>
+          <image href="../media/image709.png"/>
+        </fig>
+      </info>
+    </context>
+    <steps id="steps_062810192">
+      <step>
+        <cmd>1 Seat Backrest</cmd>
+      </step>
+      <step>
+        <cmd>2 Auxiliary Seat Backrest</cmd>
+      </step>
+      <step>
+        <cmd>3 Armrest</cmd>
+      </step>
+      <step>
+        <cmd>4 Seat Mat</cmd>
+      </step>
+      <step>
+        <cmd>5 Seat Heater Switch</cmd>
+        <info>
+          <ul id="ul_062810183">
+            <li>Turns on/off the seat heater.</li>
+          </ul>
+        </info>
+      </step>
+      <step>
+        <cmd>6 Lumbar Support Air Cushion Switch</cmd>
+        <info>
+          <ul id="ul_062810184">
+            <li>Inflates/deflates the two air cushions installed inside the backrest.</li>
+            <li>The upper and lower air cushions have their respective switches.</li>
+          </ul>
+        </info>
+      </step>
+      <step>
+        <cmd>7 Seat Backrest Tilt Adjustment Lever</cmd>
+        <info>
+          <ul id="ul_062810185">
+            <li>Adjusts the seat backrest to the desired angle.</li>
+          </ul>
+        </info>
+      </step>
+      <step>
+        <cmd>8</cmd>
+      </step>
+      <step>
+        <cmd>9 Fore-and-Aft Seat Mat Adjustment Lever</cmd>
+        <info>
+          <ul id="ul_062810186">
+            <li>Moves the seat forward when pulled up.</li>
+          </ul>
+        </info>
+      </step>
+      <step>
+        <cmd>10 Seat Mat Tilt Adjustment Lever</cmd>
+        <info>
+          <ul id="ul_062810187">
+            <li>Tilts the seat mat upward when pulled up.</li>
+          </ul>
+        </info>
+      </step>
+      <step>
+        <cmd>11 Seat Sliding Lever</cmd>
+        <info>
+          <ul id="ul_062810188">
+            <li>Adjusts the entire seat’s position fore or aft.</li>
+          </ul>
+        </info>
+      </step>
+      <step>
+        <cmd>12 Air Suspension Activation &amp; Height-Adjustment Lever</cmd>
+        <info>
+          <ul id="ul_062810189">
+            <li>Air Suspension Activation (by reading the operator's weight)</li>
+            <li>Once the lever is flicked up (by one touch) initially, the height of the seat is automatically set according to its reading of the operator’s weight.</li>
+            <li>Caution: Moving your body during the adjustment will disturb weight reading and thus stop the air suspension’s activation. Please stay seated conveniently.</li>
+            <li>Seat Height Adjustment</li>
+            <li>After the automatic seat height adjustment, you can make further adjustments of the seat by pulling or pushing the lever to the desired height.</li>
+          </ul>
+        </info>
+      </step>
+      <step>
+        <cmd>13 Vertical Suspension Force Adjustment Lever</cmd>
+        <info>
+          <ul id="ul_062810190">
+            <li>Adjusts the vertical suspension force.</li>
+          </ul>
+        </info>
+      </step>
+      <step>
+        <cmd>14 Horizontal Suspension Force Adjustment Lever</cmd>
+        <info>
+          <ul id="ul_062810191">
+            <li>Adjusts the horizontal suspension force.</li>
+          </ul>
+        </info>
+      </step>
+      <step>
+        <cmd>15 Pocket</cmd>
+      </step>
+    </steps>
+  </taskbody>
+</task>

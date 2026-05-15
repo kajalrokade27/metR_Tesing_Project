@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="_Numd21e25805" xml:lang="en-us">
+  <title>After Starting the Engine</title>
+  <shortdesc>Observe all indicator lights and gauges frequently during operation, to make sure all systems are</shortdesc>
+  <prolog>
+    <metadata>
+      <keywords>
+        <keyword>After</keyword>
+        <keyword>operation</keyword>
+        <keyword>gauge</keyword>
+        <keyword>temperature</keyword>
+        <keyword>Transmission</keyword>
+        <keyword>Display</keyword>
+        <indexterm>After</indexterm>
+        <indexterm>operation</indexterm>
+        <indexterm>gauge</indexterm>
+      </keywords>
+      <prodinfo>
+        <prodname></prodname>
+      </prodinfo>
+    </metadata>
+  </prolog>
+  <conbody><steps-informal>
+      <p>Observe all indicator lights and gauges frequently during operation, to make sure all systems are working properly.</p>
+      <note type="warning">If any light comes on, have corrections made before operating truck.</note>
+      <info>
+        <fig>
+          <image href="../media/image761.png"/>
+        </fig>
+      </info>
+      <p>① Battery discharge warning lamp.</p>
+      <p>This lamp indicates the battery condition of charge. If light comes on during operation, a loose or broken fan belt or defective electric system is suggested. Stop the operation and check the cause.</p>
+      <p>② Fuel gauge.</p>
+      <p>Observe fuel gauge for fuel level in the tank.</p>
+      <p>③ The power shift transmission gauge pointer will be in the green band with the engine running, unless the oil temperature is excessive.</p>
+      <note type="note">Do not idle engines for prolonged periods of time. These engines can be started easily, even when hot.</note>
+      <note type="note">At an oil temperature in the shifting circuit lower than -12°C, the transmission must be warmed-up for some minutes.</note>
+      <p>This must be carried out in Neutral with an increased engine speed (about 1500 rpm). Until this oil temperature is reached, the Electronics remains in Neutral, and the symbol of the cold start phase will be indicated on the Transmission Display.</p>
+      <p>Indication on the Transmission Display</p>
+      <info>
+        <fig>
+          <image href="../media/image746.png"/>
+        </fig>
+      </info>
+      <p>After the indication on the Transmission Display is extinguished, the full driving program can be utilized out of “NEUTRAL”.</p>
+      <info>
+        <fig>
+          <image href="../media/image748.png"/>
+        </fig>
+      </info>
+    </steps-informal></conbody>
+</concept>

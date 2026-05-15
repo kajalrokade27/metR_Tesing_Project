@@ -1,0 +1,781 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="_Numd21e8100" xml:lang="en-us">
+  <title>Specifications</title>
+  <shortdesc>CHRACTERISTICS 1 Model CD100S-7(TIERIV) CD120S-7(TIERIV) CD140S-7(TIERIV) 2 Capacity at rated load centre kg 10,000 12,000</shortdesc>
+  <prolog>
+    <metadata>
+      <keywords>
+        <keyword>loaded</keyword>
+        <keyword>front</keyword>
+        <keyword>unloaded</keyword>
+        <keyword>diesel</keyword>
+        <keyword>seated</keyword>
+        <keyword>driver</keyword>
+        <indexterm>loaded</indexterm>
+        <indexterm>front</indexterm>
+        <indexterm>unloaded</indexterm>
+      </keywords>
+      <prodinfo>
+        <prodname></prodname>
+      </prodinfo>
+    </metadata>
+  </prolog>
+  <taskbody>  <context>
+    <table frame="all" colsep="1" rowsep="1">
+        <tgroup cols="8">
+          <colspec colname="col1" colnum="1" colwidth="1*"/>
+          <colspec colname="col2" colnum="2" colwidth="1*"/>
+          <colspec colname="col3" colnum="3" colwidth="1*"/>
+          <colspec colname="col4" colnum="4" colwidth="1*"/>
+          <colspec colname="col5" colnum="5" colwidth="1*"/>
+          <colspec colname="col6" colnum="6" colwidth="1*"/>
+          <colspec colname="col7" colnum="7" colwidth="1*"/>
+          <colspec colname="col8" colnum="8" colwidth="1*"/>
+          <tbody>
+            <row>
+              <entry>CHRACTERISTICS</entry>
+            </row>
+            <row>
+              <entry>1</entry>
+              <entry>Model</entry>
+              <entry/>
+              <entry/>
+              <entry>
+                <b>CD100S-7(TIERIV)</b>
+              </entry>
+              <entry>
+                <b>CD120S-7(TIERIV)</b>
+              </entry>
+              <entry>
+                <b>CD140S-7(TIERIV)</b>
+              </entry>
+            </row>
+            <row>
+              <entry>2</entry>
+              <entry>Capacity</entry>
+              <entry>at rated load centre</entry>
+              <entry>kg</entry>
+              <entry>10,000</entry>
+              <entry>12,000</entry>
+              <entry>14,000</entry>
+            </row>
+            <row>
+              <entry>3</entry>
+              <entry>Load centre</entry>
+              <entry>distance</entry>
+              <entry>mm</entry>
+              <entry>600</entry>
+              <entry>600</entry>
+              <entry>600</entry>
+            </row>
+            <row>
+              <entry>4</entry>
+              <entry>Power type</entry>
+              <entry>electric, diesel, gasoline, lp-gas</entry>
+              <entry/>
+              <entry>diesel</entry>
+              <entry>diesel</entry>
+              <entry>diesel</entry>
+            </row>
+            <row>
+              <entry>5</entry>
+              <entry>Operator type</entry>
+              <entry>stand-on, rider-seated</entry>
+              <entry>driver-seated</entry>
+              <entry>driver-seated</entry>
+              <entry>driver-seated</entry>
+            </row>
+            <row>
+              <entry>6</entry>
+              <entry>Tyre type</entry>
+              <entry>C = cushion, P = pneumatic</entry>
+              <entry>Pneumatic</entry>
+              <entry>Pneumatic</entry>
+              <entry>Pneumatic</entry>
+            </row>
+            <row>
+              <entry>7</entry>
+              <entry>Wheels (X = driven)</entry>
+              <entry>number, front/rear</entry>
+              <entry>2x2/2</entry>
+              <entry>2x2/2</entry>
+              <entry>2x2/2</entry>
+            </row>
+            <row>
+              <entry>
+                <b>DIMENSIONS</b>
+              </entry>
+            </row>
+            <row>
+              <entry>8</entry>
+              <entry>Lift with STD</entry>
+              <entry>maximum fork height</entry>
+              <entry>mm</entry>
+              <entry>3,000</entry>
+              <entry>3,000</entry>
+              <entry>3,000</entry>
+            </row>
+            <row>
+              <entry>9</entry>
+              <entry>two-stage mast</entry>
+              <entry>free lift</entry>
+              <entry>mm</entry>
+              <entry>0</entry>
+              <entry>0</entry>
+              <entry>0</entry>
+            </row>
+            <row>
+              <entry>10</entry>
+              <entry morerows="1">Forks</entry>
+              <entry>thickness x width x length</entry>
+              <entry>mm</entry>
+              <entry>70x200x1,350</entry>
+              <entry>80x200x1,350</entry>
+              <entry>85x200x1,350</entry>
+            </row>
+            <row>
+              <entry>11</entry>
+              <entry>fork spacing (minimum x maximum)</entry>
+              <entry>mm</entry>
+              <entry>470x2,140</entry>
+              <entry>470x2,140</entry>
+              <entry>470x2,290</entry>
+            </row>
+            <row>
+              <entry>12</entry>
+              <entry>Tilt of mast</entry>
+              <entry>forward/backward</entry>
+              <entry>deg</entry>
+              <entry>15/12</entry>
+              <entry>15/12</entry>
+              <entry>15/12</entry>
+            </row>
+            <row>
+              <entry>13</entry>
+              <entry morerows="5">Overall dimensions</entry>
+              <entry>length to fork face</entry>
+              <entry>mm</entry>
+              <entry>4,490</entry>
+              <entry>4,505</entry>
+              <entry>4,830</entry>
+            </row>
+            <row>
+              <entry>14</entry>
+              <entry>width(dry/wet brake)</entry>
+              <entry>mm</entry>
+              <entry>2,350</entry>
+              <entry>2,350</entry>
+              <entry>2,490</entry>
+            </row>
+            <row>
+              <entry>15</entry>
+              <entry>mast lowered height</entry>
+              <entry>mm</entry>
+              <entry>2,970</entry>
+              <entry>2,970</entry>
+              <entry>3,170</entry>
+            </row>
+            <row>
+              <entry>16</entry>
+              <entry>mast extended height</entry>
+              <entry>mm</entry>
+              <entry>4,470</entry>
+              <entry>4,470</entry>
+              <entry>4,670</entry>
+            </row>
+            <row>
+              <entry>17</entry>
+              <entry>to top cabin(overhead guard)</entry>
+              <entry>mm</entry>
+              <entry>2,990(2,890)</entry>
+              <entry>2,990(2,890)</entry>
+              <entry>3,050(2,950)</entry>
+            </row>
+            <row>
+              <entry>18</entry>
+              <entry>seat height</entry>
+              <entry>mm</entry>
+              <entry>1,825</entry>
+              <entry>1,825</entry>
+              <entry>1,885</entry>
+            </row>
+            <row>
+              <entry>19</entry>
+              <entry>Minimum outside turning radius</entry>
+              <entry>mm</entry>
+              <entry>4,290</entry>
+              <entry>4,290</entry>
+              <entry>4,620</entry>
+            </row>
+            <row>
+              <entry>20</entry>
+              <entry>Load moment constant</entry>
+              <entry/>
+              <entry>mm</entry>
+              <entry>755</entry>
+              <entry>770</entry>
+              <entry>815</entry>
+            </row>
+            <row>
+              <entry>21</entry>
+              <entry>90。stacking aisle</entry>
+              <entry>add load length and clearance</entry>
+              <entry>mm</entry>
+              <entry>5,045</entry>
+              <entry>5,060</entry>
+              <entry>5,435</entry>
+            </row>
+            <row>
+              <entry>21 a</entry>
+              <entry>90。intersecting aisle</entry>
+              <entry/>
+              <entry>mm</entry>
+              <entry>4,090</entry>
+              <entry>4,090</entry>
+              <entry>4,380</entry>
+            </row>
+            <row>
+              <entry>
+                <b>PERFORMANCE</b>
+              </entry>
+            </row>
+            <row>
+              <entry>22</entry>
+              <entry morerows="4">Speeds</entry>
+              <entry>travel, loaded/unloaded</entry>
+              <entry>km/hr</entry>
+              <entry>34/37</entry>
+              <entry>33/36</entry>
+              <entry>26/30</entry>
+            </row>
+            <row>
+              <entry>23</entry>
+              <entry>lift, loaded/unloaded</entry>
+              <entry>mm/s</entry>
+              <entry>410/470</entry>
+              <entry>400/470</entry>
+              <entry>370/430</entry>
+            </row>
+            <row>
+              <entry morerows="2">24</entry>
+              <entry>lowering, loaded/unloaded</entry>
+              <entry>mm/s</entry>
+              <entry>430/410</entry>
+              <entry>430/410</entry>
+              <entry>430/410</entry>
+            </row>
+            <row>
+              <entry>tilt-front, loaded/unloaded</entry>
+              <entry>degree/s</entry>
+              <entry>3.0/3.0</entry>
+              <entry>3.0/3.0</entry>
+              <entry>3.0/3.0</entry>
+            </row>
+            <row>
+              <entry>tilt-back, loaded/unloaded</entry>
+              <entry>degree/s</entry>
+              <entry>2.5/2.5</entry>
+              <entry>2.5/2.5</entry>
+              <entry>2.5/2.5</entry>
+            </row>
+            <row>
+              <entry>25</entry>
+              <entry>Drawbar pull</entry>
+              <entry>at 1.6km/h, loaded</entry>
+              <entry>kg</entry>
+              <entry>9,430</entry>
+              <entry>9,350</entry>
+              <entry>10,590</entry>
+            </row>
+            <row>
+              <entry>26</entry>
+              <entry>Gradeability</entry>
+              <entry>at 1.6km/h, loaded</entry>
+              <entry>%</entry>
+              <entry>42</entry>
+              <entry>36</entry>
+              <entry>36</entry>
+            </row>
+            <row>
+              <entry>
+                <b>WEIGHT</b>
+              </entry>
+            </row>
+            <row>
+              <entry>27</entry>
+              <entry>Total weight</entry>
+              <entry>unloaded</entry>
+              <entry/>
+              <entry>kg</entry>
+              <entry>15,190</entry>
+              <entry>16,190</entry>
+              <entry>17,995</entry>
+            </row>
+            <row>
+              <entry>28</entry>
+              <entry morerows="1">Axle load</entry>
+              <entry>with loaded</entry>
+              <entry>front/rear</entry>
+              <entry>kg</entry>
+              <entry>21,985/3,205</entry>
+              <entry>24,960/3,230</entry>
+              <entry>28,630/3,365</entry>
+            </row>
+            <row>
+              <entry>29</entry>
+              <entry>without loaded</entry>
+              <entry>front/rear</entry>
+              <entry>kg</entry>
+              <entry>7,470/7,720</entry>
+              <entry>7,480/8,710</entry>
+              <entry>8,640/9,355</entry>
+            </row>
+            <row>
+              <entry>
+                <b>CHASSIS</b>
+              </entry>
+            </row>
+            <row>
+              <entry>30</entry>
+              <entry morerows="2">Tyres</entry>
+              <entry>number of front/rear</entry>
+              <entry/>
+              <entry>4/2</entry>
+              <entry>4/2</entry>
+              <entry>4/2</entry>
+            </row>
+            <row>
+              <entry>31</entry>
+              <entry>size, front single</entry>
+              <entry/>
+              <entry>10.00X20-16PR</entry>
+              <entry>10.00X20-16PR</entry>
+              <entry>10.00X20-18PR</entry>
+            </row>
+            <row>
+              <entry>32</entry>
+              <entry>size, rear</entry>
+              <entry/>
+              <entry>10.00x20-16PR</entry>
+              <entry>10.00x20-16PR</entry>
+              <entry>10.00x20-18PR</entry>
+            </row>
+            <row>
+              <entry>33</entry>
+              <entry>Wheelbase</entry>
+              <entry>mm</entry>
+              <entry>3,000</entry>
+              <entry>3,000</entry>
+              <entry>3,250</entry>
+            </row>
+            <row>
+              <entry>34</entry>
+              <entry>Tread</entry>
+              <entry>front/rear</entry>
+              <entry>mm</entry>
+              <entry>1,724/1,860</entry>
+              <entry>1,724/1,860</entry>
+              <entry>1,825/1,910</entry>
+            </row>
+            <row>
+              <entry>35</entry>
+              <entry morerows="1">Ground clearance</entry>
+              <entry>loaded, at the lowest point</entry>
+              <entry>mm</entry>
+              <entry>270</entry>
+              <entry>270</entry>
+              <entry>270</entry>
+            </row>
+            <row>
+              <entry>36</entry>
+              <entry>loaded, at centre of wheelbase</entry>
+              <entry>mm</entry>
+              <entry>360</entry>
+              <entry>360</entry>
+              <entry>370</entry>
+            </row>
+            <row>
+              <entry>37</entry>
+              <entry morerows="1">Brakes</entry>
+              <entry>Service brake</entry>
+              <entry/>
+              <entry>Foot/wet disc</entry>
+              <entry>Foot/wet disc</entry>
+              <entry>Foot/wet disc</entry>
+            </row>
+            <row>
+              <entry>38</entry>
+              <entry>Parking brake</entry>
+              <entry/>
+              <entry>Hand/Hydraulic</entry>
+              <entry>Hand/ Hydraulic</entry>
+              <entry>Hand/ Hydraulic</entry>
+            </row>
+            <row>
+              <entry>
+                <b>DRIVE</b>
+              </entry>
+            </row>
+            <row>
+              <entry>39</entry>
+              <entry>Battery</entry>
+              <entry>voltage/capacity</entry>
+              <entry>V-AH</entry>
+              <entry>24(12X2)-100</entry>
+              <entry>24(12X2)-100</entry>
+              <entry>24(12X2)-100</entry>
+            </row>
+            <row>
+              <entry>40</entry>
+              <entry morerows="3">Engine</entry>
+              <entry>manufacturer/model</entry>
+              <entry/>
+              <entry>DI/DL06P</entry>
+              <entry>DI/DL06P</entry>
+              <entry>DI/DL06P</entry>
+            </row>
+            <row>
+              <entry>41</entry>
+              <entry>rated output (at rpm) (DIN)</entry>
+              <entry>ps/rpm</entry>
+              <entry>175/2,100 (128.7/2,100)</entry>
+              <entry>175/2,100 (128.7/2,100)</entry>
+              <entry>175/2,100 (128.7/2,100)</entry>
+            </row>
+            <row>
+              <entry>42</entry>
+              <entry>max. torque</entry>
+              <entry>kg·m/rpm</entry>
+              <entry>74/1,400</entry>
+              <entry>74/1,400</entry>
+              <entry>74/1,400</entry>
+            </row>
+            <row>
+              <entry>43</entry>
+              <entry>cycle/cylinders/displacement</entry>
+              <entry>cc</entry>
+              <entry>4/6/5,890</entry>
+              <entry>4/6/5,890</entry>
+              <entry>4/6/5,890</entry>
+            </row>
+            <row>
+              <entry>44</entry>
+              <entry morerows="1">Gear shift</entry>
+              <entry>type</entry>
+              <entry/>
+              <entry>Autoshift</entry>
+              <entry>Autoshift</entry>
+              <entry>Autoshift</entry>
+            </row>
+            <row>
+              <entry>45</entry>
+              <entry>no. speeds, forward/reverse</entry>
+              <entry/>
+              <entry>3/3</entry>
+              <entry>3/3</entry>
+              <entry>3/3</entry>
+            </row>
+            <row>
+              <entry>46</entry>
+              <entry>Operating pressure</entry>
+              <entry>system/attachment</entry>
+              <entry>bar</entry>
+              <entry>190/160</entry>
+              <entry>210/160</entry>
+              <entry>210/160</entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table><table frame="all" colsep="1" rowsep="1">
+        <tgroup cols="3">
+          <colspec colname="col1" colnum="1" colwidth="1*"/>
+          <colspec colname="col2" colnum="2" colwidth="1*"/>
+          <colspec colname="col3" colnum="3" colwidth="1*"/>
+          <tbody>
+            <row>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry>
+                <b>CD160S-7(TIERⅣ)</b>
+              </entry>
+              <entry>1</entry>
+              <entry/>
+            </row>
+            <row>
+              <entry>16,000</entry>
+              <entry>2</entry>
+              <entry/>
+            </row>
+            <row>
+              <entry>600</entry>
+              <entry>3</entry>
+              <entry/>
+            </row>
+            <row>
+              <entry>diesel</entry>
+              <entry>4</entry>
+              <entry/>
+            </row>
+            <row>
+              <entry>driver-seated</entry>
+              <entry>5</entry>
+              <entry/>
+            </row>
+            <row>
+              <entry>Pneumatic</entry>
+              <entry>6</entry>
+              <entry/>
+            </row>
+            <row>
+              <entry>2x2/2</entry>
+              <entry>7</entry>
+              <entry/>
+            </row>
+            <row>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry>3,000</entry>
+              <entry>8</entry>
+              <entry/>
+            </row>
+            <row>
+              <entry>0</entry>
+              <entry>9</entry>
+              <entry/>
+            </row>
+            <row>
+              <entry>85x200x1,350</entry>
+              <entry>10</entry>
+              <entry/>
+            </row>
+            <row>
+              <entry>470x2,290</entry>
+              <entry>11</entry>
+              <entry/>
+            </row>
+            <row>
+              <entry>15/12</entry>
+              <entry>12</entry>
+              <entry/>
+            </row>
+            <row>
+              <entry>4,830</entry>
+              <entry>13</entry>
+              <entry/>
+            </row>
+            <row>
+              <entry>2,490</entry>
+              <entry>14</entry>
+              <entry/>
+            </row>
+            <row>
+              <entry>3,170</entry>
+              <entry>15</entry>
+              <entry/>
+            </row>
+            <row>
+              <entry>4,670</entry>
+              <entry>16</entry>
+              <entry/>
+            </row>
+            <row>
+              <entry>3,050(2,950)</entry>
+              <entry>17</entry>
+              <entry/>
+            </row>
+            <row>
+              <entry>1,885</entry>
+              <entry>18</entry>
+              <entry/>
+            </row>
+            <row>
+              <entry>4,620</entry>
+              <entry>19</entry>
+              <entry/>
+            </row>
+            <row>
+              <entry>815</entry>
+              <entry>20</entry>
+              <entry/>
+            </row>
+            <row>
+              <entry>5,435</entry>
+              <entry>21</entry>
+              <entry/>
+            </row>
+            <row>
+              <entry>4,380</entry>
+              <entry>21a</entry>
+              <entry/>
+            </row>
+            <row>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry>25/29</entry>
+              <entry>22</entry>
+              <entry/>
+            </row>
+            <row>
+              <entry>360/430</entry>
+              <entry>23</entry>
+              <entry/>
+            </row>
+            <row>
+              <entry>430/410</entry>
+              <entry>24</entry>
+              <entry/>
+            </row>
+            <row>
+              <entry>3.0/3.0</entry>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry>2.5/2.5</entry>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry>11,420</entry>
+              <entry>25</entry>
+              <entry/>
+            </row>
+            <row>
+              <entry>31</entry>
+              <entry>26</entry>
+              <entry/>
+            </row>
+            <row>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry>18,995</entry>
+              <entry>29</entry>
+              <entry/>
+            </row>
+            <row>
+              <entry>31,525/3,470</entry>
+              <entry>30</entry>
+              <entry/>
+            </row>
+            <row>
+              <entry>8,665/10,330</entry>
+              <entry>31</entry>
+              <entry/>
+            </row>
+            <row>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry>4/2</entry>
+              <entry>32</entry>
+              <entry/>
+            </row>
+            <row>
+              <entry>10.00X20-18PR</entry>
+              <entry>33</entry>
+              <entry/>
+            </row>
+            <row>
+              <entry>10.00x20-18PR</entry>
+              <entry>34</entry>
+              <entry/>
+            </row>
+            <row>
+              <entry>3,250</entry>
+              <entry>35</entry>
+              <entry/>
+            </row>
+            <row>
+              <entry>1,825/1,910</entry>
+              <entry>36</entry>
+              <entry/>
+            </row>
+            <row>
+              <entry>270</entry>
+              <entry>37</entry>
+              <entry/>
+            </row>
+            <row>
+              <entry>370</entry>
+              <entry>38</entry>
+              <entry/>
+            </row>
+            <row>
+              <entry>Foot/wet disc</entry>
+              <entry>39</entry>
+              <entry/>
+            </row>
+            <row>
+              <entry>Hand/Hydraulic</entry>
+              <entry>40</entry>
+              <entry/>
+            </row>
+            <row>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry>24(12X2)-100</entry>
+              <entry>41</entry>
+              <entry/>
+            </row>
+            <row>
+              <entry>DIC/DL06P</entry>
+              <entry>42</entry>
+              <entry/>
+            </row>
+            <row>
+              <entry>175/2,100 (128.7/2,100)</entry>
+              <entry>43</entry>
+              <entry/>
+            </row>
+            <row>
+              <entry>74/1,400</entry>
+              <entry>44</entry>
+              <entry/>
+            </row>
+            <row>
+              <entry>4/6/8,701</entry>
+              <entry>45</entry>
+              <entry/>
+            </row>
+            <row>
+              <entry>Autoshift</entry>
+              <entry>46</entry>
+              <entry/>
+            </row>
+            <row>
+              <entry>3/3</entry>
+              <entry>47</entry>
+              <entry/>
+            </row>
+            <row>
+              <entry>225/160</entry>
+              <entry>48</entry>
+              <entry/>
+            </row>
+          </tbody>
+        </tgroup>
+      </table><p>
+        <fig>
+          <image href="../media/image90.png"/>
+        </fig>
+      </p>
+  </context></taskbody>
+</task>

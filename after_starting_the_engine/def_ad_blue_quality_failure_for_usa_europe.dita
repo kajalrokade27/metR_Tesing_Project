@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="_Numd21e29932" xml:lang="en-us">
+  <title>DEF/Ad-Blue Quality Failure for USA / Europe</title>
+  <shortdesc>If you use a poor quality DEF/Ad-Blue type, engine power will decrease in order to</shortdesc>
+  <prolog>
+    <metadata>
+      <keywords>
+        <keyword>Blue</keyword>
+        <keyword>quality</keyword>
+        <keyword>Quality</keyword>
+        <keyword>Failure</keyword>
+        <keyword>Europe</keyword>
+        <keyword>system</keyword>
+        <indexterm>Blue</indexterm>
+        <indexterm>quality</indexterm>
+        <indexterm>Quality</indexterm>
+      </keywords>
+      <prodinfo>
+        <prodname></prodname>
+      </prodinfo>
+    </metadata>
+  </prolog>
+  <conbody>
+    <p>If you use a poor quality DEF/Ad-Blue type, engine power will decrease in order to prevent the SCR system from functional degradation and damage. Continued use of poor quality DEF/Ad-Blue may result in high replacement cost due to damage caused to the SCR system.</p>
+    <p>As shown in the table below, for your information, we provide correlation of DEF/Ad-Blue quality inducement strategy and LCD display.</p>
+  </conbody>
+</concept>

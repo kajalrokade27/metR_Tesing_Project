@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="_Numd21e35286" xml:lang="en-us">
+  <title>Safety instructions for attachments when transporting suspended load</title>
+  <shortdesc>Adapt the travel speed to the load, less than walking pace.</shortdesc>
+  <prolog>
+    <metadata>
+      <keywords>
+        <keyword>Safety</keyword>
+        <keyword>instructions</keyword>
+        <keyword>attachments</keyword>
+        <keyword>transporting</keyword>
+        <keyword>suspended</keyword>
+        <keyword>loads</keyword>
+        <indexterm>Safety</indexterm>
+        <indexterm>instructions</indexterm>
+        <indexterm>attachments</indexterm>
+      </keywords>
+      <prodinfo>
+        <prodname></prodname>
+      </prodinfo>
+    </metadata>
+  </prolog>
+  <conbody><steps-informal>
+      <info>
+        <fig>
+          <image href="../media/image804.png"/>
+        </fig>
+      </info>
+      <note type="warning">Swinging/wide loads and a reduced residual capacity can result in accidents.</note>
+      <p>Adapt the travel speed to the load, less than walking pace.</p>
+      <p>Secure swinging loads for example with lifting slings.</p>
+      <p>Reduce the residual capacity and have it certified by an expert.</p>
+      <p>Failure to follow the operation precautions may cause early damage to parts.</p>
+    </steps-informal></conbody>
+</concept>
