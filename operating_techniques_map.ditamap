@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map id="operating_techniques_map" xml:lang="en-us">
+  <title>Operating Techniques</title>
+  <topicref href="operating_techniques/operating_techniques.dita" navtitle="Operating Techniques" />
+  <topicref href="operating_techniques/inching_into_loads.dita" navtitle="Inching into Loads" />
+  <topicref href="operating_techniques/lifting_the_load.dita" navtitle="Lifting the Load" />
+  <topicref href="operating_techniques/traveling_with_the_load.dita" navtitle="Traveling with the Load" />
+  <topicref href="operating_techniques/unloading.dita" navtitle="Unloading" />
+  <topicref href="operating_techniques/turning.dita" navtitle="Turning" />
+  <topicref href="operating_techniques/lifting_drums_or_round_objects.dita" navtitle="Lifting Drums or Round Objects" />
+  <topicref href="operating_techniques/operating_in_hot_weather.dita" navtitle="Operating in Hot Weather" />
+  <topicref href="operating_techniques/safety_instructions_for_attachments_when_transporting_suspended_load.dita" navtitle="Safety instructions for attachments when transporting suspended load" />
+  <topicref href="operating_techniques/safety_instructions_for_attachments_when_transporting_wide_loads.dita" navtitle="Safety instructions for attachments when transporting wide loads" chunk="to-content">
+    <topicref href="operating_techniques/load_lateral_centre_of_gravity.dita" navtitle="Load lateral centre of gravity" />
+    <topicref href="operating_techniques/load_stability.dita" navtitle="Load Stability" />
+    <topicref href="operating_techniques/load_swing.dita" navtitle="Load Swing" />
+    <topicref href="operating_techniques/load_shift.dita" navtitle="Load Shift" />
+    <topicref href="operating_techniques/visibility.dita" navtitle="Visibility" />
+  </topicref>
+</map>

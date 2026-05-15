@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map id="safety_map" xml:lang="en-us">
+  <title>Safety</title>
+  <topicref href="safety/safety.dita" navtitle="Safety" />
+  <topicref href="safety/warning_signs_and_labels.dita" navtitle="Warning Signs and Labels" />
+  <topicref href="safety/training_required_to_operate_or_service.dita" navtitle="Training Required To Operate or Service" />
+  <topicref href="safety/general_warnings_to_operator.dita" navtitle="General Warnings to Operator" />
+  <topicref href="safety/pressure_warning.dita" navtitle="Pressure Warning" />
+  <topicref href="safety/hand_placement_warning.dita" navtitle="Hand Placement Warning" />
+  <topicref href="safety/no_riders_warning.dita" navtitle="No Riders Warning" />
+  <topicref href="safety/moving_fan_warning.dita" navtitle="Moving Fan Warning" />
+  <topicref href="safety/tilting_cabin_operation_warning.dita" navtitle="Tilting Cabin Operation Warning" />
+  <topicref href="safety/tyre_warning.dita" navtitle="Tyre Warning" />
+  <topicref href="safety/general_hazard_information.dita" navtitle="General Hazard Information" />
+  <topicref href="safety/operation_information.dita" navtitle="Operation Information" chunk="to-content">
+    <topicref href="safety/mounting_and_dismounting.dita" navtitle="Mounting and Dismounting" />
+    <topicref href="safety/before_starting_the_lift_truck.dita" navtitle="Before Starting the Lift Truck" />
+    <topicref href="safety/starting_the_lift_truck.dita" navtitle="Starting the Lift Truck" />
+    <topicref href="safety/before_operating_the_lift_truck.dita" navtitle="Before Operating the Lift Truck" />
+    <topicref href="safety/operating_the_lift_truck.dita" navtitle="Operating the Lift Truck" />
+    <topicref href="safety/loading_or_unloading_trucks_trailers.dita" navtitle="Loading or Unloading Trucks/Trailers" />
+    <topicref href="safety/lift_truck_parking.dita" navtitle="Lift Truck Parking" />
+    <topicref href="safety/maintenance_information.dita" navtitle="Maintenance Information" />
+    <topicref href="safety/fluid_penetration.dita" navtitle="Fluid Penetration" />
+    <topicref href="safety/crushing_or_cutting_prevention.dita" navtitle="Crushing or Cutting Prevention" chunk="to-content">
+      <topicref href="safety/falling_objects_protective_structure_fops.dita" navtitle="Falling Objects Protective Structure (FOPS)" />
+    </topicref>
+  </topicref>
+  <topicref href="safety/burn_prevention.dita" navtitle="Burn Prevention" chunk="to-content">
+    <topicref href="safety/coolant.dita" navtitle="Coolant" />
+    <topicref href="safety/oils.dita" navtitle="Oils" />
+    <topicref href="safety/batteries.dita" navtitle="Batteries" />
+  </topicref>
+  <topicref href="safety/fire_or_explosion_prevention.dita" navtitle="Fire or Explosion Prevention" chunk="to-content">
+    <topicref href="safety/fire_extinguisher.dita" navtitle="Fire Extinguisher" />
+    <topicref href="safety/lpg.dita" navtitle="LPG" />
+    <topicref href="safety/lines_tubes_and_hoses.dita" navtitle="Lines, Tubes and Hoses" />
+    <topicref href="safety/tyre_information.dita" navtitle="Tyre Information" />
+  </topicref>
+  <topicref href="safety/operator_restraint_system.dita" navtitle="Operator Restraint System" chunk="to-content">
+    <topicref href="safety/warning_signs_and_labels_2.dita" navtitle="Warning Signs and Labels" />
+    <topicref href="safety/seat_adjustment.dita" navtitle="Seat Adjustment" />
+    <topicref href="safety/seat_belt.dita" navtitle="Seat Belt" chunk="to-content">
+      <topicref href="safety/inspection.dita" navtitle="Inspection" />
+      <topicref href="safety/fasten_the_seat_belt.dita" navtitle="Fasten the Seat Belt" />
+      <topicref href="safety/release_the_seat_belt.dita" navtitle="Release the Seat Belt" />
+    </topicref>
+  </topicref>
+  <topicref href="safety/avoiding_lift_truck_tipover.dita" navtitle="Avoiding Lift Truck Tipover" chunk="to-content">
+    <topicref href="safety/lift_truck_stability.dita" navtitle="Lift Truck Stability" />
+    <topicref href="safety/centre_of_gravity_cg.dita" navtitle="Centre of Gravity (CG)" />
+    <topicref href="safety/stability_and_centre_of_gravity.dita" navtitle="Stability and Centre of Gravity" />
+    <topicref href="safety/lift_truck_stability_base.dita" navtitle="Lift Truck Stability Base" chunk="to-content">
+      <topicref href="safety/capacity_load_weight_and_load_centre.dita" navtitle="Capacity Load (Weight and Load Centre)" />
+    </topicref>
+    <topicref href="safety/emergency_lowering_guide.dita" navtitle="Emergency Lowering Guide" />
+    <topicref href="safety/safety_rules.dita" navtitle="Safety Rules" />
+    <topicref href="safety/how_to_survive_in_a_tipover.dita" navtitle="How to Survive in a Tipover" />
+  </topicref>
+</map>

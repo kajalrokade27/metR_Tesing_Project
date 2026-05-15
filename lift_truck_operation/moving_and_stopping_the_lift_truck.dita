@@ -1,0 +1,87 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="_Numd21e33805" xml:lang="en-us">
+  <title>Moving and Stopping the Lift Truck</title>
+  <shortdesc>Typical Example</shortdesc>
+  <prolog>
+    <metadata>
+      <keywords>
+        <keyword>truck</keyword>
+        <keyword>speed</keyword>
+        <keyword>travel</keyword>
+        <keyword>direction</keyword>
+        <keyword>pedal</keyword>
+        <keyword>brake</keyword>
+        <indexterm>truck</indexterm>
+        <indexterm>speed</indexterm>
+        <indexterm>travel</indexterm>
+      </keywords>
+      <prodinfo>
+        <prodname></prodname>
+      </prodinfo>
+    </metadata>
+  </prolog>
+  <taskbody>
+    <steps id="steps_062810230">
+      <step>
+        <cmd>Start the engine. See item “Starting the Engine”</cmd>
+      </step>
+      <step>
+        <cmd>Release the parking brake button</cmd>
+        <info>
+          <fig>
+            <image href="../media/image783.png"/>
+          </fig>
+          <p>Typical Example</p>
+        </info>
+      </step>
+      <step>
+        <cmd>Select the direction of travel by PUSHING the directional lever FORWARD for forward direction or PULLING the lever BACK for reverse direction.</cmd>
+        <info>
+          <fig>
+            <image href="../media/image756(1).png"/>
+          </fig>
+          <p>Typical Example</p>
+          <note type="note">From a stooped position, move the lift truck in first (low) range ONLY.</note>
+          <note type="warning">A lift truck with the engine running but without an operator can move slowly (creep) if the transmission is left engaged.</note>
+          <p>This could result in personal injury.</p>
+          <p>Always place the transmission control levers in the NEUTRAL (centre) position and apply the parking brake before dismounting from the lift truck.</p>
+        </info>
+      </step>
+      <step>
+        <cmd>RELEASE the service foot brake.</cmd>
+      </step>
+      <step>
+        <cmd>PUSH DOWN on the accelerator pedal to obtain the desired travel speed. RELEASE the pedal to decrease travel speed.</cmd>
+      </step>
+      <step>
+        <cmd>Transmission speed changes to second and third speed range can be made on the go, without deceleration or braking. When faster travel speed is needed.</cmd>
+        <info>
+          <note type="notice">Come to a complete stop before changing direction of travel.</note>
+          <note type="warning">Sudden reversal of a loaded lift truck traveling forward can cause the load to fail or the lift truck to tip over.</note>
+          <p>Stop the loaded lift truck completely, before shifting to reverse.</p>
+          <p>Failure to comply could result in personal injury.</p>
+          <note type="note">Where conditions permit, directional changes can be made under full power at speeds up to 8 km/h (5 mph). A speed of 8 km/h (5 mph) is a fast walk. Directional shift changes at speeds above 8 km/h (5 mph) are considered abusive. Bring the lift truck to a complete stop where load stability or other factors prevent safe operation under full power shifts.</note>
+        </info>
+      </step>
+      <step>
+        <cmd>To change the lift truck direction of travel, RELEASE the accelerator pedal.</cmd>
+      </step>
+      <step>
+        <cmd>PUSH DOWN on the service foot brake pedal to bring the lift truck to a complete stop.</cmd>
+      </step>
+      <step>
+        <cmd>SHIFT the directional lever to the desired direction of travel. Rotate the speed selector lever to first (low) speed range, if it is not already in this position.</cmd>
+      </step>
+      <step>
+        <cmd>RELEASE the service foot brake. PUSH DOWN on the accelerator pedal to obtain the desired travel speed.</cmd>
+      </step>
+      <step>
+        <cmd>To stop the lift truck when traveling in either direction, RELEASE accelerator pedal.</cmd>
+      </step>
+      <step>
+        <cmd>PUSH DOWN on service foot brake pedal and bring the lift truck to a smooth stop.</cmd>
+      </step>
+    </steps>
+  </taskbody>
+</task>

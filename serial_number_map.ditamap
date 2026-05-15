@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map id="serial_number_map" xml:lang="en-us">
+  <title>Serial Number</title>
+  <topicref href="serial_number/serial_number.dita" navtitle="Serial Number" />
+  <topicref href="serial_number/serial_number_locations.dita" navtitle="Serial Number Locations" />
+</map>

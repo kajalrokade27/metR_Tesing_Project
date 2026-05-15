@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE bookmap PUBLIC "-//OASIS//DTD DITA BookMap//EN" "bookmap.dtd">
+<bookmap id="m_cd100120140160s_7_xsb2386e07na_t_4_omm_final_prep_post_cleanup" xml:lang="en-us">
+  <booktitle>
+    <mainbooktitle>m CD100120140160S-7 XSB2386E07NA T-4 OMM Final prep-POST CLEANUP</mainbooktitle>
+  </booktitle>
+  <bookmeta>
+    <critdates>
+      <created date="2026-03-24" />
+    </critdates>
+  </bookmeta>
+  <chapter navtitle="Important Safety Information">
+    <mapref href="important_safety_information_map.ditamap" format="ditamap" />
+  </chapter>
+  <chapter navtitle="Safety">
+    <mapref href="safety_map.ditamap" format="ditamap" />
+  </chapter>
+  <chapter navtitle="Specifications">
+    <mapref href="specifications_map.ditamap" format="ditamap" />
+  </chapter>
+  <chapter navtitle="Capacity Chart">
+    <mapref href="capacity_chart_map.ditamap" format="ditamap" />
+  </chapter>
+  <chapter navtitle="Noise and Vibration">
+    <mapref href="noise_and_vibration_map.ditamap" format="ditamap" />
+  </chapter>
+  <chapter navtitle="Serial Number">
+    <mapref href="serial_number_map.ditamap" format="ditamap" />
+  </chapter>
+  <chapter navtitle="Operator’s Warning and Identification Plate">
+    <mapref href="operator_s_warning_and_identification_plate_map.ditamap" format="ditamap" />
+  </chapter>
+  <chapter navtitle="Operator’s Station and Monitoring Systems">
+    <mapref href="operator_s_station_and_monitoring_systems_map.ditamap" format="ditamap" />
+  </chapter>
+  <chapter navtitle="Seat Switch System">
+    <mapref href="seat_switch_system_map.ditamap" format="ditamap" />
+  </chapter>
+  <chapter navtitle="Lift Truck Controls">
+    <mapref href="lift_truck_controls_map.ditamap" format="ditamap" />
+  </chapter>
+  <chapter navtitle="Before Starting the Engine">
+    <mapref href="before_starting_the_engine_map.ditamap" format="ditamap" />
+  </chapter>
+  <chapter navtitle="Starting the Engine">
+    <mapref href="starting_the_engine_map.ditamap" format="ditamap" />
+  </chapter>
+  <chapter navtitle="After Starting the Engine">
+    <mapref href="after_starting_the_engine_map.ditamap" format="ditamap" />
+  </chapter>
+  <chapter navtitle="Lift Truck Operation">
+    <mapref href="lift_truck_operation_map.ditamap" format="ditamap" />
+  </chapter>
+  <chapter navtitle="Operating Techniques">
+    <mapref href="operating_techniques_map.ditamap" format="ditamap" />
+  </chapter>
+</bookmap>

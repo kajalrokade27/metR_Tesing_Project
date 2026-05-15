@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map id="operator_s_warning_and_identification_plate_map" xml:lang="en-us">
+  <title>Operator’s Warning and Identification Plate</title>
+  <topicref href="operator_s_warning_and_identification_plate/operator_s_warning_and_identification_plate.dita" navtitle="Operator’s Warning and Identification Plate" />
+  <topicref href="operator_s_warning_and_identification_plate/operator_s_warning_plate.dita" navtitle="Operator's Warning Plate" />
+  <topicref href="operator_s_warning_and_identification_plate/identification_lift_capacity_and_attachment_plate.dita" navtitle="Identification, Lift Capacity and Attachment Plate" />
+  <topicref href="operator_s_warning_and_identification_plate/lift_truck_capacity_rating.dita" navtitle="Lift Truck Capacity Rating" chunk="to-content">
+    <topicref href="operator_s_warning_and_identification_plate/mast_abbreviations.dita" navtitle="Mast Abbreviations" chunk="to-content">
+      <topicref href="operator_s_warning_and_identification_plate/attachment_abbreviations_includes_special_forks.dita" navtitle="Attachment Abbreviations (includes Special Forks)" />
+    </topicref>
+  </topicref>
+</map>

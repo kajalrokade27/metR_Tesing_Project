@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map id="lift_truck_controls_map" xml:lang="en-us">
+  <title>Lift Truck Controls</title>
+  <topicref href="lift_truck_controls/lift_truck_controls.dita" navtitle="Lift Truck Controls" />
+  <topicref href="lift_truck_controls/direction_control_lever.dita" navtitle="Direction Control Lever" chunk="to-content">
+    <topicref href="lift_truck_controls/forward_reverse_lever.dita" navtitle="Forward - Reverse Lever" />
+    <topicref href="lift_truck_controls/speed_selection.dita" navtitle="Speed Selection" />
+    <topicref href="lift_truck_controls/neutral_lever_lock.dita" navtitle="Neutral Lever Lock" />
+  </topicref>
+  <topicref href="lift_truck_controls/transmission_display.dita" navtitle="Transmission Display" />
+  <topicref href="lift_truck_controls/scr_cleaning_desox_switch.dita" navtitle="SCR Cleaning - DeSOx Switch" />
+  <topicref href="lift_truck_controls/cabin_tilting.dita" navtitle="Cabin Tilting" chunk="to-content">
+    <topicref href="lift_truck_controls/location_of_power_pack.dita" navtitle="Location of power pack" />
+    <topicref href="lift_truck_controls/how_to_operate_the_power_pack_for_manual_tilting.dita" navtitle="How to operate the power pack for manual tilting" />
+    <topicref href="lift_truck_controls/how_to_fill_the_hydraulic_oil.dita" navtitle="How to fill the hydraulic oil" />
+    <topicref href="lift_truck_controls/refueling.dita" navtitle="Refueling" />
+    <topicref href="lift_truck_controls/def_ad_blue_replenishment.dita" navtitle="DEF/Ad-Blue Replenishment" />
+  </topicref>
+</map>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map id="seat_switch_system_map" xml:lang="en-us">
+  <title>Seat Switch System</title>
+  <topicref href="seat_switch_system/seat_switch_system.dita" navtitle="Seat Switch System" />
+  <topicref href="seat_switch_system/steering_column_tilting_angle_adjustment.dita" navtitle="Steering Column Tilting Angle Adjustment" chunk="to-content">
+    <topicref href="seat_switch_system/tow_eye.dita" navtitle="Tow Eye" />
+    <topicref href="seat_switch_system/fuse_box.dita" navtitle="Fuse Box" />
+    <topicref href="seat_switch_system/circuit_breaker.dita" navtitle="Circuit Breaker" />
+  </topicref>
+  <topicref href="seat_switch_system/seat.dita" navtitle="Seat" chunk="to-content">
+    <topicref href="seat_switch_system/seat_adjustment_2.dita" navtitle="Seat Adjustment" />
+    <topicref href="seat_switch_system/air_suspension_seat_option_grammer.dita" navtitle="AIR SUSPENSION SEAT(Option - GRAMMER)" />
+  </topicref>
+</map>

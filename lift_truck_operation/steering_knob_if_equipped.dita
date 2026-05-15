@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="_Numd21e34154" xml:lang="en-us">
+  <title>Steering Knob (If Equipped)</title>
+  <shortdesc>There is a steering knob available for inclusion with new truck deliveries. This option is</shortdesc>
+  <prolog>
+    <metadata>
+      <keywords>
+        <keyword>steering</keyword>
+        <keyword>truck</keyword>
+        <keyword>wheel</keyword>
+        <keyword>Steering</keyword>
+        <keyword>Knob</keyword>
+        <keyword>Equipped</keyword>
+        <indexterm>steering</indexterm>
+        <indexterm>truck</indexterm>
+        <indexterm>wheel</indexterm>
+      </keywords>
+      <prodinfo>
+        <prodname></prodname>
+      </prodinfo>
+    </metadata>
+  </prolog>
+  <conbody>
+    <p>There is a steering knob available for inclusion with new truck deliveries. This option is solely intended for slow travel situations when two handed steering is not possible due to hydraulic operations.</p>
+    <p>
+      <fig>
+        <image href="../media/image797.png"/>
+      </fig>
+    </p>
+    <note type="warning">Loss of stability can occur when a lift truck steering wheel is rotated quickly while the truck is in motion. A steering knob will assist with easy rotation of the steering wheel, but if a steering knob is improperly used (e.g., rotating the steering wheel quickly while the truck is in motion), this can contribute to truck instability and a tip over. A steering knob is intended for slow travel maneuverability ONLY.</note>
+  </conbody>
+</concept>

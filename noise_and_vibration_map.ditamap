@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map id="noise_and_vibration_map" xml:lang="en-us">
+  <title>Noise and Vibration</title>
+  <topicref href="noise_and_vibration/noise_and_vibration.dita" navtitle="Noise and Vibration" />
+  <topicref href="noise_and_vibration/noise.dita" navtitle="Noise" />
+  <topicref href="noise_and_vibration/vibration_weighted_overall_value.dita" navtitle="Vibration (weighted overall value)" />
+</map>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map id="lift_truck_operation_map" xml:lang="en-us">
+  <title>Lift Truck Operation</title>
+  <topicref href="lift_truck_operation/lift_truck_operation.dita" navtitle="Lift Truck Operation" />
+  <topicref href="lift_truck_operation/moving_and_stopping_the_lift_truck.dita" navtitle="Moving and Stopping the Lift Truck" />
+  <topicref href="lift_truck_operation/inching.dita" navtitle="Inching" />
+  <topicref href="lift_truck_operation/steering_knob_if_equipped.dita" navtitle="Steering Knob (If Equipped)" />
+</map>
